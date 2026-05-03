@@ -1,3 +1,10 @@
 {
-  "allow_all_domains": true,
+  "allow_all_domains": false,
+  "allowed_domains": [
+    "get.perfecttv.net",
+    "wcc.cam",
+    "raw.githubusercontent.com",
+    "githubusercontent.com",
+    "utako.moe"
+  ]
 }
