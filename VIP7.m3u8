@@ -3111,6 +3111,8 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&
 #KODIPROP:inputstream.adaptive.license_key=41e6d3b277a1223cf9c0923344b8b210:64f54e47ee4ac977cbf66360d125df2b
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=sbdbE16
 
+https://raw.githubusercontent.com/MrKagesan/PTV/refs/heads/main/ptv_all_allowed_domains.json
+
 ########## Dia Bukan Syurga ##############
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series | Dia Bukan Syurga", Dia Bukan Syurga S01 E01
