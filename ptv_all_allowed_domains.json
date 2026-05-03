@@ -1,7 +1,3 @@
 {
   "allow_all_domains": true,
-  "allowed_domains": [
-    "get.perfecttv.net",
-    "wcc.cam"
-  ]
 }
