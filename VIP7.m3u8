@@ -1164,7 +1164,9 @@ https://get.perfecttv.net/dash2.mpd?username=vip_level7&password=vip_level7&chan
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 https://get.perfecttv.net/dash2.mpd?username=vip_level7&password=vip_level7&channel=premiersport
 
-
+#EXTM3U
+#EXTINF:-1, Playlist 2 Content
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25
 
 
 ### Isteri Rahsia Ungku Jabbar ###
