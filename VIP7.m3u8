@@ -1164,9 +1164,6 @@ https://get.perfecttv.net/dash2.mpd?username=vip_level7&password=vip_level7&chan
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 https://get.perfecttv.net/dash2.mpd?username=vip_level7&password=vip_level7&channel=premiersport
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctvw.jpg" group-title="INDONESIA TV",MNCTV WORLD
-##https://mimipipi22.github.io/logo/offline.m3u8
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=1919420&extension=ts&play_token=JRjuGlw0qo
 
 
 ### Isteri Rahsia Ungku Jabbar ###
