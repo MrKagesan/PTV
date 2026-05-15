@@ -884,6 +884,9 @@ https://get.perfecttv.net/dash2.mpd?username=vip_level7&password=vip_level7&chan
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 https://get.perfecttv.net/dash2.mpd?username=vip_level7&password=vip_level7&channel=arenabola1
 
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/arenabola.png" group-title="SPORTS FHD",803 Arena Bola E
+##KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
+https://load.perfecttv.net/rwt.m3u8?username=vip_level7&password=vip_level7&channel=bola1
 
 #EXTINF:-1 tvg-id="ArenaBola" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/arenabola.png" group-title="SPORTS FHD",803 Arena Bola HD
 ##KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
@@ -1154,6 +1157,57 @@ https://get.perfecttv.net/dash2.mpd?username=vip_level7&password=vip_level7&chan
 
 
 
+#### Dendam Seorang Mentua ####
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E01
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=d6ae76abab7b1d38bdd81e77f2987610:9a1b56aebdc6ee99227507ca2da51411
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE01
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E02
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7d87f276672fbe94c3615ad6dcc0b010:f1a2f4e6077ea8969f488cf3e47a70ea
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE02
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E03
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=4c48936beeac6fa69e27ea37e8636a10:aabdb22516d10c28a98a89bdcac216bd
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE03
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E04
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=66bf564c5ccec8fbbc31258a646c1810:15da7c13e3ba1981f87ea301c90ee2c8
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE04
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E05
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f453e571cc8e910ca7645cbf30baf610:c2fedd8f640afb1f5107f5e8e2505e77
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE05
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E06
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b1416a691c10ac9d402367e47743db10:cd596e957bb27f7d20537349d83b4c16
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE06
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E07
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=c449c7cccb127ca9a0a69b06280e7310:0506d242a3a7a0805ca7d3e39e1c0b7c
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE07
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E08
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=fbc66dc8d14b7cdcb1feb015d66e2110:7ef95e4878deac3cf9e1e88309eab8b2
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE08
 
 ### Isteri Rahsia Ungku Jabbar ###
 
@@ -1227,6 +1281,24 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=728ac2eec49c8a10b704730bdfb4ee10:70716ad6c916ccc4b94c8dc08f47256c
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=IRUJABBARE12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E13
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2da97d5c19de601a6b262d8fd5c2c210:6a8b9b8dee4c565fcff6d5f5445d9ba2
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=IRUJABBARE13
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E14
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=338577da1f0be22f14a6eb086c9e5f10:719e5646ea24060748d811506ca2c03f
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=IRUJABBARE14
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E15
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=8d162d5876cacb1fee0f21f4e4713110:28c3f9744f5d186392e0f19a4c1d1c03
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=IRUJABBARE15
 
 
 
@@ -6654,6 +6726,11 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&
 #KODIPROP:inputstream.adaptive.license_key=1c7a67b242a5848f2b30081ae6fc0c10:852c4497257b49b188396bce709a3101
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=TTMManagerE03
 
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Astro Variety | Talk To My Manager" group-logo="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWODL_series_IVP_LAND_586x330_917AD_2026417_17230.jpg", E04
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55cf64d0b484aca6394497234c8e9810:5b267adfbe7f7bd82d0fd06da1c546a2
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=TTMManagerE04
 
 ########### Dapur Bapak Bapak #############
 
@@ -8359,6 +8436,27 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_level7&password=vip_level7&v
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6599922
 https://get.perfecttv.net/get_tonton.mpd?username=vip_level7&password=vip_level7&episode_id=6599922
+#EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v300/imageHelper.php?id=6599920%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● TONTON SERIES | Cahaya Anak Lorong", S01E02 Cahaya Anak Lorong
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6600029
+https://get.perfecttv.net/get_tonton.mpd?username=vip_level7&password=vip_level7&episode_id=6600029
+#EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v300/imageHelper.php?id=6599920%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● TONTON SERIES | Cahaya Anak Lorong", S01E03 Cahaya Anak Lorong
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6600030
+https://get.perfecttv.net/get_tonton.mpd?username=vip_level7&password=vip_level7&episode_id=6600030
+#EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v300/imageHelper.php?id=6599920%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● TONTON SERIES | Cahaya Anak Lorong", S01E04 Cahaya Anak Lorong
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6600136
+https://get.perfecttv.net/get_tonton.mpd?username=vip_level7&password=vip_level7&episode_id=6600136
+#EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v300/imageHelper.php?id=6599920%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● TONTON SERIES | Cahaya Anak Lorong", S01E05 Cahaya Anak Lorong
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6600271
+https://get.perfecttv.net/get_tonton.mpd?username=vip_level7&password=vip_level7&episode_id=6600271
+
 
 
 #== Dear Farris ==
@@ -8483,7 +8581,26 @@ https://get.perfecttv.net/get_tonton.mpd?username=vip_level7&password=vip_level7
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6597983
 https://get.perfecttv.net/get_tonton.mpd?username=vip_level7&password=vip_level7&episode_id=6597983
-
+EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v300/imageHelper.php?id=6597951%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● TONTON SERIES | Cinta Kedua", S01E16 Cinta Kedua
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6597984
+https://get.perfecttv.net/get_tonton.mpd?username=vip_level7&password=vip_level7&episode_id=6597984
+#EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v300/imageHelper.php?id=6597951%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● TONTON SERIES | Cinta Kedua", S01E17 Cinta Kedua
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6597987
+https://get.perfecttv.net/get_tonton.mpd?username=vip_level7&password=vip_level7&episode_id=6597987
+#EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v300/imageHelper.php?id=6597951%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● TONTON SERIES | Cinta Kedua", S01E18 Cinta Kedua
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6597988
+https://get.perfecttv.net/get_tonton.mpd?username=vip_level7&password=vip_level7&episode_id=6597988
+#EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v300/imageHelper.php?id=6597951%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● TONTON SERIES | Cinta Kedua", S01E19 Cinta Kedua
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6597989
+https://get.perfecttv.net/get_tonton.mpd?username=vip_level7&password=vip_level7&episode_id=6597989
 
 
 
@@ -14652,3 +14769,6 @@ https://22243.live.streamtheworld.com/MELAKA_FMAAC
 
 #EXTINF:-1 tvg-id="VFM" group-title="RADIO radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg",Sabah VFM
 https://22273.live.streamtheworld.com/SABAH_VFMAAC
+
+
+
