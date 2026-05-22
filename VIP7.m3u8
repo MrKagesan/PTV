@@ -1162,6 +1162,36 @@ https://get.perfecttv.net/dash2.mpd?username=vip_level7&password=vip_level7&chan
 https://get.perfecttv.net/dash2.mpd?username=vip_level7&password=vip_level7&channel=premiersport
 
 
+#####  Good Boys Go To Heaven ####
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWGPI_series_p_IVP_PORT_390x585_9205F_202653_1367.jpg" group-title="● Astro Series | Good Boys Go To Heaven",  E01
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=60154bb2423a865e03213ba03cbb7b10:5090c4190b64910c3f5c1e19523c6bc1
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=GBGTHeavenE01
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWGPI_series_p_IVP_PORT_390x585_9205F_202653_1367.jpg" group-title="● Astro Series | Good Boys Go To Heaven",  E02
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=93029a3a0e3d78e7c692d75508a8b110:bafdb1de0e6cfef19c0690270f893094
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=GBGTHeavenE02
+
+
+#### Bapa Mentuaku Mafia ####
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOMF_series_p_IVP_PORT_390x585_92008_2026513_143754.jpg" group-title="● Astro Series | Bapa Mentuaku Mafia",  E01
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=936afa4120d2f0d786a72eb78cb7e710:0b6edca943fb1e3c36d06020ebd712c4
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=BMMafiaE01
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOMF_series_p_IVP_PORT_390x585_92008_2026513_143754.jpg" group-title="● Astro Series | Bapa Mentuaku Mafia",  E02
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2a275d59f7b6a73887835037e8aa4410:c9dd181336b49fae6640f3ddfa4e86e5
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=BMMafiaE02
+
+
 
 #### Dendam Seorang Mentua ####
 
@@ -1214,6 +1244,31 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=fbc66dc8d14b7cdcb1feb015d66e2110:7ef95e4878deac3cf9e1e88309eab8b2
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE08
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E09
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=8dd95b960703809c5ebdee2886910a10:a4f1c822a2c8359dd3dde3d068d18a58
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE09
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E10
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=57557e3abbc91df1d93ae4aaa766fc10:d4b89bc516bfb813ae1e02f49208f3ae
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E11
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=848bd4794d35761a3a3cedc628dc6810:c9194eb3ae0fbb4e521852227561917c
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE11
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWYYQ_series_p_IVP_PORT_390x585_91C89_2026430_173226.jpg" group-title="● Astro Series | Dendam Seorang Mentua",  E12
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=c13fc07df9311cd2b60736992cd91510:e08df950714607f272e2231d97a65599
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=DSMentuaE12
+
 
 ### Isteri Rahsia Ungku Jabbar ###
 
@@ -1306,6 +1361,23 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&
 #KODIPROP:inputstream.adaptive.license_key=8d162d5876cacb1fee0f21f4e4713110:28c3f9744f5d186392e0f19a4c1d1c03
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=IRUJABBARE15
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E16
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=33319cb5ac432df1bdbd2f2670eb3d10:9e23f4066515ed850487885938f02514
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=IRUJABBARE16
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E17
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=3c9d4f3bbd9bbd73a10ab4a67f798b10:e40241dde3c26722146e0f21cd60a117
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=IRUJABBARE17
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E18
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e76a8cc9dc70e7ab483085891b538610:17fd0122db98b39faf4c778c46b28293
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channel=IRUJABBARE18
 
 
 ###  Mencari Isteri Sempurna ###
@@ -14776,361 +14848,360 @@ https://22243.live.streamtheworld.com/MELAKA_FMAAC
 #EXTINF:-1 tvg-id="VFM" group-title="RADIO radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg",Sabah VFM
 https://22273.live.streamtheworld.com/SABAH_VFMAAC
 
-
-#EXTINF:-1 tvg-id="https://get.perfecttv.net/logo/tv2.png" tvg-name="TV1-HD" tvg-logo="https://get.perfecttv.net/logo/tv1.png" group-title="BACKUP CHANNELS",TV1-HD
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-HD
 http://zozotv.xyz:8080/live/QS3315/K717976/13.ts
-#EXTINF:-1 tvg-id="https://get.perfecttv.net/logo/tv2.png" tvg-name="TV1-FHD" tvg-logo="https://get.perfecttv.net/logo/tv1.png" group-title="BACKUP CHANNELS",TV1-FHD
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-FHD" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-FHD
 http://zozotv.xyz:8080/live/QS3315/K717976/14.ts
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2-FHD" tvg-logo="https://get.perfecttv.net/logo/tv2.png" group-title="BACKUP CHANNELS",TV2-FHD
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2-FHD" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="MALAYSIA",TV2-FHD
 http://zozotv.xyz:8080/live/QS3315/K717976/15.ts
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2-SD" tvg-logo="https://get.perfecttv.net/logo/tv2.png" group-title="BACKUP CHANNELS",TV2-SD
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2-SD" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="MALAYSIA",TV2-SD
 http://zozotv.xyz:8080/live/QS3315/K717976/16.ts
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-A" tvg-logo="https://get.perfecttv.net/logo/tv3.png" group-title="BACKUP CHANNELS",TV3-A
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-A" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-A
 http://zozotv.xyz:8080/live/QS3315/K717976/17.ts
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-FHD" tvg-logo="https://get.perfecttv.net/logo/tv3.png" group-title="BACKUP CHANNELS",TV3-FHD
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-FHD" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-FHD
 http://zozotv.xyz:8080/live/QS3315/K717976/18.ts
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-C" tvg-logo="https://get.perfecttv.net/logo/tv3.png" group-title="BACKUP CHANNELS",TV3-C
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-C" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-C
 http://zozotv.xyz:8080/live/QS3315/K717976/19.ts
-#EXTINF:-1 tvg-name="Tv6" group-title="BACKUP CHANNELS",Tv6
+#EXTINF:-1 tvg-id="" tvg-name="Tv6" tvg-logo="https://i.ibb.co/DMMq0TW/1655552460861.png" group-title="MALAYSIA",Tv6
 http://zozotv.xyz:8080/live/QS3315/K717976/640.ts
-#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://get.perfecttv.net/logo/ntv7.png" group-title="BACKUP CHANNELS",NTV7
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/sjr34f7/cyts.png" group-title="MALAYSIA",NTV7
 http://zozotv.xyz:8080/live/QS3315/K717976/20.ts
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://get.perfecttv.net/logo/8tv.png" group-title="BACKUP CHANNELS",8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/3N3JfSz/8.png" group-title="MALAYSIA",8TV
 http://zozotv.xyz:8080/live/QS3315/K717976/21.ts
-#EXTINF:-1 tvg-id="tv9" tvg-name="TV9" tvg-logo="https://get.perfecttv.net/logo/tv9.png" group-title="BACKUP CHANNELS",TV9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/WBw9D1r/AAXS.png" group-title="MALAYSIA",TV9
 http://zozotv.xyz:8080/live/QS3315/K717976/22.ts
-#EXTINF:-1 tvg-id="TV Okey" tvg-name="Okey" tvg-logo="https://get.perfecttv.net/logo/okey.png" group-title="BACKUP CHANNELS",Okey
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="MALAYSIA",Okey
 http://zozotv.xyz:8080/live/QS3315/K717976/24.ts
-#EXTINF:-1 tvg-name="Awesome TV" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="BACKUP CHANNELS",Awesome TV
+#EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="MALAYSIA",Awesome TV
 http://zozotv.xyz:8080/live/QS3315/K717976/352.ts
-#EXTINF:-1 tvg-name="SUKE TV" group-title="BACKUP CHANNELS",SUKE TV
+#EXTINF:-1 tvg-id="" tvg-name="SUKE TV" tvg-logo="https://i.ibb.co/qyJgMDH/1689595250420.png" group-title="MALAYSIA",SUKE TV
 http://zozotv.xyz:8080/live/QS3315/K717976/924.ts
-#EXTINF:-1 tvg-id="Enjoy Tv5" tvg-name="Enjoy Tv5" tvg-logo="https://get.perfecttv.net/logo/enjoytv5.png" group-title="BACKUP CHANNELS",Enjoy Tv5
+#EXTINF:-1 tvg-id="" tvg-name="Enjoy Tv5" tvg-logo="https://i.ibb.co/ddGkpfV/1753657690760.png" group-title="MALAYSIA",Enjoy Tv5
 http://zozotv.xyz:8080/live/QS3315/K717976/4619.ts
-#EXTINF:-1 tvg-id="Inspirasi" tvg-name="Inspirasi" tvg-logo="https://get.perfecttv.net/logo/inspirasi.png" group-title="BACKUP CHANNELS",Inspirasi
+#EXTINF:-1 tvg-id="" tvg-name="Inspirasi" tvg-logo="https://link.zozotv.xyz/pic/InspirasiZozo.png" group-title="MALAYSIA",Inspirasi
 http://zozotv.xyz:8080/live/QS3315/K717976/1910.ts
-#EXTINF:-1 tvg-id="salamhd" tvg-name="Salam HD" tvg-logo="https://get.perfecttv.net/logo/salamhd.png" group-title="BACKUP CHANNELS",Salam HD
+#EXTINF:-1 tvg-id="" tvg-name="Salam HD" tvg-logo="https://link.zozotv.xyz/pic/SalamHdZozo.png" group-title="MALAYSIA",Salam HD
 http://zozotv.xyz:8080/live/QS3315/K717976/1911.ts
-#EXTINF:-1 tvg-id="AlHijrah" tvg-name="Alhijrah" tvg-logo="https://get.perfecttv.net/logo/alhijrah.png" group-title="BACKUP CHANNELS",Alhijrah
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA",Alhijrah
 http://zozotv.xyz:8080/live/QS3315/K717976/26.ts
-#EXTINF:-1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://get.perfecttv.net/logo/bernama.png" group-title="BACKUP CHANNELS",Bernama
+#EXTINF:-1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.ibb.co/ZTqV0P4/vgcdb.png" group-title="MALAYSIA",Bernama
 http://zozotv.xyz:8080/live/QS3315/K717976/27.ts
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Awani" tvg-logo="https://get.perfecttv.net/logo/awani.png" group-title="BACKUP CHANNELS",Awani
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Awani" tvg-logo="https://i.ibb.co/rbSH8xj/gn.png" group-title="MALAYSIA",Awani
 http://zozotv.xyz:8080/live/QS3315/K717976/28.ts
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Oasis" tvg-logo="https://get.perfecttv.net/logo/oasis.png" group-title="BACKUP CHANNELS",Oasis
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Oasis" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="MALAYSIA",Oasis
 http://zozotv.xyz:8080/live/QS3315/K717976/30.ts
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-A" tvg-logo="https://get.perfecttv.net/logo/ceria2.png" group-title="BACKUP CHANNELS",Ceria-A
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-A" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="KIDS",Ceria-A
 http://zozotv.xyz:8080/live/QS3315/K717976/31.ts
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-B" tvg-logo="https://get.perfecttv.net/logo/ceria2.png" group-title="BACKUP CHANNELS",Ceria-B
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-B" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="KIDS",Ceria-B
 http://zozotv.xyz:8080/live/QS3315/K717976/32.ts
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://get.perfecttv.net/logo/ria.png" group-title="BACKUP CHANNELS",Ria
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name=" Ria " tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA", Ria 
 http://zozotv.xyz:8080/live/QS3315/K717976/532.ts
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria-B" tvg-logo="https://get.perfecttv.net/logo/ria.png" group-title="BACKUP CHANNELS",Ria-B
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria-B" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria-B
 http://zozotv.xyz:8080/live/QS3315/K717976/340.ts
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-A" tvg-logo="https://get.perfecttv.net/logo/prima.png" group-title="BACKUP CHANNELS",Prima-A
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-A" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima-A
 http://zozotv.xyz:8080/live/QS3315/K717976/33.ts
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-B" tvg-logo="https://get.perfecttv.net/logo/prima.png" group-title="BACKUP CHANNELS",Prima-B
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-B" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima-B
 http://zozotv.xyz:8080/live/QS3315/K717976/34.ts
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-A" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="BACKUP CHANNELS",Citra-A
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-A" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Citra-A
 http://zozotv.xyz:8080/live/QS3315/K717976/36.ts
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-B" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="BACKUP CHANNELS",Citra-B
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-B" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Citra-B
 http://zozotv.xyz:8080/live/QS3315/K717976/37.ts
-#EXTINF:-1 tvg-id="aurahd" tvg-name="Aura" tvg-logo="https://get.perfecttv.net/logo/aura.png" group-title="BACKUP CHANNELS",Aura
+#EXTINF:-1 tvg-id="onehd" tvg-name="Aura" tvg-logo="https://i.ibb.co/D4YHLf6/58T.png" group-title="MALAYSIA",Aura
 http://zozotv.xyz:8080/live/QS3315/K717976/38.ts
-#EXTINF:-1 tvg-id="raniahd" tvg-name="Rania" tvg-logo="https://get.perfecttv.net/logo/rania.png" group-title="BACKUP CHANNELS",Rania
+#EXTINF:-1 tvg-id="onehd" tvg-name="Rania" tvg-logo="https://i.ibb.co/y0cGSsg/ASd.png" group-title="MALAYSIA",Rania
 http://zozotv.xyz:8080/live/QS3315/K717976/39.ts
-#EXTINF:-1 tvg-id="NET.TV.id" tvg-name="NET." tvg-logo="https://get.perfecttv.net/logo/net.png" group-title="BACKUP CHANNELS",NET.
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET.
 http://zozotv.xyz:8080/live/QS3315/K717976/50.ts
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://get.perfecttv.net/logo/gtv.png" group-title="BACKUP CHANNELS",GTV
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="INDONESIA",GTV
 http://zozotv.xyz:8080/live/QS3315/K717976/48.ts
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://get.perfecttv.net/logo/sctv.png" group-title="BACKUP CHANNELS",SCTV
+#EXTINF:-1 tvg-id="zeetamil" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="INDONESIA",SCTV
 http://zozotv.xyz:8080/live/QS3315/K717976/46.ts
-#EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://get.perfecttv.net/logo/mnctv.png" group-title="BACKUP CHANNELS",MNCTV
+#EXTINF:-1 tvg-id="mnxhd" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="INDONESIA",MNCTV
 http://zozotv.xyz:8080/live/QS3315/K717976/49.ts
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" group-title="BACKUP CHANNELS",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="INDONESIA",INDOSIAR
 http://zozotv.xyz:8080/live/QS3315/K717976/4633.ts
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://get.perfecttv.net/logo/rcti.png" group-title="BACKUP CHANNELS",RCTI
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="INDONESIA",RCTI
 http://zozotv.xyz:8080/live/QS3315/K717976/4635.ts
-#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://get.perfecttv.net/logo/trans7.png" group-title="BACKUP CHANNELS",TRANS 7
+#EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="INDONESIA",TRANS 7
 http://zozotv.xyz:8080/live/QS3315/K717976/4634.ts
-#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://get.perfecttv.net/logo/transtv.png" group-title="BACKUP CHANNELS",TRANS TV
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="INDONESIA",TRANS TV
 http://zozotv.xyz:8080/live/QS3315/K717976/43.ts
-#EXTINF:-1 tvg-name="Dunia Lain" group-title="BACKUP CHANNELS",Dunia Lain
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="INDONESIA",Dunia Lain
 http://zozotv.xyz:8080/live/QS3315/K717976/346.ts
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://get.perfecttv.net/logo/antv.png" group-title="BACKUP CHANNELS",ANTV
+#EXTINF:-1 tvg-id="TVS" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="INDONESIA",ANTV
 http://zozotv.xyz:8080/live/QS3315/K717976/51.ts
-#EXTINF:-1 tvg-name="TVRI" group-title="BACKUP CHANNELS",TVRI
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="INDONESIA",TVRI
 http://zozotv.xyz:8080/live/QS3315/K717976/359.ts
-#EXTINF:-1 tvg-name="Rtv" group-title="BACKUP CHANNELS",Rtv
+#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="INDONESIA",Rtv
 http://zozotv.xyz:8080/live/QS3315/K717976/364.ts
-#EXTINF:-1 tvg-id="zeecinema" tvg-name="Zee Cinema" tvg-logo="https://get.perfecttv.net/logo/zeecinema.png" group-title="BACKUP CHANNELS",Zee Cinema
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="Zee Cinema" tvg-logo="https://i.ibb.co/F7rvJPN/1684669911421.png" group-title="INDIA",Zee Cinema
 http://zozotv.xyz:8080/live/QS3315/K717976/302.ts
-#EXTINF:-1 tvg-id="Thangathirai" tvg-name="ABO Thangathirai" tvg-logo="https://get.perfecttv.net/logo/boxoffice.png" group-title="BACKUP CHANNELS",ABO Thangathirai
+#EXTINF:-1 tvg-id="Thangathirai" tvg-name="ABO Thangathirai" tvg-logo="https://i.imgur.com/D0vx6EY.png" group-title="INDIA",ABO Thangathirai
 http://zozotv.xyz:8080/live/QS3315/K717976/464.ts
-#EXTINF:-1 tvg-id="vell" tvg-name="Astro Vellathirai" tvg-logo="https://get.perfecttv.net/logo/vellithirai.png" group-title="BACKUP CHANNELS",Astro Vellathirai
+#EXTINF:-1 tvg-id="Vellithirai" tvg-name="Astro Vellathirai" tvg-logo="https://i.ibb.co/GW2Bfgc/1692101707348.png" group-title="INDIA",Astro Vellathirai
 http://zozotv.xyz:8080/live/QS3315/K717976/1040.ts
-#EXTINF:-1 tvg-id="colorhindi" tvg-name="Colors HD" tvg-logo="https://get.perfecttv.net/logo/colorhindi.png" group-title="BACKUP CHANNELS",Colors HD
+#EXTINF:-1 tvg-id="ColorsHindi" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/C4qeeRy.png" group-title="INDIA",Colors HD
 http://zozotv.xyz:8080/live/QS3315/K717976/401.ts
-#EXTINF:-1 tvg-id="colortamil" tvg-name="ColorsTamil" tvg-logo="https://get.perfecttv.net/logo/colortamil.png" group-title="BACKUP CHANNELS",ColorsTamil
+#EXTINF:-1 tvg-id="ColorTamil" tvg-name="ColorsTamil" tvg-logo="https://i.ibb.co/tB6ghsS/1692101728228.png" group-title="INDIA",ColorsTamil
 http://zozotv.xyz:8080/live/QS3315/K717976/1042.ts
-#EXTINF:-1 tvg-id="ktv" tvg-name="KTV HD" tvg-logo="https://get.perfecttv.net/logo/ktv.png" group-title="BACKUP CHANNELS",KTV HD
+#EXTINF:-1 tvg-id="KTV" tvg-name="KTV HD" tvg-logo="https://i.ibb.co/XzD5Cp9/1709637829660.png" group-title="INDIA",KTV HD
 http://zozotv.xyz:8080/live/QS3315/K717976/1945.ts
-#EXTINF:-1 tvg-id="suntv" tvg-name="SUN TV" tvg-logo="https://get.perfecttv.net/logo/suntv.png" group-title="BACKUP CHANNELS",SUN TV
+#EXTINF:-1 tvg-id="Suntv" tvg-name="SUN TV" tvg-logo="https://i.ibb.co/M9hmvx6/1709638038700.png" group-title="INDIA",SUN TV
 http://zozotv.xyz:8080/live/QS3315/K717976/1946.ts
-#EXTINF:-1 tvg-id="starvijay" tvg-name="Star Vijay" tvg-logo="https://get.perfecttv.net/logo/starvijay.png" group-title="BACKUP CHANNELS",Star Vijay
+#EXTINF:-1 tvg-id="StarVijay" tvg-name="Star Vijay" tvg-logo="https://i.ibb.co/XzF98VB/1692101690228.png" group-title="INDIA",Star Vijay
 http://zozotv.xyz:8080/live/QS3315/K717976/1041.ts
-#EXTINF:-1 tvg-id="zeetamil" tvg-name="ZEE Tamil" tvg-logo="https://get.perfecttv.net/logo/zeetamil.png" group-title="BACKUP CHANNELS",ZEE Tamil
+#EXTINF:-1 tvg-id="ZeeTamil" tvg-name="ZEE Tamil" tvg-logo="https://i.ibb.co/BsXYcgd/1692101774697.png" group-title="INDIA",ZEE Tamil
 http://zozotv.xyz:8080/live/QS3315/K717976/1043.ts
-#EXTINF:-1 tvg-id="SunLife" tvg-name="Adithya" tvg-logo="https://get.perfecttv.net/logo/aditya.png" group-title="BACKUP CHANNELS",Adithya
+#EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" tvg-logo="https://i.ibb.co/ryWr6ky/1692101745942.png" group-title="INDIA",Adithya
 http://zozotv.xyz:8080/live/QS3315/K717976/1044.ts
-#EXTINF:-1 tvg-id="vaanavil" tvg-name="Vaanavil" tvg-logo="https://get.perfecttv.net/logo/vaanavil.png" group-title="BACKUP CHANNELS",Vaanavil
+#EXTINF:-1 tvg-id="Adithya" tvg-name="Vaanavil" tvg-logo="https://i.ibb.co/mXMVhtv/YDF.png" group-title="INDIA",Vaanavil
 http://zozotv.xyz:8080/live/QS3315/K717976/58.ts
-#EXTINF:-1 tvg-name="ZEE Bioskop" group-title="BACKUP CHANNELS",ZEE Bioskop
+#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="INDIA",ZEE Bioskop
 http://zozotv.xyz:8080/live/QS3315/K717976/53.ts
-#EXTINF:-1 tvg-id="tvs" tvg-name="TVS" tvg-logo="https://get.perfecttv.net/logo/tvs.png" group-title="BACKUP CHANNELS",TVS
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA",TVS
 http://zozotv.xyz:8080/live/QS3315/K717976/59.ts
-#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://get.perfecttv.net/logo/aec2.png" group-title="BACKUP CHANNELS",AEC
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://i.ibb.co/3s9dG9G/fdiy.png" group-title="CHINESE",AEC
 http://zozotv.xyz:8080/live/QS3315/K717976/60.ts
-#EXTINF:-1 tvg-id="huaheedai" tvg-name="Hua Hee Tai" tvg-logo="https://get.perfecttv.net/logo/huaheedai2.png" group-title="BACKUP CHANNELS",Hua Hee Dai
+#EXTINF:-1 tvg-id="HUAHEITAI" tvg-name="Hua Hee Tai" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png" group-title="CHINESE",Hua Hee Tai
 http://zozotv.xyz:8080/live/QS3315/K717976/61.ts
-#EXTINF:-1 tvg-id="QJ" tvg-name="Quan Jia" tvg-logo="https://get.perfecttv.net/logo/qj.png" group-title="BACKUP CHANNELS",Quan Jia
+#EXTINF:-1 tvg-id="QUANJIA" tvg-name="Quan Jia" tvg-logo="https://i.ibb.co/t3vgwMQ/RDS.png" group-title="CHINESE",Quan Jia
 http://zozotv.xyz:8080/live/QS3315/K717976/62.ts
-#EXTINF:-1 tvg-id="iqiyi" tvg-name="IQiyi" tvg-logo="https://get.perfecttv.net/logo/iqiyi.png" group-title="BACKUP CHANNELS",IQiyi
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="CHINESE",IQiyi
 http://zozotv.xyz:8080/live/QS3315/K717976/63.ts
-#EXTINF:-1 tvg-id="Celestial Classic Movies" tvg-name="CCM" tvg-logo="https://get.perfecttv.net/logo/ccm.png" group-title="BACKUP CHANNELS",CCM
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="CHINESE",CCM
 http://zozotv.xyz:8080/live/QS3315/K717976/65.ts
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=330" group-title="BACKUP CHANNELS",Animax
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://i.ibb.co/jDKvSs3/CVZXS.png" group-title="JAPAN",Animax
 http://zozotv.xyz:8080/live/QS3315/K717976/69.ts
-#EXTINF:-1 tvg-id="AniPlus" tvg-name="Aniplus" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20200822104703" group-title="BACKUP CHANNELS",Aniplus
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/cDJYGmg/yiuy.png" group-title="JAPAN",Aniplus
 http://zozotv.xyz:8080/live/QS3315/K717976/70.ts
-#EXTINF:-1 tvg-name="Sony GEM TV" group-title="BACKUP CHANNELS",Sony GEM TV
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/6HF0DHS/svc.png" group-title="JAPAN",Sony GEM TV
 http://zozotv.xyz:8080/live/QS3315/K717976/72.ts
-#EXTINF:-1 tvg-id="tvN HD" tvg-name="tvN" tvg-logo="https://get.perfecttv.net/logo/tvn.png" group-title="BACKUP CHANNELS",tvN
+#EXTINF:-1 tvg-id="TVS" tvg-name="tvN" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="KOREA",tvN
 http://zozotv.xyz:8080/live/QS3315/K717976/75.ts
-#EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN Movies" tvg-logo="https://get.perfecttv.net/logo/tvnmovies.png" group-title="BACKUP CHANNELS",tvN Movies
+#EXTINF:-1 tvg-id="TVS" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="KOREA",tvN Movies
 http://zozotv.xyz:8080/live/QS3315/K717976/76.ts
-#EXTINF:-1 tvg-name="Sony One" group-title="BACKUP CHANNELS",Sony One
+#EXTINF:-1 tvg-id="zeetamil" tvg-name="Sony One" tvg-logo="https://i.ibb.co/Db5RLLg/hjtr.png" group-title="KOREA",Sony One
 http://zozotv.xyz:8080/live/QS3315/K717976/74.ts
-#EXTINF:-1 tvg-name="Arirang" group-title="BACKUP CHANNELS",Arirang
+#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang" tvg-logo="https://i.ibb.co/sHr5wg5/sgfz.png" group-title="KOREA",Arirang
 http://zozotv.xyz:8080/live/QS3315/K717976/77.ts
-#EXTINF:-1 tvg-id="KBSW" tvg-name="KBS World" tvg-logo="https://get.perfecttv.net/logo/kbsworld.png" group-title="BACKUP CHANNELS",KBS World
+#EXTINF:-1 tvg-id="mnxhd" tvg-name="KBS World" tvg-logo="https://i.ibb.co/n3HP87W/xcf.png" group-title="KOREA",KBS World
 http://zozotv.xyz:8080/live/QS3315/K717976/78.ts
-#EXTINF:-1 tvg-id="KPLUS" tvg-name="K+" tvg-logo="https://get.perfecttv.net/logo/kplus.png" group-title="BACKUP CHANNELS",K+
+#EXTINF:-1 tvg-id="Kplus" tvg-name="K+" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="KOREA",K+
 http://zozotv.xyz:8080/live/QS3315/K717976/80.ts
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://get.perfecttv.net/logo/kix.png" group-title="BACKUP CHANNELS",KIX
+#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="ENTERTAINMENT",KIX
 http://zozotv.xyz:8080/live/QS3315/K717976/82.ts
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://get.perfecttv.net/logo/axn.png" group-title="BACKUP CHANNELS",AXN
+#EXTINF:-1 tvg-id="TVS" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="ENTERTAINMENT",AXN
 http://zozotv.xyz:8080/live/QS3315/K717976/83.ts
-#EXTINF:-1 tvg-id="warnertv" tvg-name="Warner TV" tvg-logo="https://get.perfecttv.net/logo/warnertv.png" group-title="BACKUP CHANNELS",Warner TV
+#EXTINF:-1 tvg-id="globaltrekker" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="ENTERTAINMENT",Warner TV
 http://zozotv.xyz:8080/live/QS3315/K717976/86.ts
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="Lifetime" tvg-logo="https://get.perfecttv.net/logo/lifetime.png" group-title="BACKUP CHANNELS",Lifetime
+#EXTINF:-1 tvg-id="mnxhd" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/r45KLr2/VZXDZD.png" group-title="ENTERTAINMENT",Lifetime
 http://zozotv.xyz:8080/live/QS3315/K717976/87.ts
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://get.perfecttv.net/logo/hgtv.png" group-title="BACKUP CHANNELS",HGTV
+#EXTINF:-1 tvg-id="zeetamil" tvg-name="HGTV" tvg-logo="https://i.ibb.co/gJBkjCt/dghjc.png" group-title="ENTERTAINMENT",HGTV
 http://zozotv.xyz:8080/live/QS3315/K717976/85.ts
-#EXTINF:-1 tvg-id="CRIME" tvg-name="Crime & Investigation" tvg-logo="https://get.perfecttv.net/logo/crimeinvestigation.png" group-title="BACKUP CHANNELS",Crime & Investigation
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-logo="https://i.ibb.co/fn2qdmL/1685164526566.png" group-title="ENTERTAINMENT",Crime & Investigation
 http://zozotv.xyz:8080/live/QS3315/K717976/845.ts
-#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies" tvg-logo="https://get.perfecttv.net/logo/celestialmovies.png" group-title="BACKUP CHANNELS",Celestial Movies
+#EXTINF:-1 tvg-id="mnxhd" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png" group-title="MOVIES",Celestial Movies
 http://zozotv.xyz:8080/live/QS3315/K717976/64.ts
-#EXTINF:-1 tvg-id="SIAR" tvg-name="Siar" tvg-logo="https://get.perfecttv.net/logo/siar.png" group-title="BACKUP CHANNELS",Siar
+#EXTINF:-1 tvg-id="" tvg-name="Siar" tvg-logo="https://link.zozotv.xyz/pic/SiarZozo.png" group-title="MOVIES",Siar
 http://zozotv.xyz:8080/live/QS3315/K717976/1912.ts
-#EXTINF:-1 tvg-id="duniasinemahd" tvg-name="Dunia Senima" tvg-logo="https://get.perfecttv.net/logo/duniasenima.png" group-title="BACKUP CHANNELS",Dunia Senima
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Senima" tvg-logo="https://link.zozotv.xyz/pic/DuniaSenimaZozo.png" group-title="MOVIES",Dunia Senima
 http://zozotv.xyz:8080/live/QS3315/K717976/1909.ts
-#EXTINF:-1 tvg-id="degup" tvg-name="Degup" tvg-logo="https://get.perfecttv.net/logo/degup.png" group-title="BACKUP CHANNELS",Degup
+#EXTINF:-1 tvg-id="Degup" tvg-name="Degup" tvg-logo="https://link.zozotv.xyz/pic/DegupZozo.png" group-title="MOVIES",Degup
 http://zozotv.xyz:8080/live/QS3315/K717976/1908.ts
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO (Malay)" tvg-logo="https://get.perfecttv.net/logo/boo.png" group-title="BACKUP CHANNELS",BOO (Malay)
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO (Malay)" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MOVIES",BOO (Malay)
 http://zozotv.xyz:8080/live/QS3315/K717976/408.ts
-#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" group-title="BACKUP CHANNELS",HBO
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="MOVIES",HBO
 http://zozotv.xyz:8080/live/QS3315/K717976/96.ts
-#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO (ID)" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" group-title="BACKUP CHANNELS",HBO (ID)
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="MOVIES",HBO (ID)
 http://zozotv.xyz:8080/live/QS3315/K717976/693.ts
-#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO Hits" tvg-logo="https://get.perfecttv.net/logo/hbohits.png" group-title="BACKUP CHANNELS",HBO Hits
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="MOVIES",HBO Hits
 http://zozotv.xyz:8080/live/QS3315/K717976/97.ts
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-logo="https://get.perfecttv.net/logo/hbofamily.png" group-title="BACKUP CHANNELS",HBO Family
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="MOVIES",HBO Family
 http://zozotv.xyz:8080/live/QS3315/K717976/98.ts
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://get.perfecttv.net/logo/hbosingnature.png" group-title="BACKUP CHANNELS",HBO Signature
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="MOVIES",HBO Signature
 http://zozotv.xyz:8080/live/QS3315/K717976/99.ts
-#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="ShowCase Movies" tvg-logo="https://get.perfecttv.net/logo/showcase.png" group-title="BACKUP CHANNELS",ShowCase Movies
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="MOVIES",ShowCase Movies
 http://zozotv.xyz:8080/live/QS3315/K717976/385.ts
-#EXTINF:-1 tvg-id="rockaction" tvg-name="Rock Action" tvg-logo="https://get.perfecttv.net/logo/rockaction.png" group-title="BACKUP CHANNELS",Rock Action
+#EXTINF:-1 tvg-id="RockAction" tvg-name="Rock Action" tvg-logo="https://i.ibb.co/QP8mWrs/1678073936036.png" group-title="MOVIES",Rock Action
 http://zozotv.xyz:8080/live/QS3315/K717976/89.ts
-#EXTINF:-1 tvg-id="rockentertainment" tvg-name="Rock Entertainment" tvg-logo="https://get.perfecttv.net/logo/rockentertainment.png" group-title="BACKUP CHANNELS",Rock Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="https://i.ibb.co/s2xvMWW/wrfd.png" group-title="MOVIES",Rock Entertainment
 http://zozotv.xyz:8080/live/QS3315/K717976/88.ts
-#EXTINF:-1 tvg-id="GALAXY" tvg-name="Galaxy" tvg-logo="https://get.perfecttv.net/logo/galaxy.png" group-title="BACKUP CHANNELS",Galaxy
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="MOVIES",Galaxy
 http://zozotv.xyz:8080/live/QS3315/K717976/108.ts
-#EXTINF:-1 tvg-name="Galaxy Premium" tvg-logo="https://get.perfecttv.net/logo/galaxypremium.png" group-title="BACKUP CHANNELS",Galaxy Premium
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="MOVIES",Galaxy Premium
 http://zozotv.xyz:8080/live/QS3315/K717976/109.ts
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://get.perfecttv.net/logo/cinemax.png" group-title="BACKUP CHANNELS",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="MOVIES",Cinemax
 http://zozotv.xyz:8080/live/QS3315/K717976/107.ts
-#EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://get.perfecttv.net/logo/studiouniversal.png" group-title="BACKUP CHANNELS",Studio Universal
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://i.ibb.co/xKsLx4pw/studiouniversal.png" group-title="MOVIES",Studio Universal
 http://zozotv.xyz:8080/live/QS3315/K717976/4599.ts
-#EXTINF:-1 tvg-name="Cinemachi" group-title="BACKUP CHANNELS",Cinemachi
+#EXTINF:-1 tvg-id="Cinemachi" tvg-name="Cinemachi" tvg-logo="https://link.zozotv.xyz/pic/Cinemachi.png" group-title="MOVIES",Cinemachi
 http://zozotv.xyz:8080/live/QS3315/K717976/2000.ts
-#EXTINF:-1 tvg-name="Cinemachi Action" group-title="BACKUP CHANNELS",Cinemachi Action
+#EXTINF:-1 tvg-id="Cinemachi Action" tvg-name="Cinemachi Action" tvg-logo="https://link.zozotv.xyz/pic/CinemachiAction.png" group-title="MOVIES",Cinemachi Action
 http://zozotv.xyz:8080/live/QS3315/K717976/1999.ts
-#EXTINF:-1 tvg-name="Cinemachi MAX" group-title="BACKUP CHANNELS",Cinemachi MAX
+#EXTINF:-1 tvg-id="Cinemachi Max" tvg-name="Cinemachi MAX" tvg-logo="https://link.zozotv.xyz/pic/CinemachiMax.png" group-title="MOVIES",Cinemachi MAX
 http://zozotv.xyz:8080/live/QS3315/K717976/1998.ts
-#EXTINF:-1 tvg-name="Cinemachi Xtra" group-title="BACKUP CHANNELS",Cinemachi Xtra
+#EXTINF:-1 tvg-id="Cinemachi Xtra" tvg-name="Cinemachi Xtra" tvg-logo="https://link.zozotv.xyz/pic/CinemachiXtra.png" group-title="MOVIES",Cinemachi Xtra
 http://zozotv.xyz:8080/live/QS3315/K717976/1997.ts
-#EXTINF:-1 tvg-name="Cinemachi Kids" group-title="BACKUP CHANNELS",Cinemachi Kids
+#EXTINF:-1 tvg-id="Cinemachi Kids" tvg-name="Cinemachi Kids" tvg-logo="https://link.zozotv.xyz/pic/CinemachiKids.png" group-title="MOVIES",Cinemachi Kids
 http://zozotv.xyz:8080/live/QS3315/K717976/1996.ts
-#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://get.perfecttv.net/logo/cinemaworld.png" group-title="BACKUP CHANNELS",CinemaWorld
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="MOVIES",CinemaWorld
 http://zozotv.xyz:8080/live/QS3315/K717976/111.ts
-#EXTINF:-1 tvg-name="&Prive HD" tvg-logo="https://get.perfecttv.net/logo/privehd.png" group-title="BACKUP CHANNELS",&Prive HD
+#EXTINF:-1 tvg-id="raniahd" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="MOVIES",&Prive HD
 http://zozotv.xyz:8080/live/QS3315/K717976/105.ts
-#EXTINF:-1 tvg-name="&Flix HD" tvg-logo="https://get.perfecttv.net/logo/flixhd.png" group-title="BACKUP CHANNELS",&Flix HD
+#EXTINF:-1 tvg-id="raniahd" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="MOVIES",&Flix HD
 http://zozotv.xyz:8080/live/QS3315/K717976/104.ts
-#EXTINF:-1 tvg-name="Sony PIX" tvg-logo="https://get.perfecttv.net/logo/sonypix.png" group-title="BACKUP CHANNELS",Sony PIX
+#EXTINF:-1 tvg-id="raniahd" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="MOVIES",Sony PIX
 http://zozotv.xyz:8080/live/QS3315/K717976/298.ts
-#EXTINF:-1 tvg-name="Star Movies" tvg-logo="https://get.perfecttv.net/logo/starmovies.png" group-title="BACKUP CHANNELS",Star Movies
+#EXTINF:-1 tvg-id="TVS" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="MOVIES",Star Movies
 http://zozotv.xyz:8080/live/QS3315/K717976/299.ts
-#EXTINF:-1 tvg-name="Star Movies Select" tvg-logo="https://get.perfecttv.net/logo/starmoviesselect.png" group-title="BACKUP CHANNELS",Star Movies Select
+#EXTINF:-1 tvg-id="raniahd" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="MOVIES",Star Movies Select
 http://zozotv.xyz:8080/live/QS3315/K717976/300.ts
-#EXTINF:-1 tvg-id="HITS Movies" tvg-name="HITS Movies" tvg-logo="https://get.perfecttv.net/logo/hitsmovies.png" group-title="BACKUP CHANNELS",HITS Movies
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="MOVIES",HITS Movies
 http://zozotv.xyz:8080/live/QS3315/K717976/110.ts
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://get.perfecttv.net/logo/thrill.png" group-title="BACKUP CHANNELS",Thrill
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="MOVIES",Thrill
 http://zozotv.xyz:8080/live/QS3315/K717976/112.ts
-#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://get.perfecttv.net/logo/imc.png" group-title="BACKUP CHANNELS",IMC
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="MOVIES",IMC
 http://zozotv.xyz:8080/live/QS3315/K717976/113.ts
-#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" tvg-logo="https://get.perfecttv.net/logo/discovery.png" group-title="BACKUP CHANNELS",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/Y37JzVV/fcd.png" group-title="KNOWLEDGE ",Discovery Channel
 http://zozotv.xyz:8080/live/QS3315/K717976/124.ts
-#EXTINF:-1 tvg-id="discoveryasia" tvg-name="Discovery Asia" tvg-logo="https://get.perfecttv.net/logo/discoveryasia.png" group-title="BACKUP CHANNELS",Discovery Asia
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/MCNzx28/HFFD.png" group-title="KNOWLEDGE ",Discovery Asia
 http://zozotv.xyz:8080/live/QS3315/K717976/125.ts
-#EXTINF:-1 tvg-id="lovenature" tvg-name="Animal Planet" tvg-logo="https://get.perfecttv.net/logo/lovenature.png" group-title="BACKUP CHANNELS",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/R349X0T/hv.png" group-title="KNOWLEDGE ",Animal Planet
 http://zozotv.xyz:8080/live/QS3315/K717976/123.ts
-#EXTINF:-1 tvg-id="lovenature" tvg-name="Love Nature" tvg-logo="https://get.perfecttv.net/logo/lovenature.png" group-title="BACKUP CHANNELS",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/xSXJ1SD/cfgs.png" group-title="KNOWLEDGE ",Love Nature
 http://zozotv.xyz:8080/live/QS3315/K717976/116.ts
-#EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" tvg-logo="https://get.perfecttv.net/logo/bbcearth.png" group-title="BACKUP CHANNELS",BBC Earth
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="KNOWLEDGE ",BBC Earth
 http://zozotv.xyz:8080/live/QS3315/K717976/117.ts
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://get.perfecttv.net/logo/dmax.png" group-title="BACKUP CHANNELS",DMAX
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="KNOWLEDGE ",DMAX
 http://zozotv.xyz:8080/live/QS3315/K717976/118.ts
-#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://get.perfecttv.net/logo/history.png" group-title="BACKUP CHANNELS",History
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/6XHgtW7/jy.png" group-title="KNOWLEDGE ",History
 http://zozotv.xyz:8080/live/QS3315/K717976/119.ts
-#EXTINF:-1 tvg-name="AFC" group-title="BACKUP CHANNELS",AFC
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" group-title="KNOWLEDGE ",AFC
 http://zozotv.xyz:8080/live/QS3315/K717976/127.ts
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://get.perfecttv.net/logo/tlc.png" group-title="BACKUP CHANNELS",TLC
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/X5vKy5T/SCX.png" group-title="KNOWLEDGE ",TLC
 http://zozotv.xyz:8080/live/QS3315/K717976/128.ts
-#EXTINF:-1 tvg-id="551.unifi" tvg-name="Moonbug" tvg-logo="https://get.perfecttv.net/logo/moonbug.png" group-title="BACKUP CHANNELS",Moonbug
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug" tvg-logo="https://i.ibb.co/wNHRNJg/1691448706318.png" group-title="KIDS",Moonbug
 http://zozotv.xyz:8080/live/QS3315/K717976/1025.ts
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://get.perfecttv.net/logo/cn.png" group-title="BACKUP CHANNELS",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="KIDS",Cartoon Network
 http://zozotv.xyz:8080/live/QS3315/K717976/132.ts
-#EXTINF:-1 tvg-id="616.astro" tvg-name="Nickelodeon (INDO)" tvg-logo="https://get.perfecttv.net/logo/nickelodeon.png" group-title="BACKUP CHANNELS",Nickelodeon (INDO)
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon (INDO)" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="KIDS",Nickelodeon (INDO)
 http://zozotv.xyz:8080/live/QS3315/K717976/344.ts
-#EXTINF:-1 tvg-id="617.astro" tvg-name="Nick Jr" tvg-logo="https://get.perfecttv.net/logo/nickjr.png" group-title="BACKUP CHANNELS",Nick Jr
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="KIDS",Nick Jr
 http://zozotv.xyz:8080/live/QS3315/K717976/137.ts
-#EXTINF:-1 tvg-name="TVOne" group-title="BACKUP CHANNELS",TVOne
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="INDONESIA",TVOne
 http://zozotv.xyz:8080/live/QS3315/K717976/142.ts
-#EXTINF:-1 tvg-name="KOMPAS TV" group-title="BACKUP CHANNELS",KOMPAS TV
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="INDONESIA",KOMPAS TV
 http://zozotv.xyz:8080/live/QS3315/K717976/143.ts
-#EXTINF:-1 tvg-name="METRO TV" group-title="BACKUP CHANNELS",METRO TV
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="INDONESIA",METRO TV
 http://zozotv.xyz:8080/live/QS3315/K717976/144.ts
-#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg" tvg-logo="https://get.perfecttv.net/logo/bloombergtv.png" group-title="BACKUP CHANNELS",Bloomberg
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/W6SJcZT/xdghf.png" group-title="NEWS",Bloomberg
 http://zozotv.xyz:8080/live/QS3315/K717976/151.ts
-#EXTINF:-1 tvg-id="CNA" tvg-name="Channel News Asia" tvg-logo="https://get.perfecttv.net/logo/cna.png" group-title="BACKUP CHANNELS",Channel News Asia
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://i.ibb.co/WKxk2zj/gj.png" group-title="NEWS",Channel News Asia
 http://zozotv.xyz:8080/live/QS3315/K717976/152.ts
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png" group-title="BACKUP CHANNELS",Arena
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS",Arena
 http://zozotv.xyz:8080/live/QS3315/K717976/154.ts
-#EXTINF:-1 tvg-id="Arena2" tvg-name="Arena 2" tvg-logo="https://get.perfecttv.net/logo/arena2fhd.png" group-title="BACKUP CHANNELS",Arena 2
+#EXTINF:-1 tvg-id="IMC" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS",Arena 2
 http://zozotv.xyz:8080/live/QS3315/K717976/400.ts
-#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://get.perfecttv.net/logo/arenabola.png" group-title="BACKUP CHANNELS",Arena Bola (720p)
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://i.ibb.co/h8Yh230/1677144706720.png" group-title="SPORTS",Arena Bola (720p)
 http://zozotv.xyz:8080/live/QS3315/K717976/791.ts
-#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (1080p)" tvg-logo="https://get.perfecttv.net/logo/arenabolafhd.png" group-title="BACKUP CHANNELS",Arena Bola (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola (1080p)" tvg-logo="https://i.ibb.co/R2gSDzJ/1679052576497.png" group-title="SPORTS",Arena Bola (1080p)
 http://zozotv.xyz:8080/live/QS3315/K717976/802.ts
-#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2" tvg-logo="https://get.perfecttv.net/logo/arenabola2.png" group-title="BACKUP CHANNELS",Arena Bola 2
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 2" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="SPORTS",Arena Bola 2
 http://zozotv.xyz:8080/live/QS3315/K717976/4557.ts
-#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (FHD)" tvg-logo="https://get.perfecttv.net/logo/arenabola2fhd.png" group-title="BACKUP CHANNELS",Arena Bola 2 (FHD)
+#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (FHD)" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="SPORTS",Arena Bola 2 (FHD)
 http://zozotv.xyz:8080/live/QS3315/K717976/792.ts
-#EXTINF:-1 tvg-id="epl1" tvg-name="Premier League" tvg-logo="https://get.perfecttv.net/logo/premierleague.png" group-title="BACKUP CHANNELS",Premier League
+#EXTINF:-1 tvg-id="onehd" tvg-name="Premier League" tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="SPORTS",Premier League
 http://zozotv.xyz:8080/live/QS3315/K717976/156.ts
-#EXTINF:-1 tvg-id="epl1" tvg-name="Premier League (B)" tvg-logo="https://get.perfecttv.net/logo/premierleague.png" group-title="BACKUP CHANNELS",Premier League (B)
+#EXTINF:-1 tvg-id="EPL1" tvg-name="Premier League (B)" tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="SPORTS",Premier League (B)
 http://zozotv.xyz:8080/live/QS3315/K717976/568.ts
-#EXTINF:-1 tvg-id="epl2" tvg-name="Premier League 2" tvg-logo="https://get.perfecttv.net/logo/premierleague2.png" group-title="BACKUP CHANNELS",Premier League 2
+#EXTINF:-1 tvg-id="onehd" tvg-name="Premier League 2" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="SPORTS",Premier League 2
 http://zozotv.xyz:8080/live/QS3315/K717976/157.ts
-#EXTINF:-1 tvg-id="epl2" tvg-name="Premier League 2 (B)" tvg-logo="https://get.perfecttv.net/logo/premierleague2.png" group-title="BACKUP CHANNELS",Premier League 2 (B)
+#EXTINF:-1 tvg-id="EPL2" tvg-name="Premier League 2 (B)" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="SPORTS",Premier League 2 (B)
 http://zozotv.xyz:8080/live/QS3315/K717976/569.ts
-#EXTINF:-1 tvg-id="epl3" tvg-name="Premier League 3" tvg-logo="https://get.perfecttv.net/logo/premierleague3fhd.png" group-title="BACKUP CHANNELS",Premier League 3
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 3" tvg-logo="https://link.zozotv.xyz/pic/epl3zozo.png" group-title="SPORTS",Premier League 3
 http://zozotv.xyz:8080/live/QS3315/K717976/2204.ts
-#EXTINF:-1 tvg-id="epl3" tvg-name="Premier League 3 (B)" tvg-logo="https://get.perfecttv.net/logo/premierleague3fhd.png" group-title="BACKUP CHANNELS",Premier League 3 (B)
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 3 (B)" tvg-logo="https://link.zozotv.xyz/pic/epl3zozo.png" group-title="SPORTS",Premier League 3 (B)
 http://zozotv.xyz:8080/live/QS3315/K717976/2205.ts
-#EXTINF:-1 tvg-id="football" tvg-name="Football" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png" group-title="BACKUP CHANNELS",Football
+#EXTINF:-1 tvg-id="Football" tvg-name="Football" tvg-logo="https://link.zozotv.xyz/pic/footballzozo.png" group-title="SPORTS",Football
 http://zozotv.xyz:8080/live/QS3315/K717976/158.ts
-#EXTINF:-1 tvg-id="Badminton" tvg-name="Badminton" tvg-logo="https://get.perfecttv.net/logo/badminton.png" group-title="BACKUP CHANNELS",Badminton
+#EXTINF:-1 tvg-id="Badminton" tvg-name="Badminton" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS",Badminton
 http://zozotv.xyz:8080/live/QS3315/K717976/155.ts
-#EXTINF:-1 tvg-id="Badminton2" tvg-name="Badminton 2 ( Live only)" tvg-logo="https://get.perfecttv.net/logo/badminton2.png" group-title="BACKUP CHANNELS",Badminton 2 ( Live only)
+#EXTINF:-1 tvg-id="" tvg-name="Badminton 2 ( Live only)" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS",Badminton 2 ( Live only)
 http://zozotv.xyz:8080/live/QS3315/K717976/2342.ts
-#EXTINF:-1 tvg-id="sportplus" tvg-name="Sport Plus" tvg-logo="https://get.perfecttv.net/logo/sportplus.png" group-title="BACKUP CHANNELS",Sport Plus
+#EXTINF:-1 tvg-id="" tvg-name="Sport Plus" tvg-logo="https://link.zozotv.xyz/pic/sportpluszozo.png" group-title="SPORTS",Sport Plus
 http://zozotv.xyz:8080/live/QS3315/K717976/482.ts
-#EXTINF:-1 tvg-id="grandstand" tvg-name="Grandstand" tvg-logo="https://get.perfecttv.net/logo/grandstand.png" group-title="BACKUP CHANNELS",Grandstand
+#EXTINF:-1 tvg-id="onehd" tvg-name="Grandstand" tvg-logo="https://link.zozotv.xyz/pic/grandstandzozo.png" group-title="SPORTS",Grandstand
 http://zozotv.xyz:8080/live/QS3315/K717976/570.ts
-#EXTINF:-1 tvg-id="bein1" tvg-name="BEIN Sport 1 (MY)" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png" group-title="BACKUP CHANNELS",BEIN Sport 1 (MY)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 1 (MY)" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SPORTS",BEIN Sport 1 (MY)
 http://zozotv.xyz:8080/live/QS3315/K717976/384.ts
-#EXTINF:-1 tvg-id="bein2" tvg-name="BEIN Sport 2 (My)" tvg-logo="https://get.perfecttv.net/logo/bein2fhd.png" group-title="BACKUP CHANNELS",BEIN Sport 2 (My)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 2 (My)" tvg-logo="https://i.ibb.co/XzKCv6K/BEINMAX.png" group-title="SPORTS",BEIN Sport 2 (My)
 http://zozotv.xyz:8080/live/QS3315/K717976/383.ts
-#EXTINF:-1 tvg-id="bein3" tvg-name="beIN Sports 3" tvg-logo="https://get.perfecttv.net/logo/bein3fhd.png" group-title="BACKUP CHANNELS",beIN Sports 3
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="beIN Sports 3" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="SPORTS",beIN Sports 3
 http://zozotv.xyz:8080/live/QS3315/K717976/162.ts
-#EXTINF:-1 tvg-id="bein2" tvg-name="beIN Sports 2 ID" tvg-logo="https://get.perfecttv.net/logo/bein2fhd.png" group-title="BACKUP CHANNELS",beIN Sports 2 ID
+#EXTINF:-1 tvg-id="beIN Sport 2" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="SPORTS",beIN Sports 2 ID
 http://zozotv.xyz:8080/live/QS3315/K717976/163.ts
-#EXTINF:-1 tvg-name="NOW SPORTS 1" group-title="BACKUP CHANNELS",NOW SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="SPORTS",NOW SPORTS 1
 http://zozotv.xyz:8080/live/QS3315/K717976/836.ts
-#EXTINF:-1 tvg-name="NOW SPORTS 2" group-title="BACKUP CHANNELS",NOW SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 2" tvg-logo="https://i.ibb.co/M6Bv7DN/1684376046250.png" group-title="SPORTS",NOW SPORTS 2
 http://zozotv.xyz:8080/live/QS3315/K717976/837.ts
-#EXTINF:-1 tvg-name="NOW SPORTS 3" group-title="BACKUP CHANNELS",NOW SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 3" tvg-logo="https://i.ibb.co/KFSpRmt/1684376197363.png" group-title="SPORTS",NOW SPORTS 3
 http://zozotv.xyz:8080/live/QS3315/K717976/840.ts
-#EXTINF:-1 tvg-name="Champions 1" group-title="BACKUP CHANNELS",Champions 1
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/02RRn5F/tyrty.png" group-title="SPORTS",Champions 1
 http://zozotv.xyz:8080/live/QS3315/K717976/164.ts
-#EXTINF:-1 tvg-name="Champions 2" group-title="BACKUP CHANNELS",Champions 2
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Champions 2" tvg-logo="https://i.ibb.co/25f0KrC/HFRR.png" group-title="SPORTS",Champions 2
 http://zozotv.xyz:8080/live/QS3315/K717976/165.ts
-#EXTINF:-1 tvg-name="BT Sport 1" group-title="BACKUP CHANNELS",BT Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="SPORTS",BT Sport 1
 http://zozotv.xyz:8080/live/QS3315/K717976/173.ts
-#EXTINF:-1 tvg-name="BT Sport 2" group-title="BACKUP CHANNELS",BT Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="SPORTS",BT Sport 2
 http://zozotv.xyz:8080/live/QS3315/K717976/174.ts
-#EXTINF:-1 tvg-id="spotv" tvg-name="SPOTV" tvg-logo="https://get.perfecttv.net/logo/spotvfhd.png" group-title="BACKUP CHANNELS",SPOTV
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="SPORTS",SPOTV
 http://zozotv.xyz:8080/live/QS3315/K717976/399.ts
-#EXTINF:-1 tvg-id="spotv2" tvg-name="Spotv 2" tvg-logo="https://get.perfecttv.net/logo/spotv2fhd.png" group-title="BACKUP CHANNELS",Spotv 2
+#EXTINF:-1 tvg-id="" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="SPORTS",Spotv 2
 http://zozotv.xyz:8080/live/QS3315/K717976/555.ts
-#EXTINF:-1 tvg-name="Usee Sport 1" group-title="BACKUP CHANNELS",Usee Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORTS",Usee Sport 1
 http://zozotv.xyz:8080/live/QS3315/K717976/360.ts
-#EXTINF:-1 tvg-name="Usee Sport 2" group-title="BACKUP CHANNELS",Usee Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORTS",Usee Sport 2
 http://zozotv.xyz:8080/live/QS3315/K717976/361.ts
-#EXTINF:-1 tvg-name="NBC Golf" group-title="BACKUP CHANNELS",NBC Golf
+#EXTINF:-1 tvg-id="Golf" tvg-name="NBC Golf" tvg-logo="https://i.ibb.co/mHGzmxS/golf.png" group-title="SPORTS",NBC Golf
 http://zozotv.xyz:8080/live/QS3315/K717976/166.ts
-#EXTINF:-1 tvg-id="rtmsukan" tvg-name="SUKAN RTM" tvg-logo="https://get.perfecttv.net/logo/sukanrtm.png" group-title="BACKUP CHANNELS",SUKAN RTM
+#EXTINF:-1 tvg-id="Arena2" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="SPORTS",SUKAN RTM
 http://zozotv.xyz:8080/live/QS3315/K717976/153.ts
-#EXTINF:-1 tvg-name="Eurosport" group-title="BACKUP CHANNELS",Eurosport
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/wrGxc4V/euu.png" group-title="SPORTS",Eurosport
 http://zozotv.xyz:8080/live/QS3315/K717976/328.ts
-#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://get.perfecttv.net/logo/nbatv.png" group-title="BACKUP CHANNELS",NBA TV
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="SPORTS",NBA TV
 http://zozotv.xyz:8080/live/QS3315/K717976/167.ts
-#EXTINF:-1 tvg-name="Fight Sport" group-title="BACKUP CHANNELS",Fight Sport
+#EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="SPORTS",Fight Sport
 http://zozotv.xyz:8080/live/QS3315/K717976/168.ts
-#EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" group-title="BACKUP CHANNELS",Al Sunnah Al Nabawiyah TV
+#EXTINF:-1 tvg-id="" tvg-name="Al Sunnah Al Nabawiyah TV " tvg-logo="https://i.ibb.co/YkkM93P/ALQURAN.png" group-title="OTHERS",Al Sunnah Al Nabawiyah TV 
 http://zozotv.xyz:8080/live/QS3315/K717976/170.ts
-#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" group-title="BACKUP CHANNELS",Al Quran Al Kareem TV
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.ibb.co/YkkM93P/ALQURAN.png" group-title="OTHERS",Al Quran Al Kareem TV
 http://zozotv.xyz:8080/live/QS3315/K717976/171.ts
-#EXTINF:-1 tvg-name="Tawaf TV" group-title="BACKUP CHANNELS",Tawaf TV
+#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="https://i.ibb.co/gzJKj9R/TW.png" group-title="OTHERS",Tawaf TV
 http://zozotv.xyz:8080/live/QS3315/K717976/172.ts
-#EXTINF:-1 tvg-id="620.astro" tvg-name="Cbeebies" tvg-logo="https://get.perfecttv.net/logo/cbeebies.png" group-title="BACKUP CHANNELS",Cbeebies
+#EXTINF:-1 tvg-id="" tvg-name="Cbeebies" tvg-logo="https://i.ibb.co/YZDxCg2/ddddddd.png" group-title="KIDS",Cbeebies
 http://zozotv.xyz:8080/live/QS3315/K717976/273.ts
-#EXTINF:-1 tvg-name="O Channel" group-title="BACKUP CHANNELS",O Channel
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.ibb.co/821LM3W/1642736412182.png" group-title="INDONESIA",O Channel
 http://zozotv.xyz:8080/live/QS3315/K717976/475.ts
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="BACKUP CHANNELS",CNN International
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://i.ibb.co/zx3WHbV/ASC.png" group-title="NEWS",CNN International
 http://zozotv.xyz:8080/live/QS3315/K717976/842.ts
-#EXTINF:-1 tvg-id="hits" tvg-name="HITS" tvg-logo="https://get.perfecttv.net/logo/hits.png" group-title="BACKUP CHANNELS",HITS
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="ENTERTAINMENT",HITS
 http://zozotv.xyz:8080/live/QS3315/K717976/843.ts
-#EXTINF:-1 tvg-id="TVBJADE" tvg-name="TVB Jade" tvg-logo="https://get.perfecttv.net/logo/tvbjade.png" group-title="BACKUP CHANNELS",TVB Jade
+#EXTINF:-1 tvg-id="" tvg-name="TVB Jade" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbJade.png" group-title="CHINESE",TVB Jade
 http://zozotv.xyz:8080/live/QS3315/K717976/2118.ts
-#EXTINF:-1 tvg-name="TVB Xing He" group-title="BACKUP CHANNELS",TVB Xing He
+#EXTINF:-1 tvg-id="" tvg-name="TVB Xing He" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbXingHe.png" group-title="CHINESE",TVB Xing He
 http://zozotv.xyz:8080/live/QS3315/K717976/2119.ts
-#EXTINF:-1 tvg-id="TVBEnter" tvg-name="TVB Entertainment" tvg-logo="https://get.perfecttv.net/logo/tvbentertainmentnews.png" group-title="BACKUP CHANNELS",TVB Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="TVB Entertainment" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbEntertainment.png" group-title="CHINESE",TVB Entertainment
 http://zozotv.xyz:8080/live/QS3315/K717976/2120.ts
-#EXTINF:-1 tvg-id="TVBSASIA" tvg-name="TVBS Asia" tvg-logo="https://get.perfecttv.net/logo/tvbs.png" group-title="BACKUP CHANNELS",TVBS Asia
+#EXTINF:-1 tvg-id="" tvg-name="TVBS Asia" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbs.png" group-title="CHINESE",TVBS Asia
 http://zozotv.xyz:8080/live/QS3315/K717976/2121.ts
-#EXTINF:-1 tvg-id="PHOENIX" tvg-name="Phoenix Chinese Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png" group-title="BACKUP CHANNELS",Phoenix Chinese Channel
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix Chinese Channel" tvg-logo="http://link.zozotv.xyz:8080/pic/zPhoenix.png" group-title="CHINESE",Phoenix Chinese Channel
 http://zozotv.xyz:8080/live/QS3315/K717976/2122.ts
-#EXTINF:-1 tvg-id="CITIASIA" tvg-name="Cti Asia" tvg-logo="https://get.perfecttv.net/logo/ctiasia.png" group-title="BACKUP CHANNELS",Cti Asia
+#EXTINF:-1 tvg-id="" tvg-name="Cti Asia" tvg-logo="http://link.zozotv.xyz:8080/pic/zCti.png" group-title="CHINESE",Cti Asia
 http://zozotv.xyz:8080/live/QS3315/K717976/2123.ts
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://get.perfecttv.net/logo/cctv4.png" group-title="BACKUP CHANNELS",CCTV4
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://link.zozotv.xyz:8080/pic/zCctv.png" group-title="CHINESE",CCTV4
 http://zozotv.xyz:8080/live/QS3315/K717976/2124.ts
-#EXTINF:-1 tvg-name="Sport UHD" tvg-logo="https://get.perfecttv.net/logo/sportuhd.png" group-title="BACKUP CHANNELS",Sport UHD
+#EXTINF:-1 tvg-id="" tvg-name="Sport UHD" tvg-logo="https://link.zozotv.xyz/pic/sportuhdzozo.png" group-title="SPORTS",Sport UHD
 http://zozotv.xyz:8080/live/QS3315/K717976/2165.ts
-#EXTINF:-1 tvg-name="iNews" group-title="BACKUP CHANNELS",iNews
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="" group-title="INDONESIA",iNews
 http://zozotv.xyz:8080/live/QS3315/K717976/2203.ts
 
