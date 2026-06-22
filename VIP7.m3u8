@@ -9,11 +9,13 @@
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="AstroRia.my" tvg-logo="https://ptv2026.com/logo/live.png" ,VIP LIVE
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="AstroRia.my" tvg-logo="https://ptv2026.com/logo/live.png" ,104 VIP LIVE
 ###KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=ria
 
-
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="AstroPrima.my" tvg-logo="https://ptv2026.com/logo/live.png" ,105 VIP LIVE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=prima
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://ptv2026.com/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
