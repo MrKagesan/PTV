@@ -17,6 +17,18 @@ https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=prima
 
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="AstroCeria.my" tvg-logo="https://ptv2026.com/logo/live.png" ,611 VIP LIVE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=ceria
+
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="ArenaBola" tvg-logo="https://ptv2026.com/logo/live2.png" ,803 VIP LIVE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=bola1
+
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="ArenaBola2" tvg-logo="https://ptv2026.com/logo/live2.png" ,804 VIP LIVE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=bola2
+
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://ptv2026.com/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -734,6 +746,13 @@ https://ptv2026.com/fifawc2.mpd?username=vip_level7&password=vip_level7&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://ptv2026.com/fifawc3.mpd?username=vip_level7&password=vip_level7&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
 
+#EXTINF:-1 tvg-id="fifa4" tvg-name="" group-title="SPORTS FHD" group-logo="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9DB657EE-7589-4D2A-B4D5-C04B7BFAEB61/0-16x9.jpg?width=341&updatedTime=2026-06-24T14:14:47Z&dt=Web", 698 Unifi FIFA4 TEST
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44698807b32844cdaa459f51970a57b8:00faf338044bfccf10f33fda008eb8eb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://ptv2026.com/fifawc4.mpd?username=vip_level7&password=vip_level7&channel=fifa4&kid=44698807-b328-44cd-aa45-9f51970a57b8
 
 
 #EXTINF:-1 tvg-id="unifisports1" tvg-name="" group-title="SPORTS FHD" group-logo="" tvg-logo="https://ptv2026.com/logo/unifisport.png", 699 Unifi Sport
