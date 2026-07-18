@@ -9,25 +9,50 @@
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="AstroRia.my" tvg-logo="https://ptv2026.com/logo/live.png" ,104 VIP LIVE
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="AstroRia.my" tvg-logo="https://ptv2026.com/logo/live.png" ,104 VIP
 ###KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=ria
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="AstroPrima.my" tvg-logo="https://ptv2026.com/logo/live.png" ,105 VIP LIVE
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="AstroPrima.my" tvg-logo="https://ptv2026.com/logo/live.png" ,105 VIP
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=prima
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="AstroCeria.my" tvg-logo="https://ptv2026.com/logo/live.png" ,611 VIP LIVE
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="AstroCeria.my" tvg-logo="https://ptv2026.com/logo/live.png" ,611 VIP
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=ceria
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="ArenaBola" tvg-logo="https://ptv2026.com/logo/live2.png" ,803 VIP LIVE
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="ArenaBola" tvg-logo="https://ptv2026.com/logo/live2.png" ,803 VIP
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=bola1
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="ArenaBola2" tvg-logo="https://ptv2026.com/logo/live2.png" ,804 VIP LIVE
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="ArenaBola2" tvg-logo="https://ptv2026.com/logo/live2.png" ,804 VIP
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=bola2
+
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="grandstand" tvg-logo="https://ptv2026.com/logo/live2.png" ,CH810 VIP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=grandstand
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="epl1" tvg-logo="https://ptv2026.com/logo/live2.png" ,CH811 VIP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=epl
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="epl2" tvg-logo="https://ptv2026.com/logo/live2.png" ,CH812 VIP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=epl2
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="football" tvg-logo="https://ptv2026.com/logo/live2.png" ,CH814 VIP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=football
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="Badminton" tvg-logo="https://ptv2026.com/logo/live2.png" ,CH815 VIP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=badminton1
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="Badminton2" tvg-logo="https://ptv2026.com/logo/live2.png" ,CH816 VIP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=badminton2
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="VIP" tvg-id="sportplus" tvg-logo="https://ptv2026.com/logo/live2.png" ,CH817 VIP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=sportplus	
+
+
+
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://ptv2026.com/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -94,7 +119,14 @@ https://ptv2026.com/mytv.m3u8?channel=tv5
 #EXTINF:-1 tvg-id="'AlHijrah" ch-number="114" tvg-name="TV ALHIJRAH" tvg-logo="https://ptv2026.com/logo/alhijrah.png" group-title="MALAYSIA",110 Al-Hijrah
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-https://ptv2026.com/dash2.mpd?username=vip_level7&password=vip_level7&channel=alhijrah
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",113 Awani
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-id="sensasi" ch-number="103" tvg-name="" group-title="MALAYSIA" tvg-logo="https://ptv2026.com/logo/sensasi.png",110 Sensasi
 #KODIPROP:inputstream=inputstream.adaptive
@@ -128,6 +160,10 @@ https://ptv2026.com/myunifi.mpd?username=vip_level7&password=vip_level7&channel=
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
 https://ptv2026.com/dash2.mpd?username=vip_level7&password=vip_level7&channel=bernama
 
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MALAYSIA" tvg-id="AstroOasis.my" tvg-logo="https://get.perfecttv.net/logo/oasis.png" ,115 Oasis
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://ptv2026.com/logo/jomngaji.png" ,124 Jom Ngaji
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
@@ -235,10 +271,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd?chann
 
 #====korea=======
 
-#EXTINF:-1 group-logo="" group-title="KOREAN" tvg-id="onehd" tvg-logo="https://ptv2026.com/logo/one.png",200 One
+#EXTINF:-1 group-logo="" group-title="KOREAN" tvg-id="daebak" tvg-logo="https://ptv2026.com/logo/one.png",200 Daebak
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=4a2285bc4c5593c6ec41e95494f6b510:b10ab951eab1556c78b410ce0cd6dfef
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
+
 #EXTINF:-1 tvg-id="tvN HD" ch-number="211" tvg-name="tvN HD" tvg-logo="https://ptv2026.com/logo/tvn.png" group-title="KOREAN",201 tvN HD
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -264,28 +301,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="zeecinema" tvg-logo="https://ptv2026.com/logo/zeecinema.png" , 187 Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
-https://ptv2026.com/astro_10802.mpd?username=vip_level7&password=vip_level7&channel=zeecinema
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
 #EXTINF:-1 group-logo="" group-title="INDIAN" tvg-id="zeetamil" tvg-logo="https://ptv2026.com/logo/zeetamil.png" ,188 Zee Tamil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
-https://ptv2026.com/dash2.mpd?username=vip_level7&password=vip_level7&channel=zeetamil
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="colorhindi" tvg-logo="https://ptv2026.com/logo/colorhindi.png" ,189 Colors Hindi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
-https://ptv2026.com/dash2.mpd?username=vip_level7&password=vip_level7&channel=colorhindi
-
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="colortamil" tvg-logo="https://ptv2026.com/logo/colortamil.png" ,190 Colors Tamil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
-https://ptv2026.com/dash2.mpd?username=vip_level7&password=vip_level7&channel=colortamil
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
 #EXTINF:-1 group-logo="" group-title="INDIAN" tvg-id="ktv" tvg-logo="https://ptv2026.com/logo/ktv.png",191 KTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e7863a8e770b0d72ebe4a68437b6410:73648ceba3751645926d45421c85d927
-https://ptv2026.com/dash2.mpd?username=vip_level7&password=vip_level7&channel=ktv
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
 
 #EXTINF:-1 tvg-id="suntv" ch-number="211" group-title="INDIAN" group-logo="" tvg-logo="https://ptv2026.com/logo/suntv.png",195 Sun TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -318,14 +354,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?chan
 #EXTINF:-1 tvg-id="Celestial Classic Movies" ch-number="289" tvg-name="CCM" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/ccm.png",135 CCM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
-https://ptv2026.com/dash2.mpd?username=vip_level7&password=vip_level7&channel=ccm
+http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Celestial Movies HD" ch-number="288" tvg-name="CELESTIAL HD" tvg-logo="https://ptv2026.com/logo/celestialmovies.png" group-title="MOVIES",136 Celestial Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
-https://ptv2026.com/dash2.mpd?username=vip_level7&password=vip_level7&channel=celestial
+http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
 #EXTINF:-1 player-buffer="2" tvg-id="" ch-number="288" tvg-name="HiYah" tvg-logo="https://ptv2026.com/logo/hiyah.png" group-title="MOVIES",136 Hi-Yah
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
@@ -392,7 +428,8 @@ https://ptv2026.com/myunifi.mpd?username=vip_level7&password=vip_level7&channel=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-https://ptv2026.com/astro_10802.mpd?username=vip_level7&password=vip_level7&channel=showcase
+#https://ptv2026.com/astro_10802.mpd?username=vip_level7&password=vip_level7&channel=showcase
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="rockaction" ch-number="474" tvg-logo="https://ptv2026.com/logo/rockaction.png",147 Rock Action
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -728,7 +765,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd?chan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://ptv2026.com/fifawc.mpd?username=vip_level7&password=vip_level7&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
+https://ptv2026.com/myunifi.mpd?username=vip_level7&password=vip_level7&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
 
 #EXTINF:-1 tvg-id="fifa2" tvg-name="" group-title="SPORTS FHD" group-logo="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.jpg?width=176&updatedTime=undefined&dt=Web", 697 Unifi FIFA2 TEST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -736,7 +773,7 @@ https://ptv2026.com/fifawc.mpd?username=vip_level7&password=vip_level7&channel=f
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://ptv2026.com/fifawc2.mpd?username=vip_level7&password=vip_level7&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
+https://ptv2026.com/myunifi.mpd?username=vip_level7&password=vip_level7&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
 
 #EXTINF:-1 tvg-id="fifa3" tvg-name="" group-title="SPORTS FHD" group-logo="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.jpg?width=176&updatedTime=undefined&dt=Web", 698 Unifi FIFA3 TEST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -744,7 +781,7 @@ https://ptv2026.com/fifawc2.mpd?username=vip_level7&password=vip_level7&channel=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://ptv2026.com/fifawc3.mpd?username=vip_level7&password=vip_level7&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
+https://ptv2026.com/myunifi.mpd?username=vip_level7&password=vip_level7&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
 
 #EXTINF:-1 tvg-id="fifa4" tvg-name="" group-title="SPORTS FHD" group-logo="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9DB657EE-7589-4D2A-B4D5-C04B7BFAEB61/0-16x9.jpg?width=341&updatedTime=2026-06-24T14:14:47Z&dt=Web", 698 Unifi FIFA4 TEST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
