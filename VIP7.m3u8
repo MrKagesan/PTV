@@ -409,7 +409,8 @@ https://ptv2026.com/myunifi.mpd?username=vip_level7&password=vip_level7&channel=
 #EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="404" tvg-logo="https://ptv2026.com/logo/boo.png" , BOO  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=boo
+#https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=boo
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.mpd
 
 #EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="hbohd" tvg-logo="https://ptv2026.com/logo/hbohd.png" , HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -487,17 +488,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
-###EXTINF:-1 tvg-id="GALAXYPREMIUM" tvg-name="149 Galaxy Premium" tvg-logo="https://ptv2026.com/logo/galaxypremium.png" group-title="MOVIES",149 Galaxy Premium
-###KODIPROP:inputstream.adaptive.manifest_type=dash
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-###https://ptv2026.com/dashVision3.mpd?username=vip_level7&password=vip_level7&channel=galaxypremium
-
-##EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/cinemaworld.png", 155 CINEMAWORLD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmulcbcuxlu9vk1ru2bcdqsht40u5.tvnows.workers.dev/DZs4r1B0VwR3T6Y1ynv47HyBqrYqaxcapZxFtSmxLXZrgsRROh
-#https://cubmumpd0z2m13s4pkvv1bchljxzivaz.tvnows.workers.dev/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 tvg-id="hitsmovieshd" ch-number="401" group-title="MOVIES" group-logo="" tvg-logo="https://ptv2026.com/logo/hitsmovies.png", HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -565,8 +555,26 @@ https://ptv2026.com/dashVision.mpd?username=vip_level7&password=vip_level7&chann
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://ptv2026.com/dashVision.mpd?username=vip_level7&password=vip_level7&channel=mnplus
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ptv2026.com/logo/sonypix.png" group-title="MOVIES", Sony Pix
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2688.ts?channel=pix
+#EXTINF:-1 tvg-id="moviesphere" tvg-logo="https://ptv2026.com/logo/moviesphere.png" group-title="MOVIES",MovieSphere FHD
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="outersphere" tvg-logo="https://ptv2026.com/logo/outersphere.png" group-title="MOVIES",OuterSphere
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+#EXTINF:-1 tvg-id="pluto-tv-reaction" tvg-logo="https://ptv2026.com/logo/reaction.png" group-title="MOVIES",Reaction
+https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
+#EXTINF:-1 tvg-id="flicks-of-fury" tvg-logo="https://ptv2026.com/logo/flicksoffurry.png" group-title="MOVIES",Flicks of Fury
+https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
+##EXTINF:-1 tvg-id="charge" tvg-logo="https://ptv2026.com/logo/charge.png" group-title="MOVIES",Charge!
+##https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="paramount-movie-channel" tvg-logo="https://ptv2026.com/logo/paramountmovie.png" group-title="MOVIES",Paramount Movie Channel
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 tvg-id="pluto-tv-trending-now" tvg-logo="https://ptv2026.com/logo/trendingnow.png" group-title="MOVIES",Trending Now
+https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
+#EXTINF:-1 tvg-id="cine-adrenalina" tvg-logo="https://ptv2026.com/logo/cineAdrenalina.png" group-title="MOVIES",Cine adrenalina
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+#EXTINF:-1 tvg-id="cine-premiere" tvg-logo="https://ptv2026.com/logo/cinepremiere.png" group-title="MOVIES",Cine Premiere
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+
+
 
 
 
@@ -831,24 +839,30 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://load.ptv2026.com/dash3.mpd?username=vip_level7&password=vip_level7&channel=arenabola1
 
-
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="SPORTS FHD" tvg-id="804" tvg-logo="https://ptv2026.com/logo/arenabola2.png" , Bola 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=bola2
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=bola2
+https://load.ptv2026.com/dash3.mpd?username=vip_level7&password=vip_level7&channel=arenabola2
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="SPORTS FHD" tvg-id="810" tvg-logo="https://ptv2026.com/logo/grandstand.png" , Grandstand
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=grandstand
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+#https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=grandstand
+https://load.ptv2026.com/dash3.mpd?username=vip_level7&password=vip_level7&channel=grandstand
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="SPORTS FHD" tvg-id="811" tvg-logo="https://ptv2026.com/logo/premierleague.png" , EPL 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=epl
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/601/default_primary.mpd
+https://load.ptv2026.com/dash3.mpd?username=vip_level7&password=vip_level7&channel=epl1
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="SPORTS FHD" tvg-id="812" tvg-logo="https://ptv2026.com/logo/premierleague2.png" , EPL 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=epl2
+#https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=epl2
+#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+https://load.ptv2026.com/dash3.mpd?username=vip_level7&password=vip_level7&channel=epl2
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="SPORTS FHD" tvg-id="814" tvg-logo="https://ptv2026.com/logo/football.png" , Football
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -857,11 +871,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="SPORTS FHD" tvg-id="815" tvg-logo="https://ptv2026.com/logo/badminton.png" , Badminton
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=badminton1
+#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+##https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=badminton1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="SPORTS FHD" tvg-id="816" tvg-logo="https://ptv2026.com/logo/badminton2.png" , Badminton 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=badminton2
+#KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+##https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=badminton2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="SPORTS FHD" tvg-id="817" tvg-logo="https://ptv2026.com/logo/sportplus.png" , Sports Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1010,6 +1030,46 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a6d1a4ee784d566bc70b202fdac71310:b4725c0e078d9ab8649ac4f5a3e0fb9b
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b8374dcd-77b2-5eba-a478-824373756b44/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep13" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep13
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e83ba61ea06a2810374c24ffba089c10:16a010250578f5c6f9cb75dd7d5f49e6
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/3305db66-860d-5bfc-93e6-b06b66d1e62d/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep14" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep14
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=770546f605d935643b44760e7e5b1c10:ef7136611a58f94975d04e9ba7ab627f
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/a0fb9bd8-62b2-5d13-9c5b-2c2a606ab7d9/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep15" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep15
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=3852cb0b5d81753cbe4be7707516df10:07f6022167dc0d72d47a7bf259a6f5cf
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b737d1e4-e3dd-5714-90cb-6466eb6ab9c0/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep16" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep16
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=117ff0cd4b844e9a76469edd8e5f2310:129f90d94487071c26e9337a43ccf015
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/5215b300-f9b7-5e94-81c3-34accb814bd3/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep17" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep17
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=20b78693e7fc369a3a22223b3059da10:aecc458de8b2fe987fc6f5ce0a64e665
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/00da5b79-b8a3-5583-b387-3c5a594c67b1/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep18" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep18
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2132451a0606ee3ad5517b9ae7cac110:cc5050be292ed06855132a4b955e9686
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/7c2550f4-5e0c-59bd-ae39-14ef7273515a/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep19" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep19
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=53199376274d3138e8da233a5242eb10:e5fe269e33003e97b85c82f6a94146d4
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ab24d0eb-069d-5bcc-93e5-af4990c894bd/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep20" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep20
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a5dc23f511f7326cce1544e7f65fe910:1e67e4a01047ea881ab8fa48b6b55f5b
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/5d06eb98-b1a5-5d24-8347-8e37bd256814/default_ott.mpd
 
 
 ##### Kasih Yang Terkorban ####
@@ -1140,6 +1200,56 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a20a77a2c94cde768ca51f5e5785e010:859e128066532e77cf00a41fe54ce2c0
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/844183b1-87fb-5c8e-b459-3cf0d637910c/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep26" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep26
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=dc9be8082ee16e8ac959b171e0dc4f10:9b788985960045bf5e538c6d4dba8a99
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/a6ecca60-dcb2-5b5d-a49d-0d9ba009c6c7/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep27" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep27
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=8388b3b7678c6b4467be7a937a341510:4b8e6ca83f79710bd8548785844abb53
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/66b6ab24-f766-5c85-a123-1332d9994f79/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep28" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep28
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ea32f1dcf364a80d8f71d033b24d0310:f1ff210d2db2c77a8ecb0cef376ca2a3
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/21a5572f-e5b1-5c36-9f61-e54c08aa0f8b/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep29" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep29
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=598d8735ec9bb96eec07c2c64a508a10:869b8f8385b6854cbb76cd9e0233062b
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/e943700c-d8d8-5af7-a8d9-f3f601e6abef/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep30" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep30
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ed4f433e1a22df34908762cc3beb6810:f3300d9b2fe267c4ca5873f23de74084
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ac1b2bec-cff6-5ade-ad10-1cc0d7487166/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep31" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep31
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a2abb1bac6349d8e5bc2716a4bc46110:2fe4a8392c7f8acc8fab77c860eba765
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/2af07c60-2fb4-59be-8c77-d77389f2a92a/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep32" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep32
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e3c8724f44d4eefa4ffaa2bf5fecc710:3fb71c66707b27d3b74a22f931d48ed8
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/986003ae-ea7b-571d-bc3a-74899c02af75/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep33" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep33
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=06daebbd79cf10aea3c8ca97a3e53e10:68ca8a50669be5bd81d58967ac678818
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/093b0230-2f9b-59c5-b97b-2775625aaa9c/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep34" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep34
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f10fd624149674e24a672d6b7db35910:9ab8d7473f5da5ea6655b05fc630ca98
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/79851df7-7548-5136-a78d-144554e4883a/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep35" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep35
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=c8ac2ae85c0c8cdb9f9782637d84ab10:af816b5541a0294625ceb5d6563f7d7f
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b12ab592-37d8-5f08-97e9-0d233e494ec5/default_ott.mpd
 
 
 
@@ -1393,6 +1503,16 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8f0c04026a5871f1ed8a7e661ea10b10:c7bfb19189dded127b1979a9ded33293
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/af805d31-8252-5fe4-a3f6-3ec19853f154/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Jutawan Ekspres 2 Ep05" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPNt5KlPUVwHu6FU8_dzXIU7MCuJBf-tnfW3T-GEhF1Ny76xx_dfhDIrRh1wiE4JA_mAFJQAfDx0C7QApZc_PCS9uLDYg02RQQvUlIL9lzJkBJa9-QMkPi82PjBVtSZ9MHyHCzordR8wCWUeWkmfGHi2PW0tDmmF_6o0EB2eqrscs_82JQjMzN4gPGiAix/s1600/Jutawan%20Ekspres%202.jpg" group-title="● Malay Series | Jutawan Express 2",Jutawan Ekspres 2 Ep05
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6ce8097170afd84986e81e37f1426510:e25a0b362db0f786c15ec38fb1ae9726
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9d3167c4-8c22-5f8a-bd20-00ba2d89d2ad/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Jutawan Ekspres 2 Ep06" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPNt5KlPUVwHu6FU8_dzXIU7MCuJBf-tnfW3T-GEhF1Ny76xx_dfhDIrRh1wiE4JA_mAFJQAfDx0C7QApZc_PCS9uLDYg02RQQvUlIL9lzJkBJa9-QMkPi82PjBVtSZ9MHyHCzordR8wCWUeWkmfGHi2PW0tDmmF_6o0EB2eqrscs_82JQjMzN4gPGiAix/s1600/Jutawan%20Ekspres%202.jpg" group-title="● Malay Series | Jutawan Express 2",Jutawan Ekspres 2 Ep06
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=9cf2bbe73715d445ded9132969696010:471ee86a2011fb535a86edb9c26b186f
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/2cc94804-9a06-5318-9759-35da4be50d8e/default_ott.mpd
 
 
 #####  Good Boys Go To Heaven ####
@@ -6854,6 +6974,20 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 
 
 
+#### Kilauan Emas Selebriti ###
+
+#EXTINF:-1 tvg-id="" tvg-name="Kilauan Emas Selebriti Ep01" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYKIX_series_p_IVP_PORT_390x585_95CD8_2026811_14104.jpg" group-title="● Malay Variety | Kilauan Emas Selebriti",Kilauan Emas Selebriti Ep01
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7034e9f0b5b1498639e2a89f11df5710:721d8bcbc5ab2d5534012b80fe9dbd6f
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/57c6907c-8d94-53bc-91ae-d997e93afcde/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kilauan Emas Selebriti Ep02" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYKIX_series_p_IVP_PORT_390x585_95CD8_2026811_14104.jpg" group-title="● Malay Variety | Kilauan Emas Selebriti",Kilauan Emas Selebriti Ep02
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b8eb8aa9925e5da9b9ba57ae10729710:e6fe27872b1d39c82d4ccb65d8fc0f86
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/da739132-7099-554c-b6dc-0051a0721ad8/default_ott.mpd
+
+
 ## Big Stage S5 ###
 
 
@@ -6892,6 +7026,11 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=56951f3f65ed3918571024a39a493f10:adc41f29303d290d4f4ec936d0fa614e
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/19c04a2e-c570-5e35-b49d-c1217bccb5bf/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Big Stage Rocketfuel Ep08" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXSNR_SERIES_P_IVP_PORT_390x585_93F4F_2026723_85250.jpg" group-title="● Malay Variety | Big Stage Rocketfuel",Big Stage Rocketfuel Ep08
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=176df86159522b71092b6d02c2c64110:d0f7a24aa92c7767684c2b0898258ea8
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/3ab59d12-da90-5637-85b0-bfbf0f9f3f46/default_ott.mpd
 
 
 ## Dapu Goodday ##
@@ -7724,6 +7863,10 @@ https://ptv2026.com/get_viu.m3u8?username=vip_level7&password=vip_level7&video_i
 https://ptv2026.com/get_viu.m3u8?username=vip_level7&password=vip_level7&video_id=1166309790&quality=s240p&product_id=3239820&lang=Malay&flag_id=3&ut=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="● VIU Korea| Running Man 2026", Ep814
 https://ptv2026.com/get_viu.m3u8?username=vip_level7&password=vip_level7&video_id=1166310550&quality=s240p&product_id=3249141&lang=Malay&flag_id=3&ut=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="● VIU Korea| Running Man 2026", Ep815
+https://ptv2026.com/get_viu.m3u8?username=vip_level7&password=vip_level7&video_id=1166311187&quality=s240p&product_id=3270528&lang=Malay&flag_id=3&ut=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="● VIU Korea| Running Man 2026", Ep816
+https://ptv2026.com/get_viu.m3u8?username=vip_level7&password=vip_level7&video_id=1166311568&quality=s240p&product_id=3273439&lang=Malay&flag_id=3&ut=2
 
 
 #===== RM 2025 ======
@@ -11988,13 +12131,13 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=1
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=40d869a9-7622-400d-a069-4e79d10540eb
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=40d869a9-7622-400d-a069-4e79d10540eb&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/14/6a62b914-35f2-3750-90aa-258f578f4243.jpeg" group-title="▶ HBO MAX", Action-02-Fall Guy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/14/6a62b914-35f2-3750-90aa-258f578f4243.jpeg" group-title="▶ HBO MAX", Fall Guy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b997fe1d-3218-44cd-bdbb-2661f279afde
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b997fe1d-3218-44cd-bdbb-2661f279afde&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/04/23/8b32cd28-b53b-3c67-98a1-a6aff753c2cd.jpeg" group-title="▶ HBO MAX", Action-01-Run All Night
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/04/23/8b32cd28-b53b-3c67-98a1-a6aff753c2cd.jpeg" group-title="▶ HBO MAX", 01-Run All Night
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c5c76757-7f59-4878-9e97-73722da7c099
@@ -12049,14 +12192,14 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=6
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=9b9d9055-3638-468b-9889-096b22566f7b&sub=t32
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/9fda2c4f-674f-31c7-906e-7bd8b83c2ace.jpeg" group-title="▶ HBO MAX", Action-Khunpan 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/9fda2c4f-674f-31c7-906e-7bd8b83c2ace.jpeg" group-title="▶ HBO MAX", Khunpan 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=08adb58b-b75a-42fe-bccb-41c27f622686
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=08adb58b-b75a-42fe-bccb-41c27f622686&sub=t6
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/de37e8f8-be3f-392f-8135-341ded592c4e.jpeg" group-title="▶ HBO MAX", Action-The Grant Heist
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/de37e8f8-be3f-392f-8135-341ded592c4e.jpeg" group-title="▶ HBO MAX", The Grant Heist
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3cd8bb4c-a585-4661-bde7-e312cb938008
@@ -12069,7 +12212,7 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=3
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ef20e448-43cf-4da2-8730-671a933f3216
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=ef20e448-43cf-4da2-8730-671a933f3216&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/09/fe9822ff-7a12-3dd8-8370-a28cd9afaf3b.jpeg" group-title="▶ HBO MAX", Action-3-Edge Of Tomorrow
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/09/fe9822ff-7a12-3dd8-8370-a28cd9afaf3b.jpeg" group-title="▶ HBO MAX", Edge Of Tomorrow
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=aca5ada1-4417-4019-97f7-018d6954c6c0
@@ -12081,21 +12224,21 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=a
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=1ea3e757-0445-4966-9cc3-5ce9e1714b09
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=1ea3e757-0445-4966-9cc3-5ce9e1714b09&sub=t12
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/10/a3315a5f-8312-37e0-bb94-f06a407b3a09.jpeg" group-title="▶ HBO MAX", Action-1-Ready Player One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/10/a3315a5f-8312-37e0-bb94-f06a407b3a09.jpeg" group-title="▶ HBO MAX", Ready Player One
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=bd0a8a14-4c41-4aa9-a80e-3f60353756ef
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=bd0a8a14-4c41-4aa9-a80e-3f60353756ef&sub=t6
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/24/014a7b9f-80a3-3120-828e-926dc1d60834.jpeg" group-title="▶ HBO MAX", Action-1-Self Reliance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/24/014a7b9f-80a3-3120-828e-926dc1d60834.jpeg" group-title="▶ HBO MAX", Self Reliance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=01e9a174-615d-48a9-93f5-d6c337c70ccc
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=01e9a174-615d-48a9-93f5-d6c337c70ccc&sub=t3
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/13/7dd0e35f-faff-33f4-9530-82b2280431b9.jpeg" group-title="▶ HBO MAX", Action-3-Pacific Rim
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/13/7dd0e35f-faff-33f4-9530-82b2280431b9.jpeg" group-title="▶ HBO MAX", Pacific Rim
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=cf40b9a3-23b2-49b6-a6ea-7c6870226907
@@ -12107,1020 +12250,1020 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=bd0a8a14-4c41-4aa9-a80e-3f60353756ef
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=bd0a8a14-4c41-4aa9-a80e-3f60353756ef&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/6d0ea04e-bf27-3be3-879e-3a270db7dc1d.jpeg" group-title="▶ HBO MAX", Action-The Lord of the Rings: The Fellowship of the Ring Extended Edition
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/6d0ea04e-bf27-3be3-879e-3a270db7dc1d.jpeg" group-title="▶ HBO MAX", The Lord of the Rings: The Fellowship of the Ring Extended Edition
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c99d6146-ac31-4dc9-9957-bd99e95a48d8
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c99d6146-ac31-4dc9-9957-bd99e95a48d8&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/20/ded7d306-cd12-3c66-bfdf-53722674cffd.jpeg" group-title="▶ HBO MAX", Action-Jurassic World: Fallen Kingdom
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/20/ded7d306-cd12-3c66-bfdf-53722674cffd.jpeg" group-title="▶ HBO MAX", Jurassic World: Fallen Kingdom
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c85774c4-ae06-45e3-b2d3-0854ee02591d
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c85774c4-ae06-45e3-b2d3-0854ee02591d&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/18/5140028c-f901-35e6-acdd-b007f76be417.jpeg" group-title="▶ HBO MAX", Action-Jurassic Park
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/18/5140028c-f901-35e6-acdd-b007f76be417.jpeg" group-title="▶ HBO MAX", Jurassic Park
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=de1a2f04-6b7b-446a-b567-f9b96ce4064f
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=de1a2f04-6b7b-446a-b567-f9b96ce4064f&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/12/e14de6d3-16c9-3286-9c2a-d205814d42b8.jpeg" group-title="▶ HBO MAX", Action-Dune: Part One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/12/e14de6d3-16c9-3286-9c2a-d205814d42b8.jpeg" group-title="▶ HBO MAX", Dune: Part One
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3424844c-05db-4cab-9bed-2825e231de94
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=3424844c-05db-4cab-9bed-2825e231de94&sub=t36
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/03/541961bb-908d-3ca8-a6ba-73d498569d82.jpeg" group-title="▶ HBO MAX", Action-Dune: Part Two
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/03/541961bb-908d-3ca8-a6ba-73d498569d82.jpeg" group-title="▶ HBO MAX", Dune: Part Two
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3c3df515-93b8-4410-b10a-414079529821
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=3c3df515-93b8-4410-b10a-414079529821&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/11/9f04a469-d509-3971-9f86-970c246a79f8.jpeg" group-title="▶ HBO MAX", Action-10000 B.C.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/11/9f04a469-d509-3971-9f86-970c246a79f8.jpeg" group-title="▶ HBO MAX", 10000 B.C.
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c13817b1-eac1-47bb-a445-1bf94cc8540b
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c13817b1-eac1-47bb-a445-1bf94cc8540b&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/07/54356892-a726-3138-869a-528278f57fa3.jpeg" group-title="▶ HBO MAX", Action-300
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/07/54356892-a726-3138-869a-528278f57fa3.jpeg" group-title="▶ HBO MAX", 300
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=7f513698-8643-4e7c-9797-4939e17660cb
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=7f513698-8643-4e7c-9797-4939e17660cb&sub=t12
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/f0ee321d-ab75-34b4-af64-2cf040e21e0a.jpeg" group-title="▶ HBO MAX", Action-300: Rise of an Empire
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/f0ee321d-ab75-34b4-af64-2cf040e21e0a.jpeg" group-title="▶ HBO MAX", 300: Rise of an Empire
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=90265e94-8a28-46d5-8437-07031debbd78
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=90265e94-8a28-46d5-8437-07031debbd78&sub=t9
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/20/0858b004-6542-379f-a979-293f769fc66b.jpeg" group-title="▶ HBO MAX", Action-A Man Apart
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/20/0858b004-6542-379f-a979-293f769fc66b.jpeg" group-title="▶ HBO MAX", A Man Apart
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f3bc5bd3-9c92-4fca-a952-d2182f51c02d
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f3bc5bd3-9c92-4fca-a952-d2182f51c02d&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/26/ab0e03b8-bbac-3cd9-b6a7-931c909d1403.jpeg" group-title="▶ HBO MAX", Action-Agent Recon (2024)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/26/ab0e03b8-bbac-3cd9-b6a7-931c909d1403.jpeg" group-title="▶ HBO MAX", Agent Recon (2024)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=02f8940b-60b1-4271-8858-7ab6408a2cda
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=02f8940b-60b1-4271-8858-7ab6408a2cda&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/13/c7bae01b-ffa1-3870-9542-de3712f05b0e.jpeg" group-title="▶ HBO MAX", Action-Ambushed
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/13/c7bae01b-ffa1-3870-9542-de3712f05b0e.jpeg" group-title="▶ HBO MAX", Ambushed
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=e15abb07-171c-4361-b6ed-f8cbab4b5634
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=e15abb07-171c-4361-b6ed-f8cbab4b5634&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/14/4dbd21b2-ffa0-3729-8a00-e9a7178323fd.jpeg" group-title="▶ HBO MAX", Action-American Sniper
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/14/4dbd21b2-ffa0-3729-8a00-e9a7178323fd.jpeg" group-title="▶ HBO MAX", American Sniper
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c6a7381a-c57a-4b56-982d-bf89c5fde065
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c6a7381a-c57a-4b56-982d-bf89c5fde065&sub=t7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/01/1f450a28-9911-39c2-925b-da0d16e20daf.jpeg" group-title="▶ HBO MAX", Action-Apollo 13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/01/1f450a28-9911-39c2-925b-da0d16e20daf.jpeg" group-title="▶ HBO MAX", Apollo 13
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=44692baf-c276-4f3a-86a1-96884949846f
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=44692baf-c276-4f3a-86a1-96884949846f&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/27/23a170b2-27ac-3bae-9a54-9dca3ef051db.jpeg" group-title="▶ HBO MAX", Action-1-Aquaman
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/27/23a170b2-27ac-3bae-9a54-9dca3ef051db.jpeg" group-title="▶ HBO MAX", Aquaman
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2854e755-ee28-4b91-ad82-0384200b0c86
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=2854e755-ee28-4b91-ad82-0384200b0c86&sub=t24
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/20/6d7eb835-3c96-35e4-bfb9-c53457f59864.jpeg" group-title="▶ HBO MAX", Action-1-Aquaman and the Lost Kingdom
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/20/6d7eb835-3c96-35e4-bfb9-c53457f59864.jpeg" group-title="▶ HBO MAX", Aquaman and the Lost Kingdom
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=d09acd40-f3e3-4c15-9561-4d5478595229
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=d09acd40-f3e3-4c15-9561-4d5478595229&sub=t11
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/19/69a56770-aa24-300d-a331-d9408c19db9b.jpeg" group-title="▶ HBO MAX", Action-Assassin Club (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/19/69a56770-aa24-300d-a331-d9408c19db9b.jpeg" group-title="▶ HBO MAX", Assassin Club (2023)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=96ef77bc-ac39-4eab-a5d1-ab99e350bb58
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=96ef77bc-ac39-4eab-a5d1-ab99e350bb58&sub=t8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/01/86836e48-d08c-39d0-9b53-dc4f6bd09e71.jpeg" group-title="▶ HBO MAX", Action-1-Batman
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/01/86836e48-d08c-39d0-9b53-dc4f6bd09e71.jpeg" group-title="▶ HBO MAX", Batman
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=843ee9fd-b65a-4bbb-b86b-030582062dff
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=843ee9fd-b65a-4bbb-b86b-030582062dff&sub=t18
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/02/89dc1e89-5f01-33d1-8de2-027496277966.jpeg" group-title="▶ HBO MAX", Action-1-Batman & Robin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/02/89dc1e89-5f01-33d1-8de2-027496277966.jpeg" group-title="▶ HBO MAX", Batman & Robin
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ddb779e0-3f76-4033-b534-4e660f7bd904
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=ddb779e0-3f76-4033-b534-4e660f7bd904&sub=t9
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/53edbc07-60c7-3159-aab5-6f8e9cf176c8.jpeg" group-title="▶ HBO MAX", Action-1-Batman Begins
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/53edbc07-60c7-3159-aab5-6f8e9cf176c8.jpeg" group-title="▶ HBO MAX", Batman Begins
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=614107f2-d504-48fe-a64b-e8986432ba32
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=614107f2-d504-48fe-a64b-e8986432ba32&sub=t8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/d387cc78-9470-3138-8658-0988966ec3f6.jpeg" group-title="▶ HBO MAX", Action-1-Batman Forever
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/d387cc78-9470-3138-8658-0988966ec3f6.jpeg" group-title="▶ HBO MAX", Batman Forever
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=db16133d-e355-4b2f-a3da-d34126dd8f89
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=db16133d-e355-4b2f-a3da-d34126dd8f89&sub=t14
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/28/e05c336d-ba66-3d3f-827e-d42679dffd39.jpeg" group-title="▶ HBO MAX", Action-1-Batman Returns
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/28/e05c336d-ba66-3d3f-827e-d42679dffd39.jpeg" group-title="▶ HBO MAX", Batman Returns
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ffb6310a-71fe-4015-9ffa-eed56f10eaca
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=ffb6310a-71fe-4015-9ffa-eed56f10eaca&sub=t10
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/07/21e80593-362f-32b1-a188-f00fcadd79c6.jpeg" group-title="▶ HBO MAX", Action-1-Batman v. Superman: Dawn of Justice
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/07/21e80593-362f-32b1-a188-f00fcadd79c6.jpeg" group-title="▶ HBO MAX", Batman v. Superman: Dawn of Justice
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=97f8755b-cfbe-41f9-ac03-f952ab4ed89b
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=97f8755b-cfbe-41f9-ac03-f952ab4ed89b&sub=t23
 
 #out
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/29/e4d166af-e003-3d75-9b34-b368f7019a95.jpeg" group-title="▶ HBO MAX", Action-1-Black Adam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/29/e4d166af-e003-3d75-9b34-b368f7019a95.jpeg" group-title="▶ HBO MAX", Black Adam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=00522bb2-703f-4557-bd7e-977f4dbecdb8
 #xhttps://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=00522bb2-703f-4557-bd7e-977f4dbecdb8&sub=t23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/08/25/4fcb3721-f7f6-35e5-bc9e-572bc49064ce.jpeg" group-title="▶ HBO MAX", Action-Blade
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/08/25/4fcb3721-f7f6-35e5-bc9e-572bc49064ce.jpeg" group-title="▶ HBO MAX", Blade
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ee5a5712-758a-4963-81d9-9eff8c7ca885
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=ee5a5712-758a-4963-81d9-9eff8c7ca885&sub=t23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/22/82108b80-3aea-3ac0-af25-e01b68f22122.jpeg" group-title="▶ HBO MAX", Action-Blade II
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/22/82108b80-3aea-3ac0-af25-e01b68f22122.jpeg" group-title="▶ HBO MAX", Blade II
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/23/faa8bc71-3352-392b-9ee9-ddc52cc2a899.jpeg" group-title="▶ HBO MAX", Action-Blade of the 47 Ronin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/23/faa8bc71-3352-392b-9ee9-ddc52cc2a899.jpeg" group-title="▶ HBO MAX", Blade of the 47 Ronin
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=549d7f5a-0d28-47c5-8275-5d51ffdd2706
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=549d7f5a-0d28-47c5-8275-5d51ffdd2706&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/25/8dc83db9-2a97-3eb7-99ec-5329c970ab78.jpeg" group-title="▶ HBO MAX", Action-Blade Runner 2049
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/25/8dc83db9-2a97-3eb7-99ec-5329c970ab78.jpeg" group-title="▶ HBO MAX", Blade Runner 2049
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ddd6fca9-04ea-4c96-b03e-b2468e89902b
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=ddd6fca9-04ea-4c96-b03e-b2468e89902b&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/bee897a9-666b-3b60-99ca-2b2a395d878a.jpeg" group-title="▶ HBO MAX", Action-Blade: Trinity
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/bee897a9-666b-3b60-99ca-2b2a395d878a.jpeg" group-title="▶ HBO MAX", Blade: Trinity
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2f42d592-b13f-4278-b5ac-2e1b5d1d515f
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=2f42d592-b13f-4278-b5ac-2e1b5d1d515f&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/07/21fb11e2-b58c-369f-a897-2965741c0a9c.jpeg" group-title="▶ HBO MAX", Action-Blind Justice
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/07/21fb11e2-b58c-369f-a897-2965741c0a9c.jpeg" group-title="▶ HBO MAX", Blind Justice
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=02daf139-6148-4f02-b4cd-cd86755f8470
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=02daf139-6148-4f02-b4cd-cd86755f8470&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/10/8a0d1df9-4468-3df4-b57a-c64c941d0850.jpeg" group-title="▶ HBO MAX", Action-1-Blue Beetle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/10/8a0d1df9-4468-3df4-b57a-c64c941d0850.jpeg" group-title="▶ HBO MAX", Blue Beetle
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351&sub=t17
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/11/d02d3c37-5654-3eb5-8b8d-9dd163e6032c.jpeg" group-title="▶ HBO MAX", Action-Body of Lies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/11/d02d3c37-5654-3eb5-8b8d-9dd163e6032c.jpeg" group-title="▶ HBO MAX", Body of Lies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=38ede28d-eb3a-41bf-804d-842fd3b20f85
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=38ede28d-eb3a-41bf-804d-842fd3b20f85&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/69e1d911-9a95-38b3-bb40-5f0017c14bd8.jpeg" group-title="▶ HBO MAX", Action-Border: Shokuzai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/69e1d911-9a95-38b3-bb40-5f0017c14bd8.jpeg" group-title="▶ HBO MAX", Border: Shokuzai
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=808a3efd-fe73-4290-a9a9-40689761b6e9
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=808a3efd-fe73-4290-a9a9-40689761b6e9&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/16/c0b03b3c-3a76-36c2-a5b1-97b31ce12f03.jpeg" group-title="▶ HBO MAX", Action-1-Cash Out
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/16/c0b03b3c-3a76-36c2-a5b1-97b31ce12f03.jpeg" group-title="▶ HBO MAX", Cash Out
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c56a9f88-56e8-44df-aec1-02a713d92a20
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c56a9f88-56e8-44df-aec1-02a713d92a20&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/20/a81054cb-2ed9-392e-bd8a-04dd21476b64.jpeg" group-title="▶ HBO MAX", Action-Central Intelligence
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/20/a81054cb-2ed9-392e-bd8a-04dd21476b64.jpeg" group-title="▶ HBO MAX", Central Intelligence
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=a150ba86-1bad-481f-a5e6-af533c45e241
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=a150ba86-1bad-481f-a5e6-af533c45e241&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/02/081e40f2-53cb-348c-b109-865ed36c4611.jpeg" group-title="▶ HBO MAX", Action-Charlies Angels
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/02/081e40f2-53cb-348c-b109-865ed36c4611.jpeg" group-title="▶ HBO MAX", Charlies Angels
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=00825ee0-99ed-4c08-802b-2912a0933df4
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=00825ee0-99ed-4c08-802b-2912a0933df4&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/17/742eda46-04d4-3089-8a13-1267823c9d50.jpeg" group-title="▶ HBO MAX", Action-Charlies Angels: Full Throttle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/17/742eda46-04d4-3089-8a13-1267823c9d50.jpeg" group-title="▶ HBO MAX", Charlies Angels: Full Throttle
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ab8c590d-9df1-490d-825d-322d06e1819d
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=ab8c590d-9df1-490d-825d-322d06e1819d&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/03/dfe43077-ed5a-3dd5-a891-29d45152cbcf.jpeg" group-title="▶ HBO MAX", Action-Christmas Carol (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/03/dfe43077-ed5a-3dd5-a891-29d45152cbcf.jpeg" group-title="▶ HBO MAX", Christmas Carol (2022)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=687be511-e443-4f89-8f0d-58820c130bb4
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=687be511-e443-4f89-8f0d-58820c130bb4&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/13/afef4cd0-5738-3cba-ad59-0dfc388f3dc0.jpeg" group-title="▶ HBO MAX", Action-Civil War
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/13/afef4cd0-5738-3cba-ad59-0dfc388f3dc0.jpeg" group-title="▶ HBO MAX", Civil War
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=24a3c0ad-05d9-49c5-83ea-8891476b587d
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=24a3c0ad-05d9-49c5-83ea-8891476b587d&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/22/fb7d9914-fed8-3ce8-8220-8b7574be57f4.jpeg" group-title="▶ HBO MAX", Action-Clash of the Titans
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/22/fb7d9914-fed8-3ce8-8220-8b7574be57f4.jpeg" group-title="▶ HBO MAX", Clash of the Titans
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=80c8d109-e7bc-483a-bf46-4b8676beee95
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=80c8d109-e7bc-483a-bf46-4b8676beee95&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/13/60a8d11a-e38a-3bf3-92fa-c8f725d8cf0e.jpeg" group-title="▶ HBO MAX", Action-Cobra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/13/60a8d11a-e38a-3bf3-92fa-c8f725d8cf0e.jpeg" group-title="▶ HBO MAX", Cobra
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=db7fb3f0-5a4a-4135-90a7-4fc6135463b9
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=db7fb3f0-5a4a-4135-90a7-4fc6135463b9&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/07/fe14295b-1efa-327a-a164-6176c2de4866.jpeg" group-title="▶ HBO MAX", Action-Code Name: Wolverine
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/07/fe14295b-1efa-327a-a164-6176c2de4866.jpeg" group-title="▶ HBO MAX", Code Name: Wolverine
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=04d06af1-56ca-4794-b773-c16e4f051617
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=04d06af1-56ca-4794-b773-c16e4f051617&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/22/fa63cf42-bacc-3187-b143-5fea246e5ae4.jpeg" group-title="▶ HBO MAX", Action-Collateral Damage
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/22/fa63cf42-bacc-3187-b143-5fea246e5ae4.jpeg" group-title="▶ HBO MAX", Collateral Damage
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2a136d92-4a85-4719-8a00-99e795a9db9a
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=2a136d92-4a85-4719-8a00-99e795a9db9a&sub=t11
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/3d4b6b4c-3429-3101-8766-8700dd07572f.jpeg" group-title="▶ HBO MAX", Action-Congo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/3d4b6b4c-3429-3101-8766-8700dd07572f.jpeg" group-title="▶ HBO MAX", Congo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=e34c2a2f-acf2-4e94-877f-d903bedc42d3
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=e34c2a2f-acf2-4e94-877f-d903bedc42d3&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/f269cdbc-9509-3f07-9e36-4b4814e46b45.jpeg" group-title="▶ HBO MAX", Action-Constantine
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/f269cdbc-9509-3f07-9e36-4b4814e46b45.jpeg" group-title="▶ HBO MAX", Constantine
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c6212da1-a5f5-4d1d-98da-459071244e65
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c6212da1-a5f5-4d1d-98da-459071244e65&sub=t7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/25/9e82eb2c-7978-3025-95bc-78375ddb2eb7.jpeg" group-title="▶ HBO MAX", Action-Dead Mine
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/25/9e82eb2c-7978-3025-95bc-78375ddb2eb7.jpeg" group-title="▶ HBO MAX", Dead Mine
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=6bf231ab-e569-4c69-b071-16d2270626dd
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=6bf231ab-e569-4c69-b071-16d2270626dd&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/24/bc061b25-144f-36e6-a6ee-100c56f4e01f.jpeg" group-title="▶ HBO MAX", Action-Deadwood: The Movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/24/bc061b25-144f-36e6-a6ee-100c56f4e01f.jpeg" group-title="▶ HBO MAX", Deadwood: The Movie
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=fc7262a5-a72b-4887-9f18-4b8723a43f67
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=fc7262a5-a72b-4887-9f18-4b8723a43f67&sub=t24
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/18/52449d19-0739-31e8-af3c-db0fff1504a4.jpeg" group-title="▶ HBO MAX", Action-Dunkirk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/18/52449d19-0739-31e8-af3c-db0fff1504a4.jpeg" group-title="▶ HBO MAX", Dunkirk
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b01dd896-026e-4c67-975e-40281af7b62c
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b01dd896-026e-4c67-975e-40281af7b62c&sub=t26
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/02/14/cfb44c7c-59d6-357c-9952-228387076a12.jpeg" group-title="▶ HBO MAX", Action-El Diablo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/02/14/cfb44c7c-59d6-357c-9952-228387076a12.jpeg" group-title="▶ HBO MAX", El Diablo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=d5d5390c-9b3e-4d41-9792-bbe2a69bc15a
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=d5d5390c-9b3e-4d41-9792-bbe2a69bc15a&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/18/3fac3fc4-e668-3b83-b8ba-e548f206a8fd.jpeg" group-title="▶ HBO MAX", Action-Eraser
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/18/3fac3fc4-e668-3b83-b8ba-e548f206a8fd.jpeg" group-title="▶ HBO MAX", Eraser
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=26775ffb-904d-4035-b846-eae5681feabb
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=26775ffb-904d-4035-b846-eae5681feabb&sub=t8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/06/5d7f6491-74e4-3ddd-80e3-e95bcda7b758.jpeg" group-title="▶ HBO MAX", Action-2-Expend4bles
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/06/5d7f6491-74e4-3ddd-80e3-e95bcda7b758.jpeg" group-title="▶ HBO MAX", Expend4bles
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b3514d38-d9fe-4e54-b7b9-75cafa58aabc
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b3514d38-d9fe-4e54-b7b9-75cafa58aabc&sub=t1
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/04/5146eee0-92d5-3e75-81d9-4f92a896806f.jpeg" group-title="▶ HBO MAX", Action-1-Fantastic Beasts and Where to Find Them
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/04/5146eee0-92d5-3e75-81d9-4f92a896806f.jpeg" group-title="▶ HBO MAX", Fantastic Beasts and Where to Find Them
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=bacb14b5-0815-4d9f-a781-11c8ecf6dfff
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=bacb14b5-0815-4d9f-a781-11c8ecf6dfff&sub=t18
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/417e8f3b-2cd5-3a7e-a3d5-a981c03e9f5a.jpeg" group-title="▶ HBO MAX", Action-1-Fantastic Beasts: The Crimes of Grindelwald
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/417e8f3b-2cd5-3a7e-a3d5-a981c03e9f5a.jpeg" group-title="▶ HBO MAX", Fantastic Beasts: The Crimes of Grindelwald
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=76a3cb10-3921-4864-a7db-c87b69f5c4ee
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=76a3cb10-3921-4864-a7db-c87b69f5c4ee&sub=t10
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/17/3806bde4-2f8a-35f9-b4d7-99314806d2c9.jpeg" group-title="▶ HBO MAX", Action-1-Fantastic Beasts: The Secrets of Dumbledore
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/17/3806bde4-2f8a-35f9-b4d7-99314806d2c9.jpeg" group-title="▶ HBO MAX", Fantastic Beasts: The Secrets of Dumbledore
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=6a2c050c-4bcd-4e57-bb4e-25f940de688a
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=6a2c050c-4bcd-4e57-bb4e-25f940de688a&sub=t10
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/25/661dfdae-bd03-33d5-87b0-505d6b6b9de6.jpeg" group-title="▶ HBO MAX", Action-2-Freelance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/25/661dfdae-bd03-33d5-87b0-505d6b6b9de6.jpeg" group-title="▶ HBO MAX", Freelance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=9dad03d0-0baa-473a-be5c-502691f5e1c9
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=9dad03d0-0baa-473a-be5c-502691f5e1c9&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/02/7f4f2541-f82d-3c1c-8c35-649269dd6a78.jpeg" group-title="▶ HBO MAX", Action-2-Furiosa: A Mad Max Saga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/02/7f4f2541-f82d-3c1c-8c35-649269dd6a78.jpeg" group-title="▶ HBO MAX", Furiosa: A Mad Max Saga
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=e75523fc-2ff8-44f4-925d-b412328371ef
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=e75523fc-2ff8-44f4-925d-b412328371ef&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/26/c2ee88d0-6055-3c24-b236-58d36f108803.jpeg" group-title="▶ HBO MAX", Action-3-Gangster Squad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/26/c2ee88d0-6055-3c24-b236-58d36f108803.jpeg" group-title="▶ HBO MAX", Gangster Squad
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=4ff96f87-4103-4fdc-89e6-d9877753e879
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=4ff96f87-4103-4fdc-89e6-d9877753e879&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/19/f0d9ba1d-5bd6-3ba8-8fa6-5d3cae51e3df.jpeg" group-title="▶ HBO MAX", Action-3-Get Smart
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/19/f0d9ba1d-5bd6-3ba8-8fa6-5d3cae51e3df.jpeg" group-title="▶ HBO MAX", Get Smart
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=e37031db-640e-4c98-947e-573ee0ae02ed
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=e37031db-640e-4c98-947e-573ee0ae02ed&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/9da960b3-1064-309f-84d4-15952470511e.jpeg" group-title="▶ HBO MAX", Action-3-Getaway
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/9da960b3-1064-309f-84d4-15952470511e.jpeg" group-title="▶ HBO MAX", Getaway
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=75ada09c-439f-4103-ba54-699c70ddf7f5
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=75ada09c-439f-4103-ba54-699c70ddf7f5&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/28/95d94dde-9362-3625-89e9-1fe316355a1a.jpeg" group-title="▶ HBO MAX", Action-3-Gladiator
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/28/95d94dde-9362-3625-89e9-1fe316355a1a.jpeg" group-title="▶ HBO MAX", Gladiator
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=99b5c340-bf4f-4f6a-9bd5-a55f38542e33
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=99b5c340-bf4f-4f6a-9bd5-a55f38542e33&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/31/a6ec2a75-d4df-372a-b3e1-49cd258ce344.jpeg" group-title="▶ HBO MAX", Action-1-Godzilla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/31/a6ec2a75-d4df-372a-b3e1-49cd258ce344.jpeg" group-title="▶ HBO MAX", Godzilla
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3b178798-d9b7-42ad-8f7a-a961b1b789f6
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=3b178798-d9b7-42ad-8f7a-a961b1b789f6&sub=t21
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/20/2e6e7d32-a0ef-3f2e-84ee-ad1e0f1129f7.jpeg" group-title="▶ HBO MAX", Action-1-Godzilla vs. Kong
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/20/2e6e7d32-a0ef-3f2e-84ee-ad1e0f1129f7.jpeg" group-title="▶ HBO MAX", Godzilla vs. Kong
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=eb664895-939a-467f-ae7b-707ccab7c599
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=eb664895-939a-467f-ae7b-707ccab7c599&sub=t26
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/25/a39f0808-30b5-3ee1-bf5e-f3a7b7749e58.jpeg" group-title="▶ HBO MAX", Action-1-Godzilla x Kong: The New Empire
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/25/a39f0808-30b5-3ee1-bf5e-f3a7b7749e58.jpeg" group-title="▶ HBO MAX", Godzilla x Kong: The New Empire
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b325f888-b2d5-4662-802a-2ad829a7a5d6
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b325f888-b2d5-4662-802a-2ad829a7a5d6&sub=t38
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/12/0784fda4-1f54-3757-b1d0-b8da0fe8abb9.jpeg" group-title="▶ HBO MAX", Action-1-Godzilla: King of the Monsters
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/12/0784fda4-1f54-3757-b1d0-b8da0fe8abb9.jpeg" group-title="▶ HBO MAX", Godzilla: King of the Monsters
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=1c4a3ecf-86ab-4b9d-b464-dee69d2147cb
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=1c4a3ecf-86ab-4b9d-b464-dee69d2147cb&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/27/666892c3-9eba-3015-b4ef-27f05dac1a4d.jpeg" group-title="▶ HBO MAX", Action-2-Gunner (2024)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/27/666892c3-9eba-3015-b4ef-27f05dac1a4d.jpeg" group-title="▶ HBO MAX", Gunner (2024)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=4379f4d4-4de9-4d0f-bca2-08d008dcaf1f
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=4379f4d4-4de9-4d0f-bca2-08d008dcaf1f&sub=t4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/25/2e81c1a3-9a3f-338f-b982-05bccc8d4695.jpeg" group-title="▶ HBO MAX", Action-Inception
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/25/2e81c1a3-9a3f-338f-b982-05bccc8d4695.jpeg" group-title="▶ HBO MAX", Inception
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c2972955-194c-4542-9ebd-2d6fafeeb6da
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c2972955-194c-4542-9ebd-2d6fafeeb6da&sub=t32
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/18/41f96ecf-3903-317b-875b-f2d4d92b9b7c.jpeg" group-title="▶ HBO MAX", Action-Jack the Giant Slayer
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/18/41f96ecf-3903-317b-875b-f2d4d92b9b7c.jpeg" group-title="▶ HBO MAX", Jack the Giant Slayer
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b99ed619-edb7-4eff-b52d-27a381ac2117
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b99ed619-edb7-4eff-b52d-27a381ac2117&sub=t32
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/25/c66e2c75-1c26-3bb5-ab9f-aef174a83e41.jpeg" group-title="▶ HBO MAX", Action-Jarhead
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/25/c66e2c75-1c26-3bb5-ab9f-aef174a83e41.jpeg" group-title="▶ HBO MAX", Jarhead
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f9039564-a8f9-4739-af10-47870eb73d4a
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f9039564-a8f9-4739-af10-47870eb73d4a&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/e189d63e-67b8-3e65-87b3-81f5b5b29f18.jpeg" group-title="▶ HBO MAX", Action-Jonah Hex
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/e189d63e-67b8-3e65-87b3-81f5b5b29f18.jpeg" group-title="▶ HBO MAX", Jonah Hex
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=5f5080fe-e67e-4177-8d0c-87c84593e0d2
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=5f5080fe-e67e-4177-8d0c-87c84593e0d2&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/20/ded7d306-cd12-3c66-bfdf-53722674cffd.jpeg" group-title="▶ HBO MAX", Action-3-Jurassic World: Fallen Kingdom
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/20/ded7d306-cd12-3c66-bfdf-53722674cffd.jpeg" group-title="▶ HBO MAX", Jurassic World: Fallen Kingdom
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c85774c4-ae06-45e3-b2d3-0854ee02591d
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c85774c4-ae06-45e3-b2d3-0854ee02591d&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/a4b4b308-4d38-340b-a456-563efab44b68.jpeg" group-title="▶ HBO MAX", Action-1-Justice League
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/a4b4b308-4d38-340b-a456-563efab44b68.jpeg" group-title="▶ HBO MAX", Justice League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=326a002c-d0fb-4499-95f0-41e5cf5189e7
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=326a002c-d0fb-4499-95f0-41e5cf5189e7&sub=t16
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/d502cf2b-223f-32f2-8a5b-67c2ef448bfc.jpeg" group-title="▶ HBO MAX", Action-Kaiji: Final Game
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/d502cf2b-223f-32f2-8a5b-67c2ef448bfc.jpeg" group-title="▶ HBO MAX", Kaiji: Final Game
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=83f6923b-7552-4ded-8704-efca99f0b353
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=83f6923b-7552-4ded-8704-efca99f0b353&sub=t4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/1f946624-f6a3-3547-94d2-4bf6f86189fa.jpeg" group-title="▶ HBO MAX", Action-King Arthur: Legend of the Sword
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/1f946624-f6a3-3547-94d2-4bf6f86189fa.jpeg" group-title="▶ HBO MAX", King Arthur: Legend of the Sword
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=bec2a125-d98d-4dbd-927f-7ab2cfe0eb0a
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=bec2a125-d98d-4dbd-927f-7ab2cfe0eb0a&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/18/b2310f2c-df72-3f30-8aa5-b5c5f2b0bc70.jpeg" group-title="▶ HBO MAX", Action-Kong: Skull Island
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/18/b2310f2c-df72-3f30-8aa5-b5c5f2b0bc70.jpeg" group-title="▶ HBO MAX", Kong: Skull Island
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=696c68b3-8403-4b32-8d66-f1a5cc6f12f8
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=696c68b3-8403-4b32-8d66-f1a5cc6f12f8&sub=t21
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/13/5c988dc8-8bad-3b56-a81f-f0b467dd1c7f.jpeg" group-title="▶ HBO MAX", Action-2-Land of Bad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/13/5c988dc8-8bad-3b56-a81f-f0b467dd1c7f.jpeg" group-title="▶ HBO MAX", Land of Bad
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2c5c0d97-9645-4f40-b21e-e1000c9baa8f
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=2c5c0d97-9645-4f40-b21e-e1000c9baa8f&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/3684d5f3-1dcb-333b-a918-b12ab223a7b6.jpeg" group-title="▶ HBO MAX", Action-2-Little Dixie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/3684d5f3-1dcb-333b-a918-b12ab223a7b6.jpeg" group-title="▶ HBO MAX", Little Dixie
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=46405943-476b-4686-9681-e763ef6321a4
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=46405943-476b-4686-9681-e763ef6321a4&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/06/729f786b-90c9-374c-b8cb-f711ba009a4c.jpeg" group-title="▶ HBO MAX", Action-2-Mad Max: Fury Road
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/06/729f786b-90c9-374c-b8cb-f711ba009a4c.jpeg" group-title="▶ HBO MAX", Mad Max: Fury Road
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/16/2697defb-9ad8-37c4-9c18-34189f472b10.jpeg" group-title="▶ HBO MAX", Action-1-Man of Steel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/16/2697defb-9ad8-37c4-9c18-34189f472b10.jpeg" group-title="▶ HBO MAX", Man of Steel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=5f466bc9-f391-491d-8f4d-fc7807f234fc
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=5f466bc9-f391-491d-8f4d-fc7807f234fc&sub=t7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/08/30/61b0b811-2ec7-34bd-af89-7978705e1902.jpeg" group-title="▶ HBO MAX", Action-Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/08/30/61b0b811-2ec7-34bd-af89-7978705e1902.jpeg" group-title="▶ HBO MAX", Max
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=1ef50830-63cc-47c4-8393-624658fad805
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=1ef50830-63cc-47c4-8393-624658fad805&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/f7b98051-c1c6-3567-aeaa-9b3efb0f2a8f.jpeg" group-title="▶ HBO MAX", Action-2-Maximum Ride
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/f7b98051-c1c6-3567-aeaa-9b3efb0f2a8f.jpeg" group-title="▶ HBO MAX", Maximum Ride
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3820c501-a093-4247-bfe9-efd51d0daf3e
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=3820c501-a093-4247-bfe9-efd51d0daf3e&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/22/c8e0fbcf-cc90-3d3b-9d21-e415257ead00.jpeg" group-title="▶ HBO MAX", Action-2-Meg 2: The Trench
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/22/c8e0fbcf-cc90-3d3b-9d21-e415257ead00.jpeg" group-title="▶ HBO MAX", Meg 2: The Trench
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=17aa1016-9609-4c0b-b7ed-1a687000e876
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=17aa1016-9609-4c0b-b7ed-1a687000e876&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/21/a9e5eecc-bce0-3f08-92ef-240e94aaef97.jpeg" group-title="▶ HBO MAX", Action-2-Meg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/21/a9e5eecc-bce0-3f08-92ef-240e94aaef97.jpeg" group-title="▶ HBO MAX", Meg
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=144be5db-47b9-490a-b1dd-309b8fc4db2f
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=144be5db-47b9-490a-b1dd-309b8fc4db2f&sub=t17
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/fcdfecee-00ee-3c6d-807a-14fa91fb8051.jpeg" group-title="▶ HBO MAX", Action-2-Mercy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/fcdfecee-00ee-3c6d-807a-14fa91fb8051.jpeg" group-title="▶ HBO MAX", Mercy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=533834e5-2706-41cf-9f35-c251ca519ba5
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=533834e5-2706-41cf-9f35-c251ca519ba5&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/a7a2c3a0-4da7-3347-8298-0f69b4b77ef4.jpeg" group-title="▶ HBO MAX", Action-2-Mission: Impossible - Dead Reckoning Part One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/a7a2c3a0-4da7-3347-8298-0f69b4b77ef4.jpeg" group-title="▶ HBO MAX", Mission: Impossible - Dead Reckoning Part One
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2e977119-2714-49cc-a63d-e38d65494f20
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=2e977119-2714-49cc-a63d-e38d65494f20&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/12/5b28adff-889a-36e8-a753-948deaa548af.jpeg" group-title="▶ HBO MAX", Action-2-Mission: Impossible -- Fallout
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/12/5b28adff-889a-36e8-a753-948deaa548af.jpeg" group-title="▶ HBO MAX", Mission: Impossible -- Fallout
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=1967b0a5-3002-4bfb-86ce-ada958074d2e
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=1967b0a5-3002-4bfb-86ce-ada958074d2e&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/23/f5e4329f-6fb2-3fa9-ad76-5940ce6ca611.jpeg" group-title="▶ HBO MAX", Action-Mistrial
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/23/f5e4329f-6fb2-3fa9-ad76-5940ce6ca611.jpeg" group-title="▶ HBO MAX", Mistrial
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=888393e5-d987-4941-b7c4-7dd122187481
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=888393e5-d987-4941-b7c4-7dd122187481&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/26/bf02199d-d5a8-3af9-b2ef-9678e7506d25.jpeg" group-title="▶ HBO MAX", Action-1-Mortal Kombat
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/26/bf02199d-d5a8-3af9-b2ef-9678e7506d25.jpeg" group-title="▶ HBO MAX", Mortal Kombat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9&sub=t25
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/8a89172a-25ef-38fc-8699-37e2c42ea145.jpeg" group-title="▶ HBO MAX", Action-1-Mortal Kombat 1995
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/8a89172a-25ef-38fc-8699-37e2c42ea145.jpeg" group-title="▶ HBO MAX", Mortal Kombat 1995
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=d9c78382-59bb-4f62-8750-00b4c1eaeac1
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=d9c78382-59bb-4f62-8750-00b4c1eaeac1&sub=t1
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/2a322e53-5afb-31d1-86b9-c76d652a2e77.jpeg" group-title="▶ HBO MAX", Action-1-Mortal Kombat 1997
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/2a322e53-5afb-31d1-86b9-c76d652a2e77.jpeg" group-title="▶ HBO MAX", Mortal Kombat 1997
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=434fb2f8-c3c8-4c44-aed3-6492a9cd12ae
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=434fb2f8-c3c8-4c44-aed3-6492a9cd12ae&sub=t9
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/02/21/6e3f8303-983f-3338-9e5d-710d3ac75306.jpeg" group-title="▶ HBO MAX", Action-2-Overlord
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/02/21/6e3f8303-983f-3338-9e5d-710d3ac75306.jpeg" group-title="▶ HBO MAX", Overlord
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=0ea4fd07-f9a4-402a-be1f-ba1f22c359b0
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=0ea4fd07-f9a4-402a-be1f-ba1f22c359b0&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/13/7dd0e35f-faff-33f4-9530-82b2280431b9.jpeg" group-title="▶ HBO MAX", Action-1-Pacific Rim
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/13/7dd0e35f-faff-33f4-9530-82b2280431b9.jpeg" group-title="▶ HBO MAX", Pacific Rim
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=cf40b9a3-23b2-49b6-a6ea-7c6870226907
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=cf40b9a3-23b2-49b6-a6ea-7c6870226907&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/bf9d13cd-858f-341f-b4c1-e569e8ddcafa.jpeg" group-title="▶ HBO MAX", Action-2-Pan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/bf9d13cd-858f-341f-b4c1-e569e8ddcafa.jpeg" group-title="▶ HBO MAX", Pan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c1be7fec-9fdb-4f1b-82f6-97da86830046
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c1be7fec-9fdb-4f1b-82f6-97da86830046&sub=t13
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/d4d74377-f0ed-38cc-976e-e70d36cda58e.jpeg" group-title="▶ HBO MAX", Action-2-Phantom (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/d4d74377-f0ed-38cc-976e-e70d36cda58e.jpeg" group-title="▶ HBO MAX", Phantom (2022)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=bc3203b6-6158-48e4-bb6b-9240654ec3bc
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=bc3203b6-6158-48e4-bb6b-9240654ec3bc&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/3563a1e6-5cb3-3e8d-a0d5-40679088aaba.jpeg" group-title="▶ HBO MAX", Action-3-Poseidon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/3563a1e6-5cb3-3e8d-a0d5-40679088aaba.jpeg" group-title="▶ HBO MAX", Poseidon
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c3d5f89a-75cc-4b58-8cc9-f066b4df7633
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c3d5f89a-75cc-4b58-8cc9-f066b4df7633&sub=t11
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/cff5d6eb-ee88-394f-9a0d-8467ce60eb0f.jpeg" group-title="▶ HBO MAX", Action-3-Red
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/cff5d6eb-ee88-394f-9a0d-8467ce60eb0f.jpeg" group-title="▶ HBO MAX", Red
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3234663a-6335-4c53-94b3-14201055afc8
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=3234663a-6335-4c53-94b3-14201055afc8&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/13/775d9963-3267-33e5-af2d-2a53e482014d.jpeg" group-title="▶ HBO MAX", Action-3-Red 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/13/775d9963-3267-33e5-af2d-2a53e482014d.jpeg" group-title="▶ HBO MAX", Red 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ccd21c4b-26d4-499c-88c0-178ffb043104
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=ccd21c4b-26d4-499c-88c0-178ffb043104&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/06/25b3fac7-b0ed-3f59-aa26-4de81d6e64ce.jpeg" group-title="▶ HBO MAX", Action-1-Hellboy: The Crooked Man
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/06/25b3fac7-b0ed-3f59-aa26-4de81d6e64ce.jpeg" group-title="▶ HBO MAX", Hellboy: The Crooked Man
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=107f601e-735b-427a-b009-e9f09d0d6068
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=107f601e-735b-427a-b009-e9f09d0d6068&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/17/48743921-39d6-3e46-a519-704c3613c1e4.jpeg" group-title="▶ HBO MAX", Action-3-Rush Hour
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/17/48743921-39d6-3e46-a519-704c3613c1e4.jpeg" group-title="▶ HBO MAX", Rush Hour
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=beedf959-65a5-4007-9c79-09bf9c0d14be
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=beedf959-65a5-4007-9c79-09bf9c0d14be&sub=t10
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/01/31/3743ff9f-50f8-3195-9103-9b873ca82a43.jpeg" group-title="▶ HBO MAX", Action-3-Rush Hour 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/01/31/3743ff9f-50f8-3195-9103-9b873ca82a43.jpeg" group-title="▶ HBO MAX", Rush Hour 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=d1ac086f-2eba-461b-a9a1-2d2d2814cea9
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=d1ac086f-2eba-461b-a9a1-2d2d2814cea9&sub=t7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/d60539bd-6a18-3a1b-a569-36ac84a73d93.jpeg" group-title="▶ HBO MAX", Action-3-Rush Hour 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/d60539bd-6a18-3a1b-a569-36ac84a73d93.jpeg" group-title="▶ HBO MAX", Rush Hour 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b581570c-ce82-468b-b961-636b5b537dfb
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b581570c-ce82-468b-b961-636b5b537dfb&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/13/e0505ef2-0933-3c30-83ed-999cee63ff45.jpeg" group-title="▶ HBO MAX", Action-3-S.W.A.T.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/13/e0505ef2-0933-3c30-83ed-999cee63ff45.jpeg" group-title="▶ HBO MAX", S.W.A.T.
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=615e94a5-7085-44cd-80dc-58c42b8d78a3
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=615e94a5-7085-44cd-80dc-58c42b8d78a3&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/48e7cc83-830e-3aed-8365-b56114afa101.jpeg" group-title="▶ HBO MAX", Action-1-Shazam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/48e7cc83-830e-3aed-8365-b56114afa101.jpeg" group-title="▶ HBO MAX", Shazam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=0eac76ad-e576-4123-b621-2a41771553ae
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=0eac76ad-e576-4123-b621-2a41771553ae&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/29/3c23e5eb-7448-326d-95f1-0faa4b6f8fa8.jpeg" group-title="▶ HBO MAX", Action-1-Shazam Fury of the Gods
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/29/3c23e5eb-7448-326d-95f1-0faa4b6f8fa8.jpeg" group-title="▶ HBO MAX", Shazam Fury of the Gods
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b4f32bde-d67d-4399-a495-28526b5bb441
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/ba5088aa-a6ef-32e1-85d8-843e5dcf3a85.jpeg" group-title="▶ HBO MAX", Action-1-Sheroes
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/ba5088aa-a6ef-32e1-85d8-843e5dcf3a85.jpeg" group-title="▶ HBO MAX", Sheroes
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=29724bac-b2fa-4fd9-b08c-2b8567129eeb
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=29724bac-b2fa-4fd9-b08c-2b8567129eeb&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/22/d091a9f9-7a92-337f-beeb-d80e3498a287.jpeg" group-title="▶ HBO MAX", Action-1-Shin Godzilla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/22/d091a9f9-7a92-337f-beeb-d80e3498a287.jpeg" group-title="▶ HBO MAX", Shin Godzilla
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=11846b61-8780-4652-87de-fd4a490071b1
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=11846b61-8780-4652-87de-fd4a490071b1&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/7fc95ab9-23a2-3efa-94b8-498fb08ee876.jpeg" group-title="▶ HBO MAX", Action-3-Shoot Em Up
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/7fc95ab9-23a2-3efa-94b8-498fb08ee876.jpeg" group-title="▶ HBO MAX", Shoot Em Up
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=61d5e3d7-58c7-402d-9552-3d0c8aaafda3
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=61d5e3d7-58c7-402d-9552-3d0c8aaafda3&sub=t8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/f26dc9b7-aed6-3a07-aca1-97d540c49dc3.jpeg" group-title="▶ HBO MAX", Action-2-Skyscraper
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/f26dc9b7-aed6-3a07-aca1-97d540c49dc3.jpeg" group-title="▶ HBO MAX", Skyscraper
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ed8ee561-0b79-47a1-8dc7-c42c48b27dd8
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=ed8ee561-0b79-47a1-8dc7-c42c48b27dd8&sub=t0
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/10/1195171a-4287-324c-bb71-d75da83d9008.jpeg" group-title="▶ HBO MAX", Action-1-Snow White and the Huntsman
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/10/1195171a-4287-324c-bb71-d75da83d9008.jpeg" group-title="▶ HBO MAX", Snow White and the Huntsman
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2846be55-242c-42bd-9819-fffb5edc1564
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=2846be55-242c-42bd-9819-fffb5edc1564&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/10/cbf5b555-f73d-3af4-8043-1fb047f3ea77.jpeg" group-title="▶ HBO MAX", Action-2-Special Delivery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/10/cbf5b555-f73d-3af4-8043-1fb047f3ea77.jpeg" group-title="▶ HBO MAX", Special Delivery
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=e95adaaa-8041-4441-806e-1ddff0337d93
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=e95adaaa-8041-4441-806e-1ddff0337d93&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/e42504e1-0f62-3325-8130-baacfc438aef.jpeg" group-title="▶ HBO MAX", Action-3-Speed Racer
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/e42504e1-0f62-3325-8130-baacfc438aef.jpeg" group-title="▶ HBO MAX", Speed Racer
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=a9190bda-7079-4601-bec1-15f84215ef3d
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=a9190bda-7079-4601-bec1-15f84215ef3d&sub=t2
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/7fb7602e-784b-3244-9ad1-2bdb8a479f2a.jpeg" group-title="▶ HBO MAX", Action-1-Suicide Squad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/7fb7602e-784b-3244-9ad1-2bdb8a479f2a.jpeg" group-title="▶ HBO MAX", Suicide Squad
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=69a74f34-12ff-4d9d-89b8-885316401128
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=69a74f34-12ff-4d9d-89b8-885316401128&sub=t13
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/12/2d077460-3a16-30eb-a911-f372f13e6604.jpeg" group-title="▶ HBO MAX", Action-1-Superman Returns
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/12/2d077460-3a16-30eb-a911-f372f13e6604.jpeg" group-title="▶ HBO MAX", Superman Returns
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=593f91d3-e760-49e2-874f-5be5161663d3
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=593f91d3-e760-49e2-874f-5be5161663d3&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/20f16e07-7be7-3920-85b8-9354ffc8ee4a.jpeg" group-title="▶ HBO MAX", Action-2-Tenet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/20f16e07-7be7-3920-85b8-9354ffc8ee4a.jpeg" group-title="▶ HBO MAX", Tenet
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=bbca0ad6-2362-45cd-8a99-55707afc20c4
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=bbca0ad6-2362-45cd-8a99-55707afc20c4&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/27/fa444951-34a6-3b1d-a363-f2b7a1469238.jpeg" group-title="▶ HBO MAX", Action-2-Terminator Salvation
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/27/fa444951-34a6-3b1d-a363-f2b7a1469238.jpeg" group-title="▶ HBO MAX", Terminator Salvation
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=cd1f14fa-60f6-4f05-9259-09f11e671c79
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=cd1f14fa-60f6-4f05-9259-09f11e671c79&sub=t6
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/16/938daf5e-4614-3d24-9b1d-53021ea5dd7a.jpeg" group-title="▶ HBO MAX", Action-2-The Accountant
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/16/938daf5e-4614-3d24-9b1d-53021ea5dd7a.jpeg" group-title="▶ HBO MAX", The Accountant
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=0159f4ae-bd10-4a23-aa45-a68a25e6a25c
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=0159f4ae-bd10-4a23-aa45-a68a25e6a25c&sub=t19
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/30/039c2439-7480-3545-bb3d-31bfd17d4605.jpeg" group-title="▶ HBO MAX", Action-1-The Batman
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/30/039c2439-7480-3545-bb3d-31bfd17d4605.jpeg" group-title="▶ HBO MAX", The Batman
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c463e2c8-e703-466a-bd3d-aa02668ff3cb
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c463e2c8-e703-466a-bd3d-aa02668ff3cb&sub=t31
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/05/ab365e5f-2090-3c89-a974-a6af782b21d7.jpeg" group-title="▶ HBO MAX", Action-2-The Bricklayer
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/05/ab365e5f-2090-3c89-a974-a6af782b21d7.jpeg" group-title="▶ HBO MAX", The Bricklayer
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=e6e095f0-f74c-4b22-b237-297e7305467d
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=e6e095f0-f74c-4b22-b237-297e7305467d&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/08/0b74a011-31da-3fa7-9bb5-6e726ac9a4d2.jpeg" group-title="▶ HBO MAX", Action-The Cherokee Kid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/08/0b74a011-31da-3fa7-9bb5-6e726ac9a4d2.jpeg" group-title="▶ HBO MAX", The Cherokee Kid
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ac922e3c-3275-48a6-99e4-0fa2e9d4974a
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=ac922e3c-3275-48a6-99e4-0fa2e9d4974a&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/31/6a8331b6-4214-30cc-b766-f5b235af817d.jpeg" group-title="▶ HBO MAX", Action-The Corruptor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/31/6a8331b6-4214-30cc-b766-f5b235af817d.jpeg" group-title="▶ HBO MAX", The Corruptor
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=6b7c8109-23d7-487c-b554-ab8af8396f15
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=6b7c8109-23d7-487c-b554-ab8af8396f15&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/c01f0dbd-2ffb-3cbf-abf0-aabd0cc63e93.jpeg" group-title="▶ HBO MAX", Action-1-The Dark Knight
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/c01f0dbd-2ffb-3cbf-abf0-aabd0cc63e93.jpeg" group-title="▶ HBO MAX", The Dark Knight
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b6a82b24-bcfe-453d-9b9d-563a5ad02a99
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b6a82b24-bcfe-453d-9b9d-563a5ad02a99&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/bb442835-e8ce-3c4c-ba2c-82856133e6c6.jpeg" group-title="▶ HBO MAX", Action-1-The Dark Knight Rises
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/bb442835-e8ce-3c4c-ba2c-82856133e6c6.jpeg" group-title="▶ HBO MAX", The Dark Knight Rises
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=01844b86-4a19-4778-b4a9-110b00b85e03
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=01844b86-4a19-4778-b4a9-110b00b85e03&sub=t19
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/08/18/02323d49-7704-35a7-8197-5cdfd2184815.jpeg" group-title="▶ HBO MAX", Action-1-The Flash
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/08/18/02323d49-7704-35a7-8197-5cdfd2184815.jpeg" group-title="▶ HBO MAX", The Flash
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=083ecdb9-1001-47fa-b295-b3e47038a0b9
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=083ecdb9-1001-47fa-b295-b3e47038a0b9&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/12/57e2718c-430f-3c69-8a40-2c528d9ebab3.jpeg" group-title="▶ HBO MAX", Action-1-The Hulk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/12/57e2718c-430f-3c69-8a40-2c528d9ebab3.jpeg" group-title="▶ HBO MAX", The Hulk
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b387fc86-fdde-4c3a-b0bd-163ffb0c4a1f
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b387fc86-fdde-4c3a-b0bd-163ffb0c4a1f&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/31c9d781-f8e9-34cd-8087-a7d6d241ee8f.jpeg" group-title="▶ HBO MAX", Action-The Island
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/31c9d781-f8e9-34cd-8087-a7d6d241ee8f.jpeg" group-title="▶ HBO MAX", The Island
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=22429b4e-87d5-4781-8859-9d18c3bf23cb
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=22429b4e-87d5-4781-8859-9d18c3bf23cb&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/08/a0d619e0-3d19-32f4-af6b-dee23376c941.jpeg" group-title="▶ HBO MAX", Action-The Jack Bull
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/08/a0d619e0-3d19-32f4-af6b-dee23376c941.jpeg" group-title="▶ HBO MAX", The Jack Bull
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=25b65a3d-1a0e-43a7-bbe4-91837c7187cd
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=25b65a3d-1a0e-43a7-bbe4-91837c7187cd&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/a6063b01-59ae-3ce3-8428-a3ad20ccb30e.jpeg" group-title="▶ HBO MAX", Action-2-The Killer
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/a6063b01-59ae-3ce3-8428-a3ad20ccb30e.jpeg" group-title="▶ HBO MAX", The Killer
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=353d3511-f234-4c46-9889-5ba407f48718
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=353d3511-f234-4c46-9889-5ba407f48718&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/23/1e10c237-0505-3df8-8789-c1a370aa2308.jpeg" group-title="▶ HBO MAX", Action-2-The Killer
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/23/1e10c237-0505-3df8-8789-c1a370aa2308.jpeg" group-title="▶ HBO MAX", The Killer
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=66342df6-6a95-4c71-a1c2-3b59afe7e9c5
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=66342df6-6a95-4c71-a1c2-3b59afe7e9c5&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/f36a6c72-e72a-3335-a7c6-fcb29e0c6dc3.jpeg" group-title="▶ HBO MAX", Action-3-The King
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/f36a6c72-e72a-3335-a7c6-fcb29e0c6dc3.jpeg" group-title="▶ HBO MAX", The King
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2c8b771c-fe1b-4f3f-8691-1526f4087160
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=2c8b771c-fe1b-4f3f-8691-1526f4087160&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/10/ed642a38-9837-38a8-97ab-560dca98f479.jpeg" group-title="▶ HBO MAX", Action-The Last Castle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/10/ed642a38-9837-38a8-97ab-560dca98f479.jpeg" group-title="▶ HBO MAX", The Last Castle
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ca288f66-7c27-4ed2-9bd3-2a48f35766d6
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=ca288f66-7c27-4ed2-9bd3-2a48f35766d60&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/12/28bf2ab5-13c9-3cec-a982-9fa363bb99c5.jpeg" group-title="▶ HBO MAX", Action-The Last Outlaw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/12/28bf2ab5-13c9-3cec-a982-9fa363bb99c5.jpeg" group-title="▶ HBO MAX", The Last Outlaw
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=4e174e19-35f7-40d7-bb5b-ca2b157087a6
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=4e174e19-35f7-40d7-bb5b-ca2b157087a6&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/10/46682fe1-362c-380e-a31f-a1857934683d.jpeg" group-title="▶ HBO MAX", Action-2-The Magnificent Seven
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/10/46682fe1-362c-380e-a31f-a1857934683d.jpeg" group-title="▶ HBO MAX", The Magnificent Seven
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3c1dce6b-452d-45ef-b80b-476cf6ebc4c9
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=3c1dce6b-452d-45ef-b80b-476cf6ebc4c9&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/05/d5a7d0a6-2e82-3c8a-935b-b59c73a7bb7b.jpeg" group-title="▶ HBO MAX", Action-3-The Man In The Iron Mask
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/05/d5a7d0a6-2e82-3c8a-935b-b59c73a7bb7b.jpeg" group-title="▶ HBO MAX", The Man In The Iron Mask
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f9e22790-6c68-4921-ac4e-b85640a2706b
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f9e22790-6c68-4921-ac4e-b85640a2706b&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/15/f73c1cd3-18aa-35b3-807e-cf25d1895b7f.jpeg" group-title="▶ HBO MAX", Action-2-The Man with the Iron Fists
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/15/f73c1cd3-18aa-35b3-807e-cf25d1895b7f.jpeg" group-title="▶ HBO MAX", The Man with the Iron Fists
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f41618d1-3ba2-49fc-878c-39604999dd34
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f41618d1-3ba2-49fc-878c-39604999dd34&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/12/9fbb5831-4c24-314c-8cb3-2b55b3f464a1.jpeg" group-title="▶ HBO MAX", Action-4-The Matrix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/12/9fbb5831-4c24-314c-8cb3-2b55b3f464a1.jpeg" group-title="▶ HBO MAX", The Matrix
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=14bf56e5-916a-4c6f-911d-7a94596afc9f
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=14bf56e5-916a-4c6f-911d-7a94596afc9f&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/9870e434-8cdd-3752-b51c-015af067d426.jpeg" group-title="▶ HBO MAX", Action-4-The Matrix Reloaded
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/9870e434-8cdd-3752-b51c-015af067d426.jpeg" group-title="▶ HBO MAX", The Matrix Reloaded
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b1adae34-5f5e-41a6-b2f1-bbf51635d453
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b1adae34-5f5e-41a6-b2f1-bbf51635d453&sub=t13
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/12/d198521b-99be-3b55-b3de-6059cb6ce2d1.jpeg" group-title="▶ HBO MAX", Action-4-The Matrix Revolutions
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/12/d198521b-99be-3b55-b3de-6059cb6ce2d1.jpeg" group-title="▶ HBO MAX", The Matrix Revolutions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=1b44e803-22a8-4b87-8217-37eef8c4c772
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=1b44e803-22a8-4b87-8217-37eef8c4c772&sub=t22
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/ee78ee60-fde8-3d4a-ad24-fde9eb436151.jpeg" group-title="▶ HBO MAX", Action-4-The Matrix: Resurrections
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/ee78ee60-fde8-3d4a-ad24-fde9eb436151.jpeg" group-title="▶ HBO MAX", The Matrix: Resurrections
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=cf5130a6-1dee-4677-b0e1-03d4b4c57bca
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=cf5130a6-1dee-4677-b0e1-03d4b4c57bca&sub=t24
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/6a85c2c3-9edb-324a-87fb-10943bb6bf24.jpeg" group-title="▶ HBO MAX", Action-The Mexican
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/6a85c2c3-9edb-324a-87fb-10943bb6bf24.jpeg" group-title="▶ HBO MAX", The Mexican
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=9307ba3b-d496-4cd5-83b5-5afa7b8fad76
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=9307ba3b-d496-4cd5-83b5-5afa7b8fad76&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/9cbda7fe-453f-339e-803b-eb595de23872.jpeg" group-title="▶ HBO MAX", Action-The Peacemaker
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/9cbda7fe-453f-339e-803b-eb595de23872.jpeg" group-title="▶ HBO MAX", The Peacemaker
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=dfc78123-8355-4a4d-812c-369ded9349d9
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=dfc78123-8355-4a4d-812c-369ded9349d9&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/9f250021-aa61-360b-9af3-76656acb6d38.jpeg" group-title="▶ HBO MAX", Action-1-The Suicide Squad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/9f250021-aa61-360b-9af3-76656acb6d38.jpeg" group-title="▶ HBO MAX", The Suicide Squad
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f93d3fdd-a525-418d-8d0a-1177b50c6225
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f93d3fdd-a525-418d-8d0a-1177b50c6225&sub=t23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/09/cea31fbf-39a5-3f4b-a604-841155984b93.jpeg" group-title="▶ HBO MAX", Action-2-Those Who Wish Me Dead
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/09/cea31fbf-39a5-3f4b-a604-841155984b93.jpeg" group-title="▶ HBO MAX", Those Who Wish Me Dead
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=573bc847-a1e2-41ac-9395-3b00ed5cba10
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=573bc847-a1e2-41ac-9395-3b00ed5cba10&sub=t37
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/18/02a546cd-ecd1-3c9f-bca0-4d35d0d50549.jpeg" group-title="▶ HBO MAX", Action-2-Tomb Raider
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/18/02a546cd-ecd1-3c9f-bca0-4d35d0d50549.jpeg" group-title="▶ HBO MAX", Tomb Raider
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=bf1249ae-bb04-4eea-a9f7-2b4a82e2f030
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=bf1249ae-bb04-4eea-a9f7-2b4a82e2f030&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/17/c7048bb7-249f-37af-af28-67fe6f337165.jpeg" group-title="▶ HBO MAX", Action-Tower Heist
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/17/c7048bb7-249f-37af-af28-67fe6f337165.jpeg" group-title="▶ HBO MAX", Tower Heist
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=05ddb63e-e019-4f6a-ba79-c35502b341f5
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=05ddb63e-e019-4f6a-ba79-c35502b341f5&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/21/55fe35b2-4362-3600-8efc-ec16c4693c54.jpeg" group-title="▶ HBO MAX", Action-Troy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/21/55fe35b2-4362-3600-8efc-ec16c4693c54.jpeg" group-title="▶ HBO MAX", Troy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2c2c9910-dea1-435b-9d7c-87e7faa50e0f
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=2c2c9910-dea1-435b-9d7c-87e7faa50e0f&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/23/8981a942-ba11-3bf8-afd9-a6ee9c2273f0.jpeg" group-title="▶ HBO MAX", Action-Twister
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/23/8981a942-ba11-3bf8-afd9-a6ee9c2273f0.jpeg" group-title="▶ HBO MAX", Twister
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=be96e40c-17c2-4470-bf29-45c3ffbaff7a
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=be96e40c-17c2-4470-bf29-45c3ffbaff7a&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/23/50067201-bb2a-3cbd-85a0-351071bdcec7.jpeg" group-title="▶ HBO MAX", Action-1-Twister 2024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/23/50067201-bb2a-3cbd-85a0-351071bdcec7.jpeg" group-title="▶ HBO MAX", Twister 2024
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b704f6c2-4430-4243-8be3-94ed7f85c1b1
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b704f6c2-4430-4243-8be3-94ed7f85c1b1&sub=t25
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/4271eae4-6003-314a-8f60-2d3fcb870062.jpeg" group-title="▶ HBO MAX", Action-V for Vendetta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/4271eae4-6003-314a-8f60-2d3fcb870062.jpeg" group-title="▶ HBO MAX", V for Vendetta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b4f0d758-9ab7-480f-bec5-824c30802392
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b4f0d758-9ab7-480f-bec5-824c30802392&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/5ba36db5-d504-3a38-8ee7-b667d56f2c34.jpeg" group-title="▶ HBO MAX", Action-1-Venom
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/5ba36db5-d504-3a38-8ee7-b667d56f2c34.jpeg" group-title="▶ HBO MAX", Venom
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=bd523451-6d0f-4964-b803-3a4aad4c225b
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=bd523451-6d0f-4964-b803-3a4aad4c225b&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/14/468b3d7c-55ac-323b-a99c-3ef6e150c297.jpeg" group-title="▶ HBO MAX", Action-1-Watchmen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/14/468b3d7c-55ac-323b-a99c-3ef6e150c297.jpeg" group-title="▶ HBO MAX", Watchmen
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=0a366930-d970-4358-9f87-eb71804c2851
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=0a366930-d970-4358-9f87-eb71804c2851&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/2800fce5-5ee1-34ed-a3b3-cedc596755ef.jpeg" group-title="▶ HBO MAX", Action-White Mile
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/2800fce5-5ee1-34ed-a3b3-cedc596755ef.jpeg" group-title="▶ HBO MAX", White Mile
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=999b211b-e89d-40f4-a6e4-8ed45e21e8f7
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=999b211b-e89d-40f4-a6e4-8ed45e21e8f7&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/29/f96107d5-3f55-30aa-a58d-7698ea05773f.jpeg" group-title="▶ HBO MAX", Action-1-Wonder Woman
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/29/f96107d5-3f55-30aa-a58d-7698ea05773f.jpeg" group-title="▶ HBO MAX", Wonder Woman
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=11a12198-7d19-4533-bd4e-c2823be3dba1
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=11a12198-7d19-4533-bd4e-c2823be3dba1&sub=t31
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/07/ab90348d-31b0-307d-89d6-a69b15a4e4ab.jpeg" group-title="▶ HBO MAX", Action-1-Wonder Woman 1984
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/07/ab90348d-31b0-307d-89d6-a69b15a4e4ab.jpeg" group-title="▶ HBO MAX", Wonder Woman 1984
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=6cace446-849c-4267-9a36-f6d76e9e20bd
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=6cace446-849c-4267-9a36-f6d76e9e20bd&sub=t42
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/23/2ccdc995-418a-3452-83f1-35c78799fcc0.jpeg" group-title="▶ HBO MAX", Action-Wrath of the Titans
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/23/2ccdc995-418a-3452-83f1-35c78799fcc0.jpeg" group-title="▶ HBO MAX", Wrath of the Titans
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c6c97e65-a0ab-41ae-8edd-1b44557d1699
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c6c97e65-a0ab-41ae-8edd-1b44557d1699&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/05/1654c744-e0cc-39e8-8c7c-66f7c97f52f8.jpeg" group-title="▶ HBO MAX", Action-Wrong Turn at Tahoe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/05/1654c744-e0cc-39e8-8c7c-66f7c97f52f8.jpeg" group-title="▶ HBO MAX", Wrong Turn at Tahoe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=16c3204c-cbfb-40fd-adfa-3b8fafd74c82
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=16c3204c-cbfb-40fd-adfa-3b8fafd74c82&sub=t0
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/c718c92a-11ce-391a-9235-1489f3e77ab0.jpeg" group-title="▶ HBO MAX", Action-1-Zack Snyder is Justice League
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/c718c92a-11ce-391a-9235-1489f3e77ab0.jpeg" group-title="▶ HBO MAX", Zack Snyder is Justice League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=57423fab-d95a-4815-a1c2-2a4024a4f4d8
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=57423fab-d95a-4815-a1c2-2a4024a4f4d8&sub=t7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/02/21/c294e149-2905-3f7c-b34e-297da7b1b947.jpeg" group-title="▶ HBO MAX", Action-2-Monkey Man
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/02/21/c294e149-2905-3f7c-b34e-297da7b1b947.jpeg" group-title="▶ HBO MAX", Monkey Man
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3049acd7-c02f-431d-b8ac-47b7099f1158
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=3049acd7-c02f-431d-b8ac-47b7099f1158&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/06/632ccedb-07bd-3367-9f23-1434fb7e0840.jpeg" group-title="▶ HBO MAX", Action-2-Sleeping Dogs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/06/632ccedb-07bd-3367-9f23-1434fb7e0840.jpeg" group-title="▶ HBO MAX", Sleeping Dogs
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f488d297-6ec5-4578-9bd8-bb1c48fa64a1
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f488d297-6ec5-4578-9bd8-bb1c48fa64a1&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/16/e5b2345e-4c6d-303f-bd37-4d05dc48c934.jpeg" group-title="▶ HBO MAX", Action-3-The Town
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/16/e5b2345e-4c6d-303f-bd37-4d05dc48c934.jpeg" group-title="▶ HBO MAX", The Town
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=d6ca5fb5-ba5c-439f-a72a-9bc1f225e134
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=d6ca5fb5-ba5c-439f-a72a-9bc1f225e134&sub=t7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/ea263e95-5ea8-3d34-8d4c-e0586b4e813e.jpeg" group-title="▶ HBO MAX", Action-2-Kimi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/ea263e95-5ea8-3d34-8d4c-e0586b4e813e.jpeg" group-title="▶ HBO MAX", Kimi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=89f53fae-0da1-4f9c-9365-8135b3680c8c
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=89f53fae-0da1-4f9c-9365-8135b3680c8c&sub=t40
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/d4d080e4-e022-3060-896e-94afe680bab5.jpeg" group-title="▶ HBO MAX", Action-2-The Policeman is Lineage
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/d4d080e4-e022-3060-896e-94afe680bab5.jpeg" group-title="▶ HBO MAX", The Policeman is Lineage
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f6e7e626-2215-41d9-82d0-6dab49498e37
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f6e7e626-2215-41d9-82d0-6dab49498e37&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/05/f8eb0f24-a360-3d40-87df-3267352a25ff.jpeg" group-title="▶ HBO MAX", Action-3-New World (2013)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/05/f8eb0f24-a360-3d40-87df-3267352a25ff.jpeg" group-title="▶ HBO MAX", New World (2013)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f00be1c7-0ed0-47cb-9b5a-4b37cd58fd27
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f00be1c7-0ed0-47cb-9b5a-4b37cd58fd27&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/0e1ef886-7528-32b4-b755-e288ade9503f.jpeg" group-title="▶ HBO MAX", Action-3-The Limit (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/0e1ef886-7528-32b4-b755-e288ade9503f.jpeg" group-title="▶ HBO MAX", The Limit (2022)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=d9b233af-8bc2-4ecb-92e4-23584e98f569
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=d9b233af-8bc2-4ecb-92e4-23584e98f569&sub=t2
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/6edc68d1-239f-37ab-af31-8932870c5ca3.jpeg" group-title="▶ HBO MAX", Action-3-War Dogs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/6edc68d1-239f-37ab-af31-8932870c5ca3.jpeg" group-title="▶ HBO MAX", War Dogs
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=217c3d8f-e473-4e17-8880-818daad96dd1
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=217c3d8f-e473-4e17-8880-818daad96dd1&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/4d1992f2-f268-3e4a-88b2-0189e9dc3141.jpeg" group-title="▶ HBO MAX", Action-2-No Mercy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/4d1992f2-f268-3e4a-88b2-0189e9dc3141.jpeg" group-title="▶ HBO MAX", No Mercy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=06d31938-6384-455e-9d1c-e866a0c6f183
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=06d31938-6384-455e-9d1c-e866a0c6f183&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/88d25838-82e0-3935-9d3a-5750b607c601.jpeg" group-title="▶ HBO MAX", Action-3-Black Money (2019)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/88d25838-82e0-3935-9d3a-5750b607c601.jpeg" group-title="▶ HBO MAX", Black Money (2019)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f41a1bb8-9033-4007-b783-72ec71bc3c93
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f41a1bb8-9033-4007-b783-72ec71bc3c93&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/19/e42454e8-50c3-3bb5-b079-97ef6bd1eb4c.jpeg" group-title="▶ HBO MAX", Action-1-Joker: Folie a Deux
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/19/e42454e8-50c3-3bb5-b079-97ef6bd1eb4c.jpeg" group-title="▶ HBO MAX", Joker: Folie a Deux
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=a3124af9-ea60-4f96-b9f4-a7d80d1b4e26
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=a3124af9-ea60-4f96-b9f4-a7d80d1b4e26&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/dc8b8f9b-9d4d-3559-b397-3afc389238fb.jpeg" group-title="▶ HBO MAX", Action-1-Green Lantern
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/dc8b8f9b-9d4d-3559-b397-3afc389238fb.jpeg" group-title="▶ HBO MAX", Green Lantern
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=1ff36243-f8ab-4237-a2c2-82dab75ad289
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=1ff36243-f8ab-4237-a2c2-82dab75ad289&sub=t11
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/11/7000fae3-d89e-3395-87fb-aacf2cdc70a5.jpeg" group-title="▶ HBO MAX", Action-1-Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/11/7000fae3-d89e-3395-87fb-aacf2cdc70a5.jpeg" group-title="▶ HBO MAX", Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=676043fe-6b5e-4d96-a79c-a3fb95fb5061
@@ -13138,13 +13281,13 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=2
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c004c097-bff6-437c-abb1-6968f5774cae
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c004c097-bff6-437c-abb1-6968f5774cae&sub=t9
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/07/39c8652d-0227-379f-9d3c-9f21f0d08899.jpeg" group-title="▶ HBO MAX", Horror-1-A Quiet Place: Day One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/07/39c8652d-0227-379f-9d3c-9f21f0d08899.jpeg" group-title="▶ HBO MAX", A Quiet Place: Day One
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=0605db0a-5458-406f-8315-43c2cc016130
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=0605db0a-5458-406f-8315-43c2cc016130&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/25/c6557a2c-98ae-3b91-a968-376930d8fc69.jpeg" group-title="▶ HBO MAX", Horror-1-Abigail
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/25/c6557a2c-98ae-3b91-a968-376930d8fc69.jpeg" group-title="▶ HBO MAX", Abigail
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=83fe24d1-8753-47c3-ab17-1fd7d72cc5e4
@@ -13181,7 +13324,7 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=2
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b79501d2-f196-494d-b8f6-cbc26ff4c31d
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b79501d2-f196-494d-b8f6-cbc26ff4c31d&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/24/9ba22ef2-ebf1-3bbe-a23c-716ec0ee8a04.jpeg" group-title="▶ HBO MAX", Horror-1-Caddo Lake
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/24/9ba22ef2-ebf1-3bbe-a23c-716ec0ee8a04.jpeg" group-title="▶ HBO MAX", Caddo Lake
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b227209d-4b6f-469b-a853-c042af4e20ae
@@ -13200,19 +13343,19 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=7c2112a6-9fc2-4055-92ef-0e4a2cd70298
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=7c2112a6-9fc2-4055-92ef-0e4a2cd70298&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/24/d3984816-81ac-3917-a598-59760acfcfb6.jpeg" group-title="▶ HBO MAX", Horror-1-Cuckoo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/24/d3984816-81ac-3917-a598-59760acfcfb6.jpeg" group-title="▶ HBO MAX", Cuckoo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=461d48e5-d08a-4577-a068-e4c3b7e5a721
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=461d48e5-d08a-4577-a068-e4c3b7e5a721&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/23/92b933d6-7d4d-30e1-937d-a551eab6439b.jpeg" group-title="▶ HBO MAX", Horror-1-Detention
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/23/92b933d6-7d4d-30e1-937d-a551eab6439b.jpeg" group-title="▶ HBO MAX", Detention
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f914eab6-2d00-41e5-a300-c6109bdfe56e
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f914eab6-2d00-41e5-a300-c6109bdfe56e&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/16/5a787ce5-4c71-31e2-a35c-58a9e8c9feef.jpeg" group-title="▶ HBO MAX", Horror-1-Doctor Sleep
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/16/5a787ce5-4c71-31e2-a35c-58a9e8c9feef.jpeg" group-title="▶ HBO MAX", Doctor Sleep
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3e4389f8-05ce-4a6e-a03f-e3f491ea369f
@@ -13224,7 +13367,7 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=3
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=694511fc-3eb1-4143-ac19-19cde8e5f230
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=694511fc-3eb1-4143-ac19-19cde8e5f230&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/29/94c80e9f-663e-31d5-add8-9a341133fa61.jpeg" group-title="▶ HBO MAX", Horror-1-Evil Dead Rise
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/29/94c80e9f-663e-31d5-add8-9a341133fa61.jpeg" group-title="▶ HBO MAX", Evil Dead Rise
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=5d3b801d-2a4b-4463-969c-5a26be75f8a4
@@ -13236,13 +13379,13 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=5
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=8969a795-8b94-4f8a-bb33-4fcdac14f494
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=8969a795-8b94-4f8a-bb33-4fcdac14f494&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/27/c867bff0-7c15-3d4d-a0f9-7bf266522b0b.jpeg" group-title="▶ HBO MAX", Horror-1-Five Nights At Freddy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/27/c867bff0-7c15-3d4d-a0f9-7bf266522b0b.jpeg" group-title="▶ HBO MAX", Five Nights At Freddy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=783cd37d-108f-475e-8c26-7df5cc990c4a
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=783cd37d-108f-475e-8c26-7df5cc990c4a&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/24/e50a778b-d043-3839-ac2c-46155f59589d.jpeg" group-title="▶ HBO MAX", Horror-1-Get Out
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/24/e50a778b-d043-3839-ac2c-46155f59589d.jpeg" group-title="▶ HBO MAX", Get Out
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=08476ed8-4631-493c-982b-211fd919c243
@@ -13273,19 +13416,19 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=7
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f891d771-202d-4ae2-a4e1-371c6858d064
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f891d771-202d-4ae2-a4e1-371c6858d064&sub=t18
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/24/bb78ccd9-1f79-31f5-8d5b-80097a96abb6.jpeg" group-title="▶ HBO MAX", Horror-1-Lisa Frankenstein
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/24/bb78ccd9-1f79-31f5-8d5b-80097a96abb6.jpeg" group-title="▶ HBO MAX", Lisa Frankenstein
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=bb60b877-d931-4dc8-aab9-09c07266b76b
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=bb60b877-d931-4dc8-aab9-09c07266b76b&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/9e07d6c2-29c7-3042-9353-7046d92637e8.jpeg" group-title="▶ HBO MAX", Horror-1-Malignant
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/9e07d6c2-29c7-3042-9353-7046d92637e8.jpeg" group-title="▶ HBO MAX", Malignant
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=777337c6-253f-4a3e-aa8b-1a5c636e68b5
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=777337c6-253f-4a3e-aa8b-1a5c636e68b5&sub=t25
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/07/15b27660-483b-339c-a8f7-36db1c59796c.jpeg" group-title="▶ HBO MAX", Horror-1-Night Swim
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/07/15b27660-483b-339c-a8f7-36db1c59796c.jpeg" group-title="▶ HBO MAX", Night Swim
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=5e432e47-2faa-47fe-a3c9-bad679a8607f
@@ -13310,7 +13453,7 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=8
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3cbbdc4e-2dca-4090-934b-f0b151293c9e
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=3cbbdc4e-2dca-4090-934b-f0b151293c9e&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/12/c2f2ad39-fb07-3bad-9ab8-75c13a0388d6.jpeg" group-title="▶ HBO MAX", Horror-1-Salem Lot (2024)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/12/c2f2ad39-fb07-3bad-9ab8-75c13a0388d6.jpeg" group-title="▶ HBO MAX", Salem Lot (2024)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=320880cf-f6b2-40b8-b039-953bacced3ad
@@ -13329,13 +13472,13 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=79f4d54a-045c-46a1-bea0-66bdf6db2e1a&sub=t6
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/14/efc75144-11b7-3a77-9f02-44bf6ca7eff8.jpeg" group-title="▶ HBO MAX", Horror-1-Tastes of Horror
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/14/efc75144-11b7-3a77-9f02-44bf6ca7eff8.jpeg" group-title="▶ HBO MAX", Tastes of Horror
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=cf75d576-6e0f-49a8-be6c-b014fc9adbc1
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=cf75d576-6e0f-49a8-be6c-b014fc9adbc1&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/20/8825cccf-7185-3caf-907e-75938526130e.jpeg" group-title="▶ HBO MAX", Horror-1-The Blackening
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/20/8825cccf-7185-3caf-907e-75938526130e.jpeg" group-title="▶ HBO MAX", The Blackening
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=0d1b505a-c1e4-4053-84fe-6af694f5a356
@@ -13359,14 +13502,14 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=9
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=1437ff69-a419-474a-9716-337f79bc5247
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=1437ff69-a419-474a-9716-337f79bc5247&sub=t10
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/c212712b-cdda-3758-b8f8-fbc5220517b1.jpeg" group-title="▶ HBO MAX", Horror-1-The Curse of La Llorona
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/c212712b-cdda-3758-b8f8-fbc5220517b1.jpeg" group-title="▶ HBO MAX", The Curse of La Llorona
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=caacde84-a64c-4334-9001-087766dd890b
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=caacde84-a64c-4334-9001-087766dd890b&sub=t0
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/07/ff4f9212-c4e6-3dd7-ae8e-fa39cd9c742e.jpeg" group-title="▶ HBO MAX", Horror-1-The Exorcist: Believer (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/07/ff4f9212-c4e6-3dd7-ae8e-fa39cd9c742e.jpeg" group-title="▶ HBO MAX", The Exorcist: Believer (2023)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=8cbb095f-3a4d-47e0-8c0d-5b5e9d1b0aa7
@@ -13378,25 +13521,25 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=8
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=d667c476-1b8a-4d08-9ba2-dc39a0de3433
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=d667c476-1b8a-4d08-9ba2-dc39a0de3433&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/31/f8028be4-a8b8-38f7-ac50-2ba50b2fd750.jpeg" group-title="▶ HBO MAX", Horror-1-The Last Voyage of the Demeter
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/31/f8028be4-a8b8-38f7-ac50-2ba50b2fd750.jpeg" group-title="▶ HBO MAX", The Last Voyage of the Demeter
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=13e1787b-1f8d-455d-aa8d-994e03758672
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=13e1787b-1f8d-455d-aa8d-994e03758672&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/20/c0627255-0936-3088-8b54-103cdcac0d15.jpeg" group-title="▶ HBO MAX", Horror-1-The Nun (2018)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/20/c0627255-0936-3088-8b54-103cdcac0d15.jpeg" group-title="▶ HBO MAX", The Nun (2018)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=782891ef-7f64-4014-841a-045dd307e2f7
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=782891ef-7f64-4014-841a-045dd307e2f7&sub=t9
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/20/b28a8de7-d73b-3ca0-8d05-a1f17e342956.jpeg" group-title="▶ HBO MAX", Horror-1-The Nun II
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/20/b28a8de7-d73b-3ca0-8d05-a1f17e342956.jpeg" group-title="▶ HBO MAX", The Nun II
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f388009d-e649-4fee-b6a5-1403426c8a63
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f388009d-e649-4fee-b6a5-1403426c8a63&sub=t14
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/15/c485a3b9-0366-337e-b8e9-3fad846edae1.jpeg" group-title="▶ HBO MAX", Horror-1-The Rite
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/15/c485a3b9-0366-337e-b8e9-3fad846edae1.jpeg" group-title="▶ HBO MAX", The Rite
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c8548ae7-901c-49ea-b7d2-234f19f61cfb
@@ -13409,13 +13552,13 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=5d7718da-2d39-4f28-a299-f8e81faa4a4d
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=5d7718da-2d39-4f28-a299-f8e81faa4a4d&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/8db7fd5f-eb83-3b73-982b-8ce5c4aba660.jpeg" group-title="▶ HBO MAX", Horror-1-The Visitor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/8db7fd5f-eb83-3b73-982b-8ce5c4aba660.jpeg" group-title="▶ HBO MAX", The Visitor
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=8f38e2b7-79db-4ada-a2ce-5922fed42eba
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=8f38e2b7-79db-4ada-a2ce-5922fed42eba&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/21/0782fb7e-ca04-37ce-812f-55a1da2fcf05.jpeg" group-title="▶ HBO MAX", Horror-1-The Watchers
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/21/0782fb7e-ca04-37ce-812f-55a1da2fcf05.jpeg" group-title="▶ HBO MAX", The Watchers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=98614feb-9188-4b90-8cfe-0cba8c7db332
@@ -13427,19 +13570,19 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=9
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=37545c5f-0f3e-4d7d-8886-f623eca0a81f
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=37545c5f-0f3e-4d7d-8886-f623eca0a81f&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/31ef9856-a173-3601-b2fa-f6f0730b1527.jpeg" group-title="▶ HBO MAX", Horror-1-There is Something Wrong With The Children
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/31ef9856-a173-3601-b2fa-f6f0730b1527.jpeg" group-title="▶ HBO MAX", There is Something Wrong With The Children
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=16d29300-94e4-420d-a1bd-e24f2f098fa7
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=16d29300-94e4-420d-a1bd-e24f2f098fa7&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/589e89c8-eceb-3baf-95f2-17a7b51a577f.jpeg" group-title="▶ HBO MAX", Horror-1-Torn Hearts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/589e89c8-eceb-3baf-95f2-17a7b51a577f.jpeg" group-title="▶ HBO MAX", Torn Hearts
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=4249dffb-9cbb-447f-925f-01c452f9c9da
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=4249dffb-9cbb-447f-925f-01c452f9c9da&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/16/c16e851d-d51c-3dc0-a9c3-f828a236f321.jpeg" group-title="▶ HBO MAX", Horror-1-Trap
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/16/c16e851d-d51c-3dc0-a9c3-f828a236f321.jpeg" group-title="▶ HBO MAX", Trap
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=bae8a681-2943-4a89-bbdc-f0bd443c217d
@@ -13451,73 +13594,73 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=04b0ea54-760a-4ca5-aaad-7cb068a9f541
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=04b0ea54-760a-4ca5-aaad-7cb068a9f541&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/f03ab1c0-ef3d-335e-80fc-80aa9fa1ab3c.jpeg" group-title="▶ HBO MAX", Horror-1-Unhuman
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/f03ab1c0-ef3d-335e-80fc-80aa9fa1ab3c.jpeg" group-title="▶ HBO MAX", Unhuman
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f742298b-f493-4fba-9647-897c8b40bdf2
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f742298b-f493-4fba-9647-897c8b40bdf2&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/f6c9c923-d115-3eea-ab7c-c796ea894bbb.jpeg" group-title="▶ HBO MAX", Horror-1-Unseen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/f6c9c923-d115-3eea-ab7c-c796ea894bbb.jpeg" group-title="▶ HBO MAX", Unseen
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=570fccfb-2739-4810-bcb2-4ed12bae52e4
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=570fccfb-2739-4810-bcb2-4ed12bae52e4&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/86065552-b06d-3e53-8e90-ed3af5266256.jpeg" group-title="▶ HBO MAX", Horror-1-Vindicta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/86065552-b06d-3e53-8e90-ed3af5266256.jpeg" group-title="▶ HBO MAX", Vindicta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b0e46362-b9fa-4a30-a293-7c2990b3bc2d
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=b0e46362-b9fa-4a30-a293-7c2990b3bc2d&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/b1ed6d2f-3a60-38ba-b59e-3ea41e198ac7.jpeg" group-title="▶ HBO MAX", Action-1-Joker
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/b1ed6d2f-3a60-38ba-b59e-3ea41e198ac7.jpeg" group-title="▶ HBO MAX", Joker
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=d8eb74cb-58f5-4b5b-8c26-8b7ce4563daa
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=d8eb74cb-58f5-4b5b-8c26-8b7ce4563daa&sub=t13
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/c6344dcc-6927-3288-83c0-ffc17a3d4b4d.jpeg" group-title="▶ HBO MAX", Action-First Man
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/c6344dcc-6927-3288-83c0-ffc17a3d4b4d.jpeg" group-title="▶ HBO MAX", First Man
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f1b431b9-5f41-4f9a-9c9d-deaa117ba6d4
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=f1b431b9-5f41-4f9a-9c9d-deaa117ba6d4&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/18/76479b5b-c3bc-3ee5-aea7-bc3a08c8bdfe.jpeg" group-title="▶ HBO MAX", Action-Flight
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/18/76479b5b-c3bc-3ee5-aea7-bc3a08c8bdfe.jpeg" group-title="▶ HBO MAX", Flight
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=5533c2d3-e174-41d9-85c8-54f18d663959
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=5533c2d3-e174-41d9-85c8-54f18d663959&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/334c2a59-8ac7-3e85-8719-c4d56921b5f7.jpeg" group-title="▶ HBO MAX", Action-2-The Painter
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/334c2a59-8ac7-3e85-8719-c4d56921b5f7.jpeg" group-title="▶ HBO MAX", The Painter
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=42ab0e0f-eb57-412f-9428-d8dde0481b48
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=42ab0e0f-eb57-412f-9428-d8dde0481b48&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/15/ad0c4e9a-ae99-3e40-a252-01c63c0bac9a.jpeg" group-title="▶ HBO MAX", Action-2-River Wild
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/15/ad0c4e9a-ae99-3e40-a252-01c63c0bac9a.jpeg" group-title="▶ HBO MAX", River Wild
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=e71a3bf6-d5c1-49e8-a0a6-9e2759c13cec
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=e71a3bf6-d5c1-49e8-a0a6-9e2759c13cec&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/23/6ddc7e61-910a-3409-92d1-81110547934d.jpeg" group-title="▶ HBO MAX", Action-2-R.I.P.D. 2: Rise of the Damned
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/23/6ddc7e61-910a-3409-92d1-81110547934d.jpeg" group-title="▶ HBO MAX", R.I.P.D. 2: Rise of the Damned
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3ce6cbe5-6f6a-4fa2-b47b-f1767ea961dc
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=3ce6cbe5-6f6a-4fa2-b47b-f1767ea961dc&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/04a2363a-6512-3cea-8311-4cc52ab88cd6.jpeg" group-title="▶ HBO MAX", Action-Red Eye
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/04a2363a-6512-3cea-8311-4cc52ab88cd6.jpeg" group-title="▶ HBO MAX", Red Eye
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c36c4f3f-0faf-4a70-805f-326435a7f3bd
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=c36c4f3f-0faf-4a70-805f-326435a7f3bd&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/10d3cdaf-ba86-3c58-9d96-f941e19b84fc.jpeg" group-title="▶ HBO MAX", Action-2-Oppenheimer
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/10d3cdaf-ba86-3c58-9d96-f941e19b84fc.jpeg" group-title="▶ HBO MAX", Oppenheimer
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=dd44def9-a33d-4c8d-8edc-a76e331f33e7
 https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=dd44def9-a33d-4c8d-8edc-a76e331f33e7&sub=t7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/569ca38f-c39b-3e22-b5c1-1c667bcf5df5.jpeg" group-title="▶ HBO MAX", Action-Interstellar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/569ca38f-c39b-3e22-b5c1-1c667bcf5df5.jpeg" group-title="▶ HBO MAX", Interstellar
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=5b100055-dd54-47b7-a965-f7e8a64d620d
@@ -13613,6 +13756,10 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=5
 #================first=============================
 ###template
 #####EXTINF:-1 tvg-id="" tvg-name="First" group-title="▶ VOD MALAY" group-logo="" tvg-logo=""
+
+#EXTINF:-1 tvg-id="" tvg-name="First" group-title="▶ VOD MALAY" group-logo="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raV1u6RqNq1TIkHQbFRlfNEYvtp.jpg", 5 Bomoh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://ptv2026.com/okayru.mpd?id=16132304341711
 
 #EXTINF:-1 tvg-id="" tvg-name="First" group-title="▶ VOD MALAY" group-logo="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fCCZlanV8DMGhz9vGKIqYVPHaG.jpg", Malaikat Malam (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -14286,6 +14433,12 @@ https://ptv2026.com/xtro_vod2.mpd?username=vip_level7&password=vip_level7&channe
 
 
 ###########zee5 Sonyliv ######################
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD ZEE5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_avif,q_auto:eco/resources/0-0-1z51027985/portrait/1920x7703338c115ebdb41b097077b9f7b137f2f3a283e7ad73b43cdacd649a61120acb2dedb71eff8d84410bb8eb140fd943bc5.jpg", Jana Nayagan
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d976d25f89d34a448ef583d846d59164:77ecdc7511dd283c974c23a8848cad82
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://ptv2026.com/zee.mpd?content_id=0-0-1z51027985
 
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD ZEE5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5959528/portrait/1920x7703dd1548307df4d8a9027e86bfe9f58dd545cd7159b9b4f8ab9e69f41b4b486c2.jpg", 954-Neelira
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -15114,19 +15267,6 @@ https://ptv2026.com/get_tonton2.m3u8?username=vip_level7&password=vip_level7&epi
 
 #EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://ptv2026.com/logo/awesome.png" group-title="MALAYSIA", Awesome
 http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
-#EXTINF:-1 tvg-id="" tvg-name="149 Galaxy Premium" tvg-logo="https://ptv2026.com/logo/galaxypremium.png" group-title="MOVIES", Galaxy Premium
-#http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2695.ts?channel=galaxypremium
-##EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://ptv2026.com/logo/galaxy.png" group-title="MOVIES",148 Galaxy
-##http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2694.ts?channel=galaxy
-#EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://ptv2026.com/logo/starmovies.png" group-title="MOVIES", Star Movies
-#http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2687.ts?channel=starmovies
-https://load.ptv2026.com/rwt.m3u8?username=vip_level7&password=vip_level7&channel=starmovies
-#EXTINF:-1 tvg-id="" tvg-name="153 Star Movies Select" tvg-logo="https://ptv2026.com/logo/starmoviesselect.png" group-title="MOVIES", Star Movies Select
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/4602.ts?channel=starmovieselect
-#EXTINF:-1 tvg-id="" tvg-name="151 &Prive" tvg-logo="https://ptv2026.com/logo/privehd.png" group-title="MOVIES", &Prive
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2686.ts?channel=privehd
-#EXTINF:-1 tvg-id="" tvg-name="150 &flix" tvg-logo="https://ptv2026.com/logo/flixhd.png" group-title="MOVIES", &flix
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2685.ts?channel=flixhd
 #EXTINF:-1 tvg-id="" tvg-name="974-Mr Vampire Saga 4 (1988)" tvg-logo="http://pic0.iqiyipic.com/image/20200908/44/a7/v_143053444_m_601_zh-CN_m1_720_405.jpg" group-title="▶ VOD iQiyi",974-Mr Vampire Saga 4 (1988)
 https://ptv2026.com:443/movie/vip_3klp0es8/wg3piwEs/2645.mkv
 #EXTINF:-1 tvg-id="" tvg-name="973-Mr. Vampire (1985)" tvg-logo="http://pic4.iqiyipic.com/image/20200908/f5/7c/v_140319420_m_601_zh-CN_m1_720_405.jpg" group-title="▶ VOD iQiyi",973-Mr. Vampire (1985)
