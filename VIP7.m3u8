@@ -152,67 +152,68 @@ https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab3362
 
 #======indonesia====
 
+
 #EXTINF:-1 tvg-id="rcti" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="INDONESIA",RCTI
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=rcti
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=fe760e0bb92e4c9a877f6766666de9d3:30b469ec988ae70fed1221a60075c75e
-https://ptv2026.com/vision_live.mpd?channel=rcti&kid=fe760e0bb92e4c9a877f6766666de9d3
+https://ptv2026.com/get_vision.mpd?contentId=rcti
 
 #EXTINF:-1 tvg-id="mnctv" tvg-name="E02" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="INDONESIA",MNCTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=mnctv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=814760ab6e1740f1851e0a47c1256fb3:9deef35b5ff1953e390cbbaa1ff5497a
-https://ptv2026.com/vision_live.mpd?channel=mnctv&kid=814760ab6e1740f1851e0a47c1256fb3
+https://ptv2026.com/get_vision.mpd?contentId=mnctv
 
 #EXTINF:-1 tvg-id="gtv" tvg-name="E03" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="INDONESIA",GTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=gtv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=44939fb2fb3d40b8aa8f4e6c19048570:76d792be938e9758c5779623c6f6e70a
-https://ptv2026.com/vision_live.mpd?channel=gtv&kid=44939fb2fb3d40b8aa8f4e6c19048570
+https://ptv2026.com/get_vision.mpd?contentId=gtv
 
 #EXTINF:-1 tvg-id="transtv" tvg-name="E04" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="INDONESIA",TRANSTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=transtv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=b66cbb20a960406794b63475da0f910f:f1a85e90405b67710b2259023829d45a
-https://ptv2026.com/vision_live.mpd?channel=transtv&kid=b66cbb20a960406794b63475da0f910f
+https://ptv2026.com/get_vision.mpd?contentId=trasntv
 
 #EXTINF:-1 tvg-id="trans7" tvg-name="E05" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="INDONESIA",TRANS7
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=trans7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=a90b8826a8de423f865a675df08bb65e:cbf663076d20e047913c0d2e2c76ccc6
-https://ptv2026.com/vision_live.mpd?channel=trans7&kid=a90b8826a8de423f865a675df08bb65e
+https://ptv2026.com/get_vision.mpd?contentId=trans7
 
 #EXTINF:-1 tvg-id="sctv" tvg-name="E06" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png" group-title="INDONESIA",SCTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=sctv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=3fb2fbc52afc4aa89983c156fdc2b667:eb31156fc4ccf33798227a6aa8ee1f35
-https://ptv2026.com/vision_live.mpd?channel=sctv&kid=3fb2fbc52afc4aa89983c156fdc2b667
+https://ptv2026.com/get_vision.mpd?contentId=sctv
 
 #EXTINF:-1 tvg-id="indosiar" tvg-name="E07" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png" group-title="INDONESIA",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=indosiar
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=e07593c45ef04cb1bdc05f3448e3e9ed:57bf27ae01dbd5180bb42e3b991542d4
-https://ptv2026.com/vision_live.mpd?channel=indosiar&kid=e07593c45ef04cb1bdc05f3448e3e9ed
+https://ptv2026.com/get_vision.mpd?contentId=indosiar
 
 
 #EXTINF:-1 tvg-id="tvone" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="INDONESIA",TVONE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=tvone
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=8a84bd9dbea34d01aad57ad792d71d6c:8203386ca20d0f3581a9ae7237c3aec7
-https://ptv2026.com/vision_live.mpd?channel=tvone&kid=8a84bd9dbea34d01aad57ad792d71d6c
+https://ptv2026.com/get_vision.mpd?contentId=tvone
 
 
 #EXTINF:-1 tvg-id="kompastv" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="INDONESIA",KOMPAS TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=kompastv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=d24e570bcdea4d978efe5df466e21940:5fef09e85ddca4e6f110ba77c8dd825c
-https://ptv2026.com/vision_live.mpd?channel=kompastv&kid=d24e570bcdea4d978efe5df466e21940
+https://ptv2026.com/get_vision.mpd?contentId=kompastv
 
 #EXTINF:-1 tvg-id="metrotv" tvg-name="E02" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="INDONESIA",METR0 TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=metrotv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=55813ea921aa4e8ba422a226ddb59803:d8bf1b1dc91fb67247ccbe8278162cd5
-https://ptv2026.com/vision_live.mpd?channel=metrotv&kid=55813ea921aa4e8ba422a226ddb59803
+https://ptv2026.com/get_vision.mpd?contentId=metrotv
 
 
 #EXTINF:-1 tvg-id="daaitv" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png" group-title="INDONESIA",DAAITV
@@ -222,16 +223,17 @@ https://ptv2026.com/vision_live.mpd?channel=metrotv&kid=55813ea921aa4e8ba422a226
 https://ptv2026.com/vision_live.mpd?channel=daaitv&kid=b2fdc5d5def7460a8dfb78492b66dd4f
 
 #EXTINF:-1 tvg-id="moji" tvg-name="E02" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png" group-title="INDONESIA",MOJI
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=moji
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=56048f5188dd406fa4369d8585d92582:b40e294733e825ed597059b328c602c0
-https://ptv2026.com/vision_live.mpd?channel=moji&kid=56048f5188dd406fa4369d8585d92582
+https://ptv2026.com/get_vision.mpd?contentId=moji
 
 #EXTINF:-1 tvg-id="mdtv" tvg-name="E03" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png" group-title="INDONESIA",MDTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=mdtv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=0bdfdae203674ad585b4f3799821a39d:f359a87ad7a30390049a72c34f5298b2
-https://ptv2026.com/vision_live.mpd?channel=mdtv&kid=0bdfdae203674ad585b4f3799821a39d
+https://ptv2026.com/get_vision.mpd?contentId=mdtv
+
 
 
 #=====chinese======
@@ -330,7 +332,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #=======india=======
 
-
+#EXTINF:-1 tvg-id="241" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroThangathirai_2024.png" group-title="INDIAN",Thangathirai
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 #EXTINF:-1 group-logo="" group-title="INDIAN" tvg-id="117" tvg-logo="https://ptv2026.com/logo/zeecinema.png" , Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
@@ -462,7 +468,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 
 #EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="413" tvg-logo="https://ptv2026.com/logo/showcase.png" , Showcase Movies 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 #https://ptv2026.com/astro_10802.mpd?username=vip_level7&password=vip_level7&channel=showcase
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
@@ -640,10 +645,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
 #=====knowlegde==========
 
-#EXTINF:-1 group-logo="" group-title="KNOWLEDGE"  tvg-id="DMAX" tvg-logo="https://ptv2026.com/logo/dmax.png", DMAX HD 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://ptv2026.com/dashVision.mpd?username=vip_level7&password=vip_level7&channel=dmax|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##EXTINF:-1 group-logo="" group-title="KNOWLEDGE"  tvg-id="DMAX" tvg-logo="https://ptv2026.com/logo/dmax.png", DMAX HD 
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+#https://ptv2026.com/dashVision.mpd?username=vip_level7&password=vip_level7&channel=dmax|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-logo="" tvg-id="555" group-title="KNOWLEDGE" tvg-logo="https://ptv2026.com/logo/history.png", History HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -689,6 +694,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 
 #=====kids=========
 
+#EXTINF:-1 tvg-id="618" tvg-name"Moonbug Kids" group-title="KIDS" tvg-logo="https://ptv2026.com/logo/moonbug.png" , Moonbug
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 
 #EXTINF:-1 tvg-id="animax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=330" group-title="KIDS",Animax HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -696,22 +707,15 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
 https://ptv2026.com/myunifi.mpd?username=vip_level7&password=vip_level7&channel=Animax&kid=4bd30e54-5711-44eb-9168-a1a7e5915f75
 
-#EXTINF:-1 tvg-id="AniPlus" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20200822104703" group-title="KIDS",AniPlus
+#EXTINF:-1 tvg-id="120" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20200822104703" group-title="KIDS",AniPlus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/AniPlus/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=e9cc552a8a2d46ab05c827b6f3a59b10:ea5f1c775483efae21247b5c48263735
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="dreamworks" ch-number="555" tvg-logo="https://ptv2026.com/logo/dreamworks2.png" group-logo="", Dreamworks
+#EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="dreamworkshd" ch-number="555" tvg-logo="https://ptv2026.com/logo/dreamworks2.png" group-logo="", Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
 https://ptv2026.com/myunifi.mpd?username=vip_level7&password=vip_level7&channel=Dreamworks&kid=e8ce35ed-8bc3-4772-abed-d63383aa11b7
-
-#EXTINF:-1 tvg-id="618" tvg-name"Moonbug Kids" group-title="KIDS" tvg-logo="https://ptv2026.com/logo/moonbug.png" , Moonbug
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 
 #EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="616" tvg-logo="https://ptv2026.com/logo/nickelodeon.png" group-logo="" , Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -731,10 +735,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd?chan
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="620.astro" tvg-logo="https://ptv2026.com/logo/cbeebies.png", CBeebies   
+#EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="Cbeebies" tvg-logo="https://ptv2026.com/logo/cbeebies.png", CBeebies   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="619" tvg-logo="https://ptv2026.com/logo/blippi.png", Blippi and Friends   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -813,7 +817,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_level7&password=vip_level7&channel=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS FHD" tvg-logo="https://ptv2026.com/logo/mutv.png", MUTV
+#EXTINF:-1 tvg-id="mutv" tvg-name="" group-title="SPORTS FHD" tvg-logo="https://ptv2026.com/logo/mutv.png", MUTV
 https://ptv2026.com/mutv.mpd
 
 
@@ -894,6 +898,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 
+#EXTINF:-1 tvg-id="819" tvg-name="Tennis" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroTennis.png" group-title="SPORTS FHD",Tennis
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=9e5ed3d8667b8722424add3417525f10:9612322dfc5750a0f5b0d686661ef82e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_ott.mpd
+
 #EXTINF:-1 tvg-id="beinsports" tvg-name="" group-title="SPORTS FHD" tvg-logo="https://ptv2026.com/logo/bein1fhd.png", Bein FHD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -961,6 +971,11 @@ https://ptv2026.com/dash2.mpd?username=vip_level7&password=vip_level7&channel=go
 #KODIPROP:inputstream.adaptive.license_key=e35dc3fb8d20bf4e57df2101b6eec782:840171ea994e02a22f0b5c889ce197ec
 https://ptv2026.com/vidio_live.mpd?username=vip_level7&password=vip_level7&id=6717
 
+#EXTINF:-1 tvg-id="832" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cricbuzz.png" group-title="SPORTS FHD",Cricbuzz
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #EXTINF:-1 group-logo="" group-title="SPORTS FHD" tvg-id="833" tvg-logo="https://ptv2026.com/logo/premiersports.png" group-logo="", Premier Sport
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1070,6 +1085,21 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a5dc23f511f7326cce1544e7f65fe910:1e67e4a01047ea881ab8fa48b6b55f5b
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/5d06eb98-b1a5-5d24-8347-8e37bd256814/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep21" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep21
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0fe7350ef0074d9b821b1123f52a8b10:b07a30270d358fe16240ee5fd1d3648b
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/8f5418da-3192-549c-8c0e-5fa093dac424/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep22" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep22
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=99acbb556957947593c83c9b68bc7210:7734942a45eac0baea2c41de48d3ac49
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/f97dbe66-f59e-57c2-afe2-d4baa4586ee3/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep23" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep23
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6168c52f0178c5132384f42bf6bcae10:fdec9afa513124806f0cd657674d1ef7
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/594dce61-e3a8-53d4-99ff-5ab6d388a276/default_ott.mpd
 
 
 ##### Kasih Yang Terkorban ####
@@ -1250,6 +1280,21 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c8ac2ae85c0c8cdb9f9782637d84ab10:af816b5541a0294625ceb5d6563f7d7f
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b12ab592-37d8-5f08-97e9-0d233e494ec5/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep36" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=34b89f029f96cea8d31a55b1a36e3a10:931a0591ff638f2b8574335062a85887
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/96691fe3-83f8-5e02-a470-dd6d29e6619b/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep37" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep37
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b05218ce580d17ebcfb9af0def098510:72947057a3dd149608022d64990e5936
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c339429f-1a38-5a73-9d9a-3266794f84da/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep38" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep38
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b454a043ab4ef5ef6ac3c5d719c78b10:689bd749b86e0ba7ea6cda7794d370e1
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/3256c5df-2931-559d-9096-6bf77b8457bb/default_ott.mpd
 
 
 
@@ -1513,6 +1558,11 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=9cf2bbe73715d445ded9132969696010:471ee86a2011fb535a86edb9c26b186f
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/2cc94804-9a06-5318-9759-35da4be50d8e/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Jutawan Ekspres 2 Ep07" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPNt5KlPUVwHu6FU8_dzXIU7MCuJBf-tnfW3T-GEhF1Ny76xx_dfhDIrRh1wiE4JA_mAFJQAfDx0C7QApZc_PCS9uLDYg02RQQvUlIL9lzJkBJa9-QMkPi82PjBVtSZ9MHyHCzordR8wCWUeWkmfGHi2PW0tDmmF_6o0EB2eqrscs_82JQjMzN4gPGiAix/s1600/Jutawan%20Ekspres%202.jpg" group-title="● Malay Series | Jutawan Express 2",Jutawan Ekspres 2 Ep07
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=cc08fc3932fd7447ee41b03dabf02610:c6ddbd113a14fd7dbd79259bc64204e3
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/396bf282-d4cc-5609-b799-283fae2287fb/default_ott.mpd
 
 
 #####  Good Boys Go To Heaven ####
@@ -13756,6 +13806,12 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=5
 #================first=============================
 ###template
 #####EXTINF:-1 tvg-id="" tvg-name="First" group-title="▶ VOD MALAY" group-logo="" tvg-logo=""
+
+#EXTINF:-1 tvg-id="" tvg-name="Dear Amma" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYOIX_p_IVP_PORT_390x585_96668_2026825_105024.jpg" group-title="▶ VOD MALAY",Dear Amma
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=02677bd0fc541cc97b36cd8dfba47910:9710f1bb6a2a139a302de73a7f4073fb
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/21613997-9fa9-50b0-b1e2-d50c066c2197/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="First" group-title="▶ VOD MALAY" group-logo="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raV1u6RqNq1TIkHQbFRlfNEYvtp.jpg", 5 Bomoh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
