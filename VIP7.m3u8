@@ -175,7 +175,7 @@ https://ptv2026.com/get_vision.mpd?contentId=gtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=transtv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ptv2026.com/get_vision.mpd?contentId=trasntv
+https://ptv2026.com/get_vision.mpd?contentId=transtv
 
 #EXTINF:-1 tvg-id="trans7" tvg-name="E05" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="INDONESIA",TRANS7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -982,6 +982,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 https://ptv2026.com/dash2.mpd?username=vip_level7&password=vip_level7&channel=premiersport
 
+
+#### KUDRAT 1968 ###
+
+#EXTINF:-1 tvg-id="" tvg-name="KUDRAT 1968: High Council Ep01" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYCVO_series_p_IVP_PORT_390x585_9717B_202699_11317.jpg" group-title="● Malay Series | KUDRAT 1968: High Council", Ep01
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a72d9eda70c2d740e9bb3361397f3a10:6da5048080aa936b05bf1fca92b18687
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/075a4eef-5f1a-5ebf-a452-bfa51c60b921/default_ott.mpd
+
+
+
 #### Bulan Henti Bicara ###
 
 
@@ -1100,6 +1111,31 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6168c52f0178c5132384f42bf6bcae10:fdec9afa513124806f0cd657674d1ef7
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/594dce61-e3a8-53d4-99ff-5ab6d388a276/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep24" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ff3cbadc6f354a78ee02dbb808925710:b7acb39c668ee5ee70803c2c263db51a
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/be2adb29-fb64-5814-b870-f02c81bc3f16/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep25" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep25
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a8182b960e79e476c065fee9f762ca10:0e4c805414856404b22f96c2574d490e
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/255a3503-c57c-5799-8f35-f9a565f8b895/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep26" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep26
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=fabd48c7ffb9679618d77c2a48e9a510:6c39588d07d9818e1f264b66b363952b
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ce92f061-e07b-5313-a024-a1b75e01328b/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep27" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep27
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=bbbbdd77817d34bbf6ca0668807ac010:b2f962de3ef9017509eeea164d981ed1
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/8e6fc015-54f4-5d8f-8961-d913f9603da6/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bulan Henti Bicara Ep28" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWOLD_series_p_IVP_PORT_390x585_94EA0_2026724_16538.jpg" group-title="● Malay Series | Bulan Henti Bicara",Bulan Henti Bicara Ep28
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=906a76b5216e02a3d2cb4a5eff20e410:db49b8ec4d635519dee4e87b828dd522
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/68d466e7-bbfb-5dcc-ab99-f4b3de011906/default_ott.mpd
 
 
 ##### Kasih Yang Terkorban ####
@@ -1295,6 +1331,36 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b454a043ab4ef5ef6ac3c5d719c78b10:689bd749b86e0ba7ea6cda7794d370e1
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/3256c5df-2931-559d-9096-6bf77b8457bb/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep39" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep39
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b3dcc1cf3d56cd6d88c4a95233704910:03571e40ba918b373de8eb9e5081d383
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/53df60a7-26fa-516c-aa3c-b0b37533080f/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep40" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep40
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=32472ce21e00caec93608aa250084910:5fc5cd7b37f090f44ceb9f5da1ffe1b6
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/2cda425d-74bb-5c9b-8951-5f25082db8ac/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep41" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep41
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a7fd638e286f8cd4e4e311ad1dc7aa10:8f53f5d172e7a6b6605e5b850836027e
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/002abb62-2bdf-586c-bfdc-5c50a7312a08/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep42" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep42
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=5a176a45f47c90375726a0afb17a8c10:f0b89e786e7b83eb21de5cc940e06c6c
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/dfcd99ce-1b2f-5c0b-9ffe-8477cf92edb4/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep43" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep43
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=3a89b0257261d144ed5b60b4199ca910:d2a83d539000bc9a409b5b731a63bec4
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c062571a-dd89-5b0c-b5f2-dae3040a8811/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep44" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep44
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=dc261f4fbaf4c083ba7435ca1169d210:3d006c284c9f5001f46749609e82eedf
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/7b54bdd1-6122-54ae-b9f9-b9f621440220/default_ott.mpd
 
 
 
@@ -1563,6 +1629,11 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cc08fc3932fd7447ee41b03dabf02610:c6ddbd113a14fd7dbd79259bc64204e3
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/396bf282-d4cc-5609-b799-283fae2287fb/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Jutawan Ekspres 2 Ep08" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPNt5KlPUVwHu6FU8_dzXIU7MCuJBf-tnfW3T-GEhF1Ny76xx_dfhDIrRh1wiE4JA_mAFJQAfDx0C7QApZc_PCS9uLDYg02RQQvUlIL9lzJkBJa9-QMkPi82PjBVtSZ9MHyHCzordR8wCWUeWkmfGHi2PW0tDmmF_6o0EB2eqrscs_82JQjMzN4gPGiAix/s1600/Jutawan%20Ekspres%202.jpg" group-title="● Malay Series | Jutawan Express 2",Jutawan Ekspres 2 Ep08
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7c264a45abcae4dba453c1d2930ecf10:470953b2563fb66144f5dd2696ab3016
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b7f980d4-6e29-5d76-973c-e0594a2cc9aa/default_ott.mpd
 
 
 #####  Good Boys Go To Heaven ####
@@ -7036,6 +7107,11 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b8eb8aa9925e5da9b9ba57ae10729710:e6fe27872b1d39c82d4ccb65d8fc0f86
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/da739132-7099-554c-b6dc-0051a0721ad8/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kilauan Emas Selebriti Ep03" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYKIX_series_p_IVP_PORT_390x585_95CD8_2026811_14104.jpg" group-title="● Malay Variety | Kilauan Emas Selebriti",Kilauan Emas Selebriti Ep03
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=82ed7ff2be9a002faa1a1e8f6b44c210:a0d7713e612d20fe2e11693ca3bebcc6
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/bb62baf4-6fde-56eb-a743-08565d2a9993/default_ott.mpd
 
 
 ## Big Stage S5 ###
@@ -13806,6 +13882,18 @@ https://ptv2026.com/get_max.mpd?username=vip_level7&password=vip_level7&editId=5
 #================first=============================
 ###template
 #####EXTINF:-1 tvg-id="" tvg-name="First" group-title="▶ VOD MALAY" group-logo="" tvg-logo=""
+
+#EXTINF:-1 tvg-id="" tvg-name="Gitu Gitu Apek Return" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYJGI_p_IVP_PORT_390x585_96795_2026830_65452.jpg" group-title="▶ VOD MALAY",Gitu Gitu Apek Return
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e28aeaba9df0ef44ef810ffb6d481710:5f843b886f3dde4dbe43e397d81830c1
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/431180f0-9732-544f-b819-efc06c3d4342/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Bapak Aku Lost His Mind" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYPUQ_series_p_IVP_PORT_390x585_96ECE_202694_173924.jpg" group-title="▶ VOD MALAY",Bapak Aku Lost His Mind
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=3bd534b4f6956de5bacf9f431d43cd10:d1b9a2b9dc26cbfabc37ba2f8fe0d0ef
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/acd2a2c4-e1e4-5b13-8f10-e9785af832f6/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Dear Amma" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYOIX_p_IVP_PORT_390x585_96668_2026825_105024.jpg" group-title="▶ VOD MALAY",Dear Amma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
